@@ -1,0 +1,28 @@
+(ROOT
+  (S (CC And)
+    (NP (PRP I))
+    (VP (VBP am)
+      (VP (VBG gon)
+        (S
+          (VP (TO na)
+            (VP (VB go)
+              (PRT (RP forward))
+              (PP (IN with)
+                (NP (DT this)))
+              (: ...)
+              (SBAR (IN because)
+                (S
+                  (NP (PRP I))
+                  (VP (VBP know)
+                    (SBAR
+                      (S
+                        (NP (PRP I))
+                        (VP (VBD had)
+                          (NP (NN nothing)
+                            (S
+                              (VP (TO to)
+                                (VP (VB do)
+                                  (PP (IN with)
+                                    (NP (DT this) (NN crime))))))))))))))))))
+    (. .)))
+

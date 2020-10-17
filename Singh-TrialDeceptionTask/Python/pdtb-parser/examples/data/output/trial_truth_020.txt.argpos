@@ -1,0 +1,4 @@
+conn:until conn_POS:IN prev1:freedom prev1_POS:NN with_prev1_full:freedom_until with_prev1_POS_full:NN_IN prev2:the prev2_POS:DT with_prev2_full:the_until with_prev2_POS_full:DT_IN NA
+conn:and conn_POS:CC prev1:gone prev1_POS:VBN with_prev1_full:gone_and with_prev1_POS_full:VBN_CC prev2:'s prev2_POS:VBZ with_prev2_full:'s_and with_prev2_POS_full:VBZ_CC NA
+conn:then conn_POS:RB prev1:and prev1_POS:CC with_prev1_full:and_then with_prev1_POS_full:CC_RB prev2:gone prev2_POS:VBN with_prev2_full:gone_then with_prev2_POS_full:VBN_RB NA
+conn:when conn_POS:WRB prev1:then prev1_POS:RB with_prev1_full:then_when with_prev1_POS_full:RB_WRB prev2:and prev2_POS:CC with_prev2_full:and_when with_prev2_POS_full:CC_WRB NA

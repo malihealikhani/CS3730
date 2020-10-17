@@ -1,0 +1,45 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Attribution[N][S]
+      (Joint[N][N]
+        (Attribution[S][N]
+          _!I do n't know!_
+          _!how much we can relate to Elie!_)
+        (Attribution[S][N]
+          _!and I do n't know!_
+          (Explanation[N][S]
+            _!if that 's what we should do ,!_
+            (Joint[N][N]
+              _!because by watching him!_
+              (Attribution[S][N]
+                _!and seeing!_
+                _!what he goes through ,!_)))))
+      (Attribution[S][N]
+        _!I think!_
+        _!that 's what the author 's purpose was . <s>!_))
+    (Explanation[N][S]
+      (Cause[S][N]
+        _!So we do n't relate ,!_
+        _!so we do n't have to relate . <s>!_)
+      (Attribution[S][N]
+        _!It 's!_
+        (Attribution[S][N] _!so we know!_ _!what happened . <s>!_))))
+  (Attribution[S][N]
+    (same-unit[N][N]
+      (Elaboration[N][S]
+        _!I was just going to say ,!_
+        _!going off of Student 27 and Student 5 ,!_)
+      _!if you puts yourself in the situation ,!_)
+    (Contrast[S][N]
+      (Attribution[S][N]
+        _!it 's more understandable!_
+        (Explanation[N][S]
+          _!why he 'd lose belief!_
+          (Attribution[S][N]
+            _!because he 'd!_
+            _!been treated poorly for so long ,!_)))
+      (Explanation[N][S]
+        _!but it was so hard!_
+        (Joint[N][N]
+          _!for him to still believe!_
+          _!and have faith and hope . <P>!_)))))

@@ -1,0 +1,17 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Joint[N][N]
+      (Joint[N][N]
+        _!We were married for two years ,!_
+        (Background[N][S]
+          _!and um , we divorced!_
+          _!when she was about 10 months old . <s>!_))
+      (Joint[N][N]
+        _!And basically , we were just too young!_
+        _!and did n't know what marriage was supposed to be about . <s>!_))
+    (Attribution[S][N]
+      _!And so , you know , just , I knew!_
+      _!that I wanted to go to school . <s>!_))
+  (Elaboration[N][S]
+    _!He was very jealous . <s>!_
+    _!Um , he really did n't want me to work or go to school , or even go to the grocery store . <P>!_))

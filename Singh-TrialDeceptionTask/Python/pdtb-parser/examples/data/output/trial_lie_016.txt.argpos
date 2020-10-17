@@ -1,0 +1,8 @@
+conn:and conn_POS:CC prev1:up prev1_POS:RP with_prev1_full:up_and with_prev1_POS_full:RP_CC prev2:it prev2_POS:PRP with_prev2_full:it_and with_prev2_POS_full:PRP_CC NA
+conn:when conn_POS:WRB prev1:and prev1_POS:CC with_prev1_full:and_when with_prev1_POS_full:CC_WRB prev2:up prev2_POS:RP with_prev2_full:up_when with_prev2_POS_full:RP_WRB NA
+conn:so_that conn_POS:IN_DT prev1:, prev1_POS:, with_prev1_full:,_so_that with_prev1_POS_full:,_IN_DT prev2:transaction prev2_POS:NN with_prev2_full:transaction_so_that with_prev2_POS_full:NN_IN_DT NA
+conn:if..then conn_POS:IN_RB NA
+conn:so conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_so with_prev1_POS_full:,_IN prev2:ground prev2_POS:NN with_prev2_full:ground_so with_prev2_POS_full:NN_IN NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:up prev2_POS:RP with_prev2_full:up_and with_prev2_POS_full:RP_CC NA
+conn:so_that conn_POS:IN_DT prev1:, prev1_POS:, with_prev1_full:,_so_that with_prev1_POS_full:,_IN_DT prev2:transaction prev2_POS:NN with_prev2_full:transaction_so_that with_prev2_POS_full:NN_IN_DT NA
+conn:and conn_POS:CC prev1:one prev1_POS:CD with_prev1_full:one_and with_prev1_POS_full:CD_CC prev2:than prev2_POS:IN with_prev2_full:than_and with_prev2_POS_full:IN_CC NA

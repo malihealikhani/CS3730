@@ -1,0 +1,146 @@
+(ROOT
+  (S (: ...)
+    (NP
+      (NP (NN um) (NN person))
+      (PP (IN in)
+        (NP (DT the) (NN congregation))))
+    (VP (VBD was)
+      (VP (VBN involved)
+        (PP (IN in)
+          (NP
+            (NP (NNS activities))
+            (PP (IN like)
+              (NP (DT that)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS elders))
+    (VP (MD would)
+      (VP
+        (VP (VB sit)
+          (PRT (RP down))
+          (PP (IN with)
+            (NP (DT the) (NN individual))))
+        (CC and)
+        (VP (VB try)
+          (S
+            (VP (TO to)
+              (VP (VB determine)
+                (SBAR
+                  (WHNP (WP what))
+                  (S
+                    (VP (VBZ 's)
+                      (VP (VBG going)
+                        (PRT (RP on))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN objective))
+      (VP (VBZ is)
+        (SBAR (IN as)
+          (S
+            (NP (NNP Jesus))
+            (VP (VBD said) (, ,)
+              (S
+                (VP (VBG \)
+                  (SBAR (IN if)
+                    (S
+                      (NP (PRP you))
+                      (VP (VBP have)
+                        (NP (DT a) (CD hundred) (NN sheep))))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP one))
+      (VP
+        (VP (VBZ 's)
+          (VP (VBN lost)))
+        (, ,)
+        (VP (VBP leave)
+          (NP (DT the) (NN ninety-nine)))
+        (CC and)
+        (VP (VBP go)
+          (VP (VB find)
+            (NP (DT the) (CD one) (NNS \) ('' ''))))))
+    (. .)))
+
+(ROOT
+  (S (IN So)
+    (NP (DT the) (NN objective))
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP (VB help)
+            (NP (DT that) (NN individual))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Whether)
+      (S
+        (NP (PRP it))
+        (VP (VBZ 's)
+          (S
+            (VP (TO to)
+              (VP (VB er)))))))
+    (, ,)
+    (VP
+      (VP (VB er) (, ,)
+        (S
+          (VP (VBG worshiping)
+            (NP (NN er) (, ,) (NN someone)
+              (CC or)
+              (NN anything))
+            (PP (IN like)
+              (NP (DT that))))))
+      (CC or)
+      (VP (VB celebrate)
+        (NP
+          (NP
+            (NP (NNP Christmas))
+            (CC or)
+            (NP (NN fornication)))
+          (CC or)
+          (SBAR
+            (WHNP (WDT whatever))
+            (S
+              (NP (PRP it))
+              (VP (VBZ happens)
+                (S
+                  (VP (TO to)
+                    (VP (VB be))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN elder))
+    (VP (MD would)
+      (VP (VB mate)
+        (PP (IN with)
+          (NP
+            (NP (DT the) (NN individual))
+            (VP (VBN based)
+              (PP (IN on)
+                (NP
+                  (NP
+                    (NP (NN person) (POS 's))
+                    (NN um) (NN attitude))
+                  (SBAR
+                    (WHPP (IN at)
+                      (WHNP (WDT that)))
+                    (S
+                      (NP (NN time))
+                      (VP (MD will)
+                        (VP (VB have)
+                          (NP (JJ direct) (NN relevance))
+                          (PP (TO to)
+                            (SBAR
+                              (WHNP (WP what))
+                              (S
+                                (NP (PRP they))
+                                (VP (VBP do))))))))))))))))
+    (. .) ('' '')))
+

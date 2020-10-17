@@ -1,0 +1,19 @@
+(Contrast[N][N]
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      _!All of us ,!_
+      _!who have represented people for years in the system get letters from prisioners um ... and their families . <s>!_)
+    (same-unit[N][N]
+      (Elaboration[N][S]
+        _!You know ,!_
+        _!this person is improperly convicted ,!_)
+      _!you need to do something about it . <s>!_))
+  (same-unit[N][N]
+    _!But ,!_
+    (same-unit[N][N]
+      (Elaboration[N][S]
+        _!its no one else 's job!_
+        _!to do it , other than the inocence project ...!_)
+      (Attribution[S][N]
+        _!and they do it ,!_
+        _!they do itelse marvelously . <P>!_))))

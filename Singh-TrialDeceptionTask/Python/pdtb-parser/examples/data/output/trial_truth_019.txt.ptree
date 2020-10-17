@@ -1,0 +1,31 @@
+(ROOT
+  (SINV
+    (VP (VBN Served)
+      (PP
+        (NP (CD twelve) (NNS years))
+        (IN in)
+        (NP
+          (NP (DT the) (NNP Texas) (NN prison))
+          (PP (IN on)
+            (NP (DT a) (NN life) (NN sentence)))
+          (SBAR (IN before)
+            (S
+              (NP (PRP I))
+              (VP (VBD was)
+                (NP (NN ammm)))))
+          (: ...))))
+    (VP (VBD exonerated)
+      (PP
+        (PP (IN through)
+          (NP (NN DNA) (NN evidence)))
+        (CC and)
+        (PP (IN through)
+          (NP (DT the) (JJ real) (NN perpetrator)))))
+    (NP
+      (NP (PRP 's))
+      (, ,)
+      (NP
+        (NP (DT the) (JJ real) (NN murderer) (POS 's))
+        (NN confession)))
+    (. .)))
+

@@ -1,0 +1,23 @@
+(Elaboration[N][S]
+  _!Woke up to a lot of pain and lot of pressure and sound of somebody moaning . <s>!_
+  (Joint[N][N]
+    (Attribution[S][N] _!And quickly realized!_ _!it was Bo . <s>!_)
+    (Joint[N][N]
+      (Joint[N][N]
+        _!And then I just shut my eyes!_
+        _!and laid there . <s>!_)
+      (Joint[N][N]
+        (Attribution[S][N]
+          _!And that was!_
+          (Elaboration[N][S]
+            _!I do n't even think a decision!_
+            _!that I consciously made . <s>!_))
+        (Joint[N][N]
+          (Attribution[S][N]
+            _!And I waited!_
+            _!until he was done . <s>!_)
+          (Joint[N][N]
+            (Attribution[S][N] _!And ...!_ _!he got up!_)
+            (Joint[N][N]
+              _!and he literally picked up a blanket!_
+              _!and threw it on me . <P>!_)))))))

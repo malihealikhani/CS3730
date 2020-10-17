@@ -1,0 +1,99 @@
+(ROOT
+  (S
+    (S
+      (S
+        (ADVP (RB Right)
+          (SBAR (IN after)
+            (S
+              (NP (DT the) (NN shot))
+              (VP (VBD occurred) (, ,)
+                (ADVP (RB um))))))
+        (, ,)
+        (NP (PRP we))
+        (VP (VBD had)
+          (VP (VBN fallen)
+            (PRT (RP over))
+            (PP (IN in)
+              (NP (DT the) (NN bathroom)))
+            (ADVP (RB again))
+            (PP (IN toward)
+              (NP
+                (NP (DT the) (NN sink))
+                (, ,)
+                (NP (DT the) (NN sink))
+                (CC and)
+                (NP (NN garbage) (NN can) (NN area))))
+            (, ,)
+            (PP
+              (ADVP (NN kind))
+              (IN of) (IN in)
+              (NP (DT the) (NN corner))))))
+      (, ,)
+      (CC and)
+      (RB so)
+      (S
+        (NP (PRP he))
+        (VP (VBD did) (RB n't)
+          (VP (VB chase)
+            (NP (PRP me))
+            (PP (IN in)
+              (NP (DT that) (NN moment)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT that))
+      (VP (VBZ 's)
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (PRP we))
+            (VP (VBD struggled)
+              (PP (IN on)
+                (NP (DT the) (NN floor))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (SBAR
+      (ADVP (RB again) (RB as) (RB soon))
+      (IN as)
+      (S
+        (NP (PRP I))
+        (VP (VBD broke)
+          (PRT (RP away)))))
+    (PRN (, ,)
+      (S
+        (NP (PRP he))
+        (VP (VBD said)
+          (SBAR
+            (S
+              (NP (NNP \) (NNP F'ing))
+              (VP (VBP kill)
+                (S
+                  (NP (PRP you))
+                  (NP (NNP Bitch) (NNP \))))))
+          ('' '')
+          (SBAR
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBP do) (RB n't)
+                  (VP (VB remember)
+                    (NP (DT a) (NN lot))
+                    (PP (IN after)
+                      (NP (DT that)))))))
+            (, ,)
+            (CC so)
+            (SBAR (IN whether)
+              (S
+                (NP (PRP he))
+                (VP (VBD chased)
+                  (NP (PRP me))))
+              (CC or)
+              (RB not)))))
+      (, ,))
+    (NP (PRP I))
+    (VP (MD could) (RB n't)
+      (VP (VB say)))
+    ('' '')))
+

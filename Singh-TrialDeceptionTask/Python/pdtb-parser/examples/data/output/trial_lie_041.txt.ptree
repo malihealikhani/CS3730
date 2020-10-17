@@ -1,0 +1,90 @@
+(ROOT
+  (S
+    (S
+      (VP (VB Remember)))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD withheld)
+      (NP (DT the) (NN evidence))
+      (PP (IN in)
+        (NP (DT this)
+          (ADJP (RB very) (JJ important))
+          (NN case)))
+      (SBAR (IN that)
+        (S
+          (NP (PRP we))
+          (VP (VBP want)
+            (S
+              (VP (TO to)
+                (VP (VB try)
+                  (S
+                    (VP (TO to)
+                      (VP (VB get)
+                        (PP
+                          (PP (TO to)
+                            (NP (DT the) (NN truth)))
+                          (CC and)
+                          (PP (TO to)
+                            (NP
+                              (NP (DT the) (NN bottom))
+                              (PP (IN of)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Well))
+    (SBAR
+      (WHNP (WP who))
+      (S
+        (VP (VBZ says)
+          (NP (PRP it))
+          (PP (RB not)
+            (NP (DT a) (JJ criminal) (NN investigation))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (NP
+        (NP (DT an) (NN investigation))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ is)
+              (ADJP (JJ undetermined)
+                (PP (IN at)
+                  (NP (DT this) (NN time)))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (ADVP (RB uh))
+    (NP (PRP we))
+    (VP (VBP 're)
+      (ADVP (RB just))
+      (RB not)
+      (ADJP (JJ prepared)
+        (S
+          (VP (TO to)
+            (VP (VB make)
+              (NP (DT any) (NNS assertions))
+              (ADVP (RB as)
+                (PP (TO to)
+                  (NP
+                    (INTJ (UH uh)))))
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (NP (DT the) (NN outcome))
+                  (VP (VBZ is)
+                    (VP (VBG going)
+                      (S
+                        (VP (TO to)
+                          (VP (VB be)
+                            (SBAR (IN until)
+                              (S
+                                (NP (PRP it))
+                                (VP (VBZ 's)
+                                  (NP (DT a) (JJ full)
+                                    (CC and)
+                                    (JJ thorough) (NN investigation)))))))))))))))))
+    (. .)))
+

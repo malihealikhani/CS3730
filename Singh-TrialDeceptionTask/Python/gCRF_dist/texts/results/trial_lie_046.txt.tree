@@ -1,0 +1,23 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Cause[N][S]
+      (Elaboration[N][S]
+        _!The first time I remember Mr. Miller!_
+        _!he was ...!_)
+      (same-unit[N][N]
+        (Elaboration[N][S]
+          _!having kinda like an argument with the officers!_
+          _!as we were moving the people out of the area toward the street ,!_)
+        _!so that they could uh block the uh sidewalk . <s>!_))
+    (Elaboration[N][S]
+      (Attribution[N][S]
+        _!And uh , he was being very aggressive with the officers ,!_
+        _!we did n't understand why . <s>!_)
+      (same-unit[N][N]
+        (Enablement[N][S]
+          _!We just needed everybody!_
+          _!to follow orders ,!_)
+        _!we just wanted everybody 's safety . <s>!_)))
+  (Attribution[S][N]
+    _!I mean!_
+    _!we just have to give the orders to step down to the street . <P>!_))

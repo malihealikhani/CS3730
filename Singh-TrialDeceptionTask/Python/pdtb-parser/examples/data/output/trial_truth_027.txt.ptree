@@ -1,0 +1,95 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (ADJP (JJ wonderful)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (, ,)
+    (PRN
+      (S
+        (NP (PRP I))
+        (VP (VBP mean))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD came)
+      (PP (IN from)
+        (NP (NNP Ukraine))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB always))
+    (VP (VBD dreamed)
+      (PP (IN of)
+        (NP
+          (NP (DT a) (NN family))
+          (PP (IN like)
+            (NP (DT the) (NNPS Belcanies)))))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP (VBD was)
+            (VP
+              (ADVP (RB first))
+              (VBN adopted))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN mom))
+    (VP (VBD was)
+      (ADJP (RB just) (JJ wonderful)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (SBAR
+        (WHADJP (RB exactly) (WP what))
+        (S
+          (NP (PRP I))
+          (VP (VBD dreamed)
+            (PP (IN of))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (RB Just) (JJ perfect))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD took)
+      (NP (JJ ballet)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD went)
+      (PP (TO to)
+        (NP (NN school))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (NP (DT a) (JJ wonderful) (NN family)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (ADJP (JJ perfect)))
+    (. .)))
+

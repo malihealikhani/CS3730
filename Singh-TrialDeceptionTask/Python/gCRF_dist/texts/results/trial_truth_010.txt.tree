@@ -1,0 +1,27 @@
+(Explanation[N][S]
+  _!yeah . <s>!_
+  (Elaboration[N][S]
+    (same-unit[N][N]
+      (Elaboration[N][S]
+        _!I , maybe three months in the business ,!_
+        _!I was struggling ,!_)
+      _!not doing so well . <s>!_)
+    (Joint[N][N]
+      _!I was even thinking about quitting . <s>!_
+      (Joint[N][N]
+        _!And then at some point Alexander was flown into town as a guest speaker for solid city market . <s>!_
+        (Explanation[N][S]
+          (Joint[N][N]
+            _!And I attended that training!_
+            _!and I was inspired by him . <s>!_)
+          (Joint[N][N]
+            _!It kind of changed my business around . <s>!_
+            (Joint[N][N]
+              _!And that was the only encounter with him personally . <s>!_
+              (same-unit[N][N]
+                _!And!_
+                (Background[S][N]
+                  _!so I just ,!_
+                  (Joint[N][N]
+                    _!I kept going!_
+                    _!and did much better after that . <P>!_))))))))))

@@ -1,0 +1,157 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBD were)))
+    (: ...)
+    (S
+      (NP (PRP they))
+      (VP (VBD were)
+        (PP (IN at)
+          (NP (DT the) (JJR taller) (NN -LRB-)))))
+    (. ?) (-RRB- -RRB-)))
+
+(ROOT
+  (FRAG
+    (NP (NN table) (RB there))
+    (, ,)
+    (PP (IN in)
+      (NP (DT the) (NN walk) (NN way)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Um))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD were)
+      (VP
+        (VP (VBG staring)
+          (NP
+            (NP (DT all))
+            (PP (IN over)
+              (NP (DT the) (NN place)))))
+        (, ,)
+        (VP (VBG looking)
+          (PRT (RP around)))
+        (, ,)
+        (VP (VBG taking)
+          (NP (NNS pictures)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN Inside)
+        (PRN (, ,)
+          (ADVP (RB outside))
+          (, ,)))
+      (VP
+        (VP (VB capture)
+          (S
+            (ADVP (RB as) (RB much))
+            (PP (IN as)
+              (NP
+                (NP (JJ possible))
+                (CC and)
+                (NP (PRP they))))
+            (, ,)
+            (INTJ (UH uh))
+            (, ,)
+            (NP (PRP they))
+            (ADVP (NN kind) (IN of))
+            (VP (VBD stopped)
+              (NP (PRP me))
+              (PRN (, ,)
+                (INTJ (UH uh))
+                (, ,)))))
+        (CC and)
+        (VP (VBD started)
+          (S
+            (VP (VBG talking)
+              (PP (TO to)
+                (NP (PRP me))))))))
+    (, ,)
+    (CC and)
+    (S
+      (INTJ (UH uh))
+      (, ,)
+      (NP
+        (NP
+          (NP (NN um))
+          (, ,)
+          (NP (DT the) (CD two) (NNS girls))
+          (CC and)
+          (NP (DT the) (CD two) (NNS guys)))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD had)
+              (VP (VBN been)
+                (VP (VBG drinking)))))))
+      (VP (VBD were)
+        (VP (VBG trying)
+          (PP (TO to)
+            (NP
+              (INTJ (UH uh))))
+          (, ,)
+          (S
+            (VP (TO to)
+              (VP (VB say)
+                (NP (NN something))
+                (PP (TO to)
+                  (NP (PRP me)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NN None))
+        (PP (IN of)
+          (NP (PRP it))))
+      (VP
+        (VP (VBD made)
+          (NP (NN sense)))
+        (, ,)
+        (VP (VBP um)
+          (SBAR
+            (S
+              (NP (PRP they))
+              (VP (VBD were)
+                (VP (VBG telling)
+                  (NP (PRP me))
+                  (SBAR
+                    (WHADVP (WRB how))
+                    (S
+                      (NP (PRP they))
+                      (VP (VBD were)
+                        (VP (VBN amazed)
+                          (PP (IN with)
+                            (SBAR
+                              (WHNP
+                                (WHADJP (WRB how) (JJ many))
+                                (NNS pictures))
+                              (S
+                                (NP (DT that))
+                                (VP (VBD were)
+                                  (VP (VBN taken)))))))))))))))
+        (, ,)
+        (CC and)
+        (VP (VBP stuff))))
+    (CC but)
+    (S
+      (INTJ (UH uh))
+      (, ,)
+      (NP
+        (NP (JJS most))
+        (SBAR
+          (WHPP (IN of)
+            (WHNP (WP what)))
+          (S
+            (NP (PRP they))
+            (VP (VBD said)))))
+      (VP (VBD was) (RB not)
+        (ADJP (RB really) (JJ understandable))))
+    (. .)))
+

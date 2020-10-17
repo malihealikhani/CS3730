@@ -1,0 +1,71 @@
+(ROOT
+  (S
+    (VP
+      (VP (VB Were)
+        (NP (JJ several) (NNS investigators))
+        (PP (IN on)
+          (NP (DT the) (NN scene))))
+      (, ,)
+      (CC and)
+      (VP (: ...) (VB um)
+        (S
+          (S
+            (SBAR (IN once)
+              (S
+                (NP (PRP we))
+                (VP (VBD were)
+                  (ADVP (RB there))
+                  (VP (VBG executing)
+                    (NP (DT the) (NN warrant))))))
+            (, ,)
+            (NP (DT the) (NN search))
+            (VP (VBP warrant)
+              (SBAR
+                (S
+                  (NP (PRP we))
+                  (VP (VBD took)
+                    (NP
+                      (NP (NN um))
+                      (: ...)
+                      (NP
+                        (NP (NNS rooms))
+                        (PP (IN in)
+                          (NP (DT the) (NN house))))))))))
+          (CC and)
+          (S
+            (NP (PRP I))
+            (ADVP (RB actually))
+            (VP (VBD took)
+              (SBAR
+                (S
+                  (NP
+                    (NP (NN um))
+                    (, ,)
+                    (NP
+                      (NP (DT the) (NN room))
+                      (PP (TO to)
+                        (NP
+                          (NP (DT the) (NN right))
+                          (SBAR (IN as)
+                            (S
+                              (NP (PRP you))
+                              (VP (VBP walk)
+                                (PP (IN into))))))))
+                    (, ,))
+                  (VP (VBP walk)
+                    (PRT (RP out))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (VBG living) (NN room))
+                        (SBAR
+                          (WHNP (WDT which))
+                          (S
+                            (VP (VBD was)
+                              (NP
+                                (NP (NN um))
+                                (, ,)
+                                (NP
+                                  (NP (NNP Jonathan) (POS 's))
+                                  (NN room))))))))))))))
+        (. .)))))
+

@@ -1,0 +1,5 @@
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:that prev2_POS:DT with_prev2_full:that_but with_prev2_POS_full:DT_CC NA
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:turmoil prev2_POS:NN with_prev2_full:turmoil_but with_prev2_POS_full:NN_CC NA
+conn:so conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_so with_prev1_POS_full:,_IN prev2:friends prev2_POS:NNS with_prev2_full:friends_so with_prev2_POS_full:NNS_IN NA
+conn:and conn_POS:CC prev1:myself prev1_POS:PRP with_prev1_full:myself_and with_prev1_POS_full:PRP_CC prev2:of prev2_POS:IN with_prev2_full:of_and with_prev2_POS_full:IN_CC NA
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:downs prev2_POS:NNS with_prev2_full:downs_but with_prev2_POS_full:NNS_CC NA

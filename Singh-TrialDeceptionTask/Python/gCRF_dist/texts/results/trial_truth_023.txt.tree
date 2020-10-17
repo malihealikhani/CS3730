@@ -1,0 +1,17 @@
+(Elaboration[N][S]
+  (Joint[N][N]
+    _!I was convicted the following year!_
+    _!and sentenced to forty years in prision . <s>!_)
+  (Background[S][N]
+    _!This last year July six ,!_
+    (Joint[N][N]
+      (same-unit[N][N]
+        (Background[N][S]
+          _!I was exonarated!_
+          (Elaboration[N][S]
+            _!after serving twently two years by DNA evidence with the help of the innocence project ,!_
+            _!who was able to locate evidence in my case ,!_))
+        _!have it tested ,!_)
+      (Attribution[S][N]
+        _!and the test prove!_
+        _!that I had n't committed the crime . <P>!_))))

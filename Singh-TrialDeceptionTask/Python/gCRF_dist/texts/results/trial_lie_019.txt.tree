@@ -1,0 +1,33 @@
+(Evaluation[N][S]
+  (Elaboration[N][S]
+    (same-unit[N][N]
+      (Attribution[N][S]
+        (same-unit[N][N]
+          (Attribution[N][S]
+            (Elaboration[N][S] _!Well ,!_ _!again I ca n't ,!_)
+            (Attribution[S][N]
+              _!it happened so fast!_
+              _!I did initially think Run ,!_))
+          (Comparison[N][S]
+            _!so I went down the hallway and then right!_
+            (Elaboration[N][S]
+              _!as I got to the hallway , with the doors!_
+              _!being shut ,!_)))
+        _!it just seemed!_)
+      (Enablement[N][S]
+        _!like more of an obstacle it would give him more time to catch up ,!_
+        (Joint[N][N]
+          (Joint[N][N]
+            _!to open the door this way!_
+            _!and run around it!_)
+          (Background[N][S]
+            _!and out ,!_
+            _!when this door was an equal distance and open . <s>!_))))
+    _!I could run that way and into it . <s>!_)
+  (Contrast[S][N]
+    _!So my thought initially was to run out this door , and then around and out ,!_
+    (Explanation[N][S]
+      _!but I was doing something just to create more distance ,!_
+      (Joint[N][N]
+        _!because last time I had run that same route!_
+        _!and I was not successful in running out of the room . <P>!_))))

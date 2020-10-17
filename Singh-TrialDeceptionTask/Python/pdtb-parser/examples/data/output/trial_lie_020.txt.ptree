@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (NN sort)
+          (SBAR
+            (S
+              (NP (SYM a))
+              (VP (VBD came)
+                (PRT (RP out))
+                (PP (IN of)
+                  (NP (DT the) (NN fog)))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD realized)
+      (S
+        (VP (VBG \)
+          (S
+            (S
+              (INTJ (UH oh))
+              (, ,)
+              (NP
+                (NP (NNP crap) (NNP \) ('' '') (NN something))
+                (ADJP (JJ bad)))
+              (VP (VBD had)
+                (VP (VBN happened))))
+            (CC and)
+            (S
+              (NP (PRP I))
+              (VP (VBD was)
+                (ADJP (JJ scared)
+                  (S
+                    (VP (TO to)
+                      (VP (VB call)
+                        (NP (DT any) (NN authority))
+                        (PP (IN at)
+                          (NP (DT that) (NN point)))))))))))))
+    (. .) ('' '')))
+

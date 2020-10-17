@@ -1,0 +1,21 @@
+(Explanation[N][S]
+  (Elaboration[N][S]
+    _!I was sentenced to forty to sixty years in prision for this crime!_
+    _!that I did n't commit . <s>!_)
+  (Joint[N][N]
+    (Explanation[N][S]
+      _!At the trial the judge had exceded the sentence guidelines!_
+      (Attribution[S][N]
+        _!because he said!_
+        _!I failed to show remorse . <s>!_))
+    (Contrast[N][S]
+      (same-unit[N][N]
+        (Elaboration[N][S]
+          (Attribution[S][N] _!And I told!_ _!him ,!_)
+          (Elaboration[N][S]
+            _!you know ,!_
+            _!I felt terrible for what happen to this woman ,!_))
+        _!shoud n't happen to anyone ,!_)
+      (Elaboration[N][S]
+        _!but I ca n't show remorse!_
+        (Attribution[S][N] _!for somethig!_ _!I did n't do . <P>!_)))))

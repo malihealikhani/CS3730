@@ -1,0 +1,9 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    _!100 percent . <s>!_
+    (Elaboration[N][S]
+      _!Absolutely . 100 percent . 100 percent . <s>!_
+      (Joint[N][N]
+        _!Totally false . <s>!_
+        _!Do I have remorse ? <s>!_)))
+  _!Absolutely . <P>!_)

@@ -1,0 +1,293 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP do))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP I))
+        (VP
+          (VP (VBD was))
+          (, ,)
+          (VP (NNP uh) (: ...)
+            (PP (IN in)
+              (NP (DT the) (NN office))))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (PRP I))
+        (VP (VBD got)
+          (SBAR
+            (FRAG
+              (FRAG
+                (X (SYM a))
+                (NP (NN call)))
+              (: ...)
+              (FRAG
+                (INTJ (UH uh))
+                (, ,)
+                (ADVP (RB maybe))))))))
+    (: ...)
+    (S
+      (ADVP (RB close)
+        (PP (TO to)
+          (NP
+            (NP (CD nine) (NN o) (POS '))
+            (NN clock))))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB remember) (, ,)
+          (ADVP (RB somewhere)
+            (PP (IN between)
+              (NP (CD eight)
+                (CC and)
+                (CD nine))))
+          (, ,)
+          (PP (IN from)
+            (NP (NNP Rusty))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP (VBD said) (, ,)
+        (ADVP (RB uh))))
+    (: ...)
+    (S
+      (S
+        (NP (NN someone))
+        (VP (VBD was)
+          (ADVP (RB just))
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NN side))
+              (PP (IN of)
+                (NP (DT the) (NN house)))))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (PRP he))
+        (VP
+          (VP (VBD was)
+            (ADVP (NN sort) (IN of))
+            (ADJP (RB not) (RB completely) (JJ coherent)))
+          (, ,)
+          (CC and)
+          (VP (VBD said)))))
+    (: ...)
+    (S
+      (S
+        (NP (NN someone))
+        (VP (VBD was) (, ,)
+          (PP (IN like))
+          (, ,)
+          (VP (VBG sleeping)
+            (PP (IN on)
+              (NP
+                (NP (DT the) (NN side))
+                (PP (IN of)
+                  (NP (DT the) (NN house))))))))
+      (, ,)
+      (CC and)
+      (S
+        (S
+          (NP (PRP he))
+          (VP (VBD called)
+            (NP (DT the) (NN police))))
+        (, ,)
+        (CC and)
+        (S
+          (NP (PRP he))
+          (VP (VBD was)))))
+    (: ...)
+    (S
+      (S
+        (ADVP (RB oh)
+          (CC and)
+          (RB then))
+        (NP (PRP he))
+        (VP (VBD had)
+          (S
+            (VP (TO to)
+              (VP (VB go)
+                (ADVP (RB really)))))
+          (S
+            (ADVP (RB quickly))
+            (VP (TO to)
+              (VP (VB talk)
+                (PP (TO to)
+                  (NP (DT the) (NN police))))))))
+      (, ,)
+      (CC and)
+      (RB then)
+      (S
+        (NP (PRP he))
+        (VP
+          (VP (VBD ended)
+            (PRT (RP up))
+            (S
+              (VP (VBG calling)
+                (NP (PRP me))
+                (ADVP (RB back)))))
+          (, ,)
+          (CC and)
+          (VP (VBD told)
+            (NP (PRP me))
+            (SBAR
+              (S
+                (NP
+                  (NP (DT the) (JJ whole) (NN story))
+                  (PP (IN of)
+                    (SBAR
+                      (WHNP (WP what))
+                      (S
+                        (VP (VBD had)
+                          (VP (VBN happened))))))
+                  (, ,)
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBD was)
+                        (NP (DT that)))))
+                  (, ,))
+                (VP (VBP um))))))))
+    (: ...)
+    (S
+      (NP (PRP he))
+      (VP (VBD had)
+        (VP
+          (VP (VBN put)
+            (NP
+              (NP (NNP Ian))
+              (PP (IN in)
+                (NP (DT the) (NN car))))
+            (SBAR
+              (SBAR (IN as)
+                (S
+                  (S
+                    (NP (PRP he))
+                    (VP (VBZ does)
+                      (NP
+                        (NP (DT every) (NN day))
+                        (PP (IN around)
+                          (NP (DT that) (NN time))))))
+                  (, ,)
+                  (CC and)
+                  (S
+                    (NP
+                      (NP (NNP Ian) (POS 's))
+                      (NN car) (NN seat))
+                    (VP (VBZ is)
+                      (PP (IN on)
+                        (NP
+                          (NP (DT the) (JJ right) (NN passenger) (NN side))
+                          (PP (IN in)
+                            (NP (DT the) (NN back)))))))))
+              (, ,)
+              (CC and)
+              (SBAR (IN as)
+                (S
+                  (NP (PRP he))
+                  (VP (VBD walked)
+                    (PRT (RP around))
+                    (SBAR
+                      (S
+                        (NP (PRP he))
+                        (VP (VBD smelled)
+                          (SBAR
+                            (S
+                              (NP
+                                (NP
+                                  (NP (NN gas))
+                                  (, ,)
+                                  (NP (NN um)))
+                                (: ...)
+                                (SBAR (IN as)
+                                  (S
+                                    (NP (PRP he))
+                                    (VP (VBD walked))))
+                                (: --))
+                              (VP (VBP 'cause)
+                                (S
+                                  (NP (PRP he))
+                                  (NP
+                                    (NP (NN sort))
+                                    (PP (IN of)
+                                      (S
+                                        (VP (VBG exits)
+                                          (NP (DT the) (NN garage))
+                                          (NP (DT a) (JJ little) (NN bit))
+                                          (S
+                                            (VP (TO to)
+                                              (VP (VB get)
+                                                (PP (TO to)
+                                                  (NP
+                                                    (NP (PRP$ his) (NN side))
+                                                    (PP (IN of)
+                                                      (NP (DT the) (NN car))))))))))))))))))))))))
+          (PRN (, ,)
+            (S
+              (NP (PRP he))
+              (VP (VBD smelled)
+                (NP (NN gas))))
+            (, ,))
+          (CC and)
+          (, ,)
+          (VP (JJ uh)))))
+    (: ...)
+    (S
+      (NP (PRP$ our) (NN gas) (NN meter)
+        (CC and)
+        (NN pipe))
+      (VP (VBZ is)
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NN side))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (JJ left) (NN side))
+                (PP (IN of)
+                  (NP (DT the) (NN house)))))))
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP 're)
+              (VP (VBG looking)
+                (PP (IN at)
+                  (NP (DT the) (NN front)))))))))
+    (. .)))
+
+(ROOT
+  (S (CC So)
+    (S
+      (NP (PRP he))
+      (VP (VBD walked)
+        (PRT (RP over))
+        (PP (TO to)
+          (NP (DT that) (NN spot)))))
+    (PRN (, ,)
+      (S
+        (NP (PRP it))
+        (VP (VBZ 's)
+          (PP (IN near)
+            (NP (PRP$ our) (NN air) (NNS conditioners)))))
+      (, ,))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBD said)
+        (SBAR (IN that)
+          (S
+            (NP (EX there))
+            (VP (VBD was)
+              (NP
+                (NP (DT a) (NN man) (VBG lying) (NN face-down))
+                (PP (IN on)
+                  (NP (DT the) (NN ground)))))))))
+    (. .)))
+

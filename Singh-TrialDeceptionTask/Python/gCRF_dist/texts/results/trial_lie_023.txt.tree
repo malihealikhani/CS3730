@@ -1,0 +1,35 @@
+(Summary[N][S]
+  _!Lying is is n't something typically I just do . <s>!_
+  (Explanation[N][S]
+    (Contrast[N][N]
+      (Attribution[S][N]
+        _!I 'm not going to say!_
+        _!I 've never told a lie in my life before this ... incident ,!_)
+      (same-unit[N][N]
+        (same-unit[N][N]
+          (Elaboration[N][S]
+            _!but , the lies!_
+            _!I have told in this case are!_)
+          (Elaboration[N][S]
+            _!can be tied directly back to either!_
+            _!protecting Travis ' reputation or my involvement in his death ,!_))
+        _!in any way . <s>!_))
+    (Elaboration[N][S]
+      (Explanation[S][N]
+        (Joint[N][N]
+          _!Because I was very ashamed of the death ,!_
+          _!and also I wanted to edify Travis in a good way ,!_)
+        (Attribution[S][N]
+          _!I did n't want to de -!_
+          (Joint[N][N]
+            _!edify him!_
+            _!or say hateful things about him ,!_)))
+      (Attribution[S][N]
+        _!especially now!_
+        (Joint[N][N]
+          _!that he had passed away!_
+          (Elaboration[N][S]
+            _!and also I did n't want that!_
+            (Condition[N][S]
+              _!to be construed as ... motive , for example!_
+              _!if he was violent with me . <P>!_)))))))

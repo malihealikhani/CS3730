@@ -1,0 +1,138 @@
+(ROOT
+  (S
+    (S
+      (S
+        (ADVP (RB just))
+        (VP (VBN talked)
+          (PP (TO to)
+            (NP (NN everybody)))))
+      (, ,)
+      (NP (PRP you))
+      (VP (VBP know)))
+    (, ,)
+    (S
+      (NP (PRP you))
+      (VP (VBP know)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (VBD was)
+              (ADJP (JJ flirtatious)))))))
+    (, ,)
+    (S
+      (NP (PRP I))
+      (VP (VBP mean)
+        (NP (PRP he))))
+    (, ,)
+    (S
+      (ADVP (RB ah))
+      (, ,)
+      (NP (PRP you))
+      (VP (VBP know)))
+    (, ,)
+    (S
+      (ADVP (RB um))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB know))))
+    (: ...)
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB know)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBD told)
+                (S
+                  (NP (PRP me))
+                  (NP (DT that)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP do) (RB n't)
+      (VP (VB know)
+        (NP (RB enough))
+        (PP (IN about)
+          (NP (PRP it)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB just))
+      (VP (VBD knew)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (VBD was)
+              (NP
+                (NP (DT a) (NN flirt))
+                (CC and)
+                (NP (DT that))))))))
+    (: ...)
+    (S
+      (NP (PRP You))
+      (VP (VBP know)))
+    (, ,)
+    (S
+      (NP (PRP he))
+      (VP (VBD was) (: ...)
+        (S
+          (NP (PRP I))
+          (VP (VB remember)
+            (S
+              (NP (NNP Clancy))
+              (VP (VBG telling)
+                (NP (PRP me))))))))
+    (, ,)
+    (S
+      (NP (PRP you))
+      (VP (VBP know)))
+    (, ,)
+    (S
+      (PP (IN at)
+        (NP (NNS times)))
+      (, ,)
+      (NP (PRP you))
+      (VP (VBP know)))
+    (, ,)
+    (S
+      (NP (PRP he))
+      (VP (VBD was)
+        (ADVP (RB just))
+        (NP (PRP him))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP (VBP know)))
+    (, ,)
+    (NP (PRP he))
+    (VP (MD would)
+      (ADVP (RB just))
+      (VP (VB flirt)
+        (PP (IN with)
+          (NP (NN everybody)))
+        (, ,)
+        (ADVP (RB just))
+        (S
+          (VP (VBG goofing)
+            (PRT (RP around))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Nobody))
+    (ADVP (RB really))
+    (VP (VBD took)
+      (NP (PRP it))
+      (ADVP (RB seriously)))
+    (. .)))
+

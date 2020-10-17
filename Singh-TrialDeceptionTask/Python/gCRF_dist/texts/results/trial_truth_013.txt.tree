@@ -1,0 +1,19 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      _!I was under the assumption!_
+      _!that it 's long time ago . <s>!_)
+    (Joint[N][N]
+      (Attribution[S][N]
+        _!I did n't know!_
+        _!if it was six months ago or two years ago . <s>!_)
+      _!I really did n't know . <s>!_))
+  (Contrast[N][S]
+    _!And yeah I did n't try to pry too much in that relationship . <s>!_
+    (Elaboration[N][S]
+      _!But I felt like it was ...!_
+      (Attribution[S][N]
+        _!just ...!_
+        (Attribution[S][N]
+          _!yeah I did n't know!_
+          _!how long it was . <P>!_)))))

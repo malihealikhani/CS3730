@@ -1,0 +1,2 @@
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:activity prev2_POS:NN with_prev2_full:activity_and with_prev2_POS_full:NN_CC NA
+conn:until conn_POS:IN prev1:club prev1_POS:NN with_prev1_full:club_until with_prev1_POS_full:NN_IN prev2:dance prev2_POS:NN with_prev2_full:dance_until with_prev2_POS_full:NN_IN NA

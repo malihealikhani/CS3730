@@ -1,0 +1,19 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Background[S][N]
+      _!Remember ,!_
+      (Elaboration[N][S]
+        _!we withheld the evidence in this very important case!_
+        _!that we want to try to get to the truth and to the bottom of . <s>!_))
+    (same-unit[N][N]
+      (Elaboration[N][S]
+        _!Well!_
+        _!who says it not a criminal investigation ,!_)
+      (Elaboration[N][S]
+        _!it 's an investigation!_
+        _!that is undetermined at this time . <s>!_)))
+  (Attribution[S][N]
+    _!And uh we 're just not prepared to make any assertions as to uh!_
+    (Background[N][S]
+      _!what the outcome is going to be!_
+      _!until it 's a full and thorough investigation . <P>!_)))

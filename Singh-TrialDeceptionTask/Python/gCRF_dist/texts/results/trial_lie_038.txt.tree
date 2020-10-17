@@ -1,0 +1,17 @@
+(Summary[N][S]
+  (Contrast[N][N]
+    _!I was trying to say something!_
+    _!but I could n't talk . <s>!_)
+  (Elaboration[N][S]
+    (Contrast[N][N]
+      _!I tried to push him off me!_
+      _!but he was too strong . <s>!_)
+    (Attribution[S][N]
+      _!Um all I could think!_
+      (same-unit[N][N]
+        (Elaboration[N][S]
+          _!about was my kids!_
+          (Elaboration[N][S]
+            _!telling me \ Mom ,!_
+            _!you do n't go ,!_))
+        _!do n't go . " <P>!_))))

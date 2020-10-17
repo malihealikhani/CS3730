@@ -1,0 +1,15 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      (Contrast[S][N]
+        _!I did n't really know her too well ,!_
+        _!I only saw her a couple of times . <s>!_)
+      _!Not really no , I was n't placing her face with her address . <s>!_)
+    (same-unit[N][N]
+      (Attribution[N][S]
+        _!No , I did n't talk to anybody ,!_
+        _!I just lived ,!_)
+      (Temporal[N][N]
+        _!I would go to school!_
+        _!and come home . <s>!_)))
+  _!Uh , no . <P>!_)

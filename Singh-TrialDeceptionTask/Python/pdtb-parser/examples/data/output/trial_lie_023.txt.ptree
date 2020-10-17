@@ -1,0 +1,151 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG Lying)
+        (VP (VBZ is))))
+    (VP (VBZ is) (RB n't)
+      (NP (NN something))
+      (ADVP (RB typically))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (ADVP (RB just))
+          (VP (VBP do)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm) (RB not)
+      (VP (VBG going)
+        (S
+          (VP (TO to)
+            (VP (VB say)
+              (SBAR
+                (S
+                  (S
+                    (NP (PRP I))
+                    (VP (VBP 've)
+                      (ADVP (RB never))
+                      (VP (VBN told)
+                        (NP
+                          (NP (DT a) (NN lie))
+                          (PP (IN in)
+                            (NP (PRP$ my) (NN life))))
+                        (PP (IN before)
+                          (NP (DT this)))
+                        (: ...)
+                        (NP (NN incident)))))
+                  (, ,)
+                  (CC but)
+                  (, ,)
+                  (S
+                    (NP
+                      (NP (DT the) (NNS lies))
+                      (SBAR
+                        (S
+                          (NP (PRP I))
+                          (VP (VBP have)
+                            (VP (VBN told)
+                              (PP (IN in)
+                                (NP
+                                  (NP (DT this) (NN case))
+                                  (VP (VBP are)))))))))
+                    (VP (MD can)
+                      (VP (VB be)
+                        (VP (VBN tied)
+                          (ADVP (RB directly) (RB back))
+                          (PP (TO to)
+                            (NP (DT either)))
+                          (S
+                            (VP (VBG protecting)
+                              (NP
+                                (NP
+                                  (NP (NNP Travis) (POS '))
+                                  (NN reputation))
+                                (CC or)
+                                (NP
+                                  (NP (PRP$ my) (NN involvement))
+                                  (PP (IN in)
+                                    (NP (PRP$ his) (NN death)))))))
+                          (, ,)
+                          (PP (IN in)
+                            (NP (DT any) (NN way))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Because)
+      (S
+        (S
+          (NP (PRP I))
+          (VP (VBD was)
+            (ADJP (RB very) (JJ ashamed))
+            (PP (IN of)
+              (NP (DT the) (NN death)))))
+        (, ,)
+        (CC and)
+        (S
+          (ADVP (RB also))
+          (NP (PRP I))
+          (VP (VBD wanted)
+            (S
+              (VP (TO to)
+                (VP (VB edify)
+                  (NP
+                    (NP (NNP Travis))
+                    (PP (IN in)
+                      (NP (DT a) (JJ good) (NN way)))))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD did) (RB n't)
+      (VP (VB want)
+        (PP (TO to)
+          (NP (FW de)))
+        (: -)
+        (S
+          (VP
+            (VP (VB edify)
+              (NP (PRP him)))
+            (CC or)
+            (VP (VB say)
+              (NP (JJ hateful) (NNS things))
+              (PP (IN about)
+                (NP (PRP him))))))
+        (, ,)
+        (ADVP
+          (ADVP (RB especially) (RB now))
+          (SBAR (IN that)
+            (S
+              (S
+                (NP (PRP he))
+                (VP (VBD had)
+                  (VP (VBN passed)
+                    (PRT (RP away)))))
+              (CC and)
+              (S
+                (ADVP (RB also))
+                (NP (PRP I))
+                (VP (VBD did) (RB n't)
+                  (VP (VB want)
+                    (SBAR (IN that)
+                      (S
+                        (VP (TO to)
+                          (VP (VB be)
+                            (VP (VBN construed)
+                              (PP (IN as) (: ...)
+                                (NP
+                                  (NP (NN motive))
+                                  (, ,)
+                                  (PP (IN for)
+                                    (NP
+                                      (NP (NN example))
+                                      (SBAR (IN if)
+                                        (S
+                                          (NP (PRP he))
+                                          (VP (VBD was)
+                                            (ADJP (JJ violent)
+                                              (PP (IN with)
+                                                (NP (PRP me))))))))))))))))))))))))
+    (. .)))
+

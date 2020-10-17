@@ -1,0 +1,158 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP want)
+        (S
+          (VP (TO to)
+            (VP (VB say))))))
+    (PRN (, ,)
+      (S
+        (NP (DT the) (NN prosecutor))
+        (, ,)
+        (NP (PRP I))
+        (VP (MD ca) (RB n't)
+          (VP (VB see)
+            (NP (PRP$ her) (NN face))))))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBP wish)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (MD could))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBZ disgust)
+      (NP (PRP me)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Dorsey) (NN family))
+    (VP (VBZ disgusts)
+      (NP (PRP me)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Because)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (VP (VBP dare)))))
+    (NP (PRP you))
+    (VP (VBP say)
+      (SBAR (IN that)
+        (S
+          (VP (VBD happened)
+            (PP (TO to)
+              (NP (PRP$ my) (NN son)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBD were) (RB n't)
+      (ADVP (RB there)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Ya))
+    (VP (MD 'll)
+      (VP (VBD was)
+        (ADVP (RB never) (RB there))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBD were)
+      (NP
+        (NP (DT the) (JJ absentee) (NNS people))
+        (: ...)
+        (ADVP (RB always))))
+    (. .)))
+
+(ROOT
+  (S (IN So)
+    (NP (DT the) (NNP Dorsey) (NN family))
+    (, ,)
+    (ADVP (RB down)
+      (PP (TO to)
+        (NP (DT the) (NN mother))))
+    (, ,)
+    (SBAR
+      (X
+        (NP (DT the) (NN father))
+        (, ,)
+        (PP (TO to)
+          (NP (NN everybody)))
+        (: -))
+      (S
+        (NP (PRP I))
+        (VP (VBP hope)
+          (SBAR
+            (S
+              (NP (PRP ya))
+              (VP (MD 'll)
+                (VP (VB live)
+                  (NP (PRP$ your) (NNS lives))
+                  (ADVP (RB well))
+                  (PP (CC but)
+                    (NP
+                      (NP (NNP Imma))
+                      (VP (VBG saying)
+                        (PP (TO to)
+                          (NP
+                            (NP (PRP$ my) (NN child))
+                            (, ,)
+                            (NP (NNP Gabrielle) (NNP Blair))))))))))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBD lived)
+      (ADVP (RB well))
+      (PP (CC but)
+        (NP
+          (NP (NNP Imma))
+          (VP (VBG saying)
+            (PP (TO to)
+              (NP (PRP 'em)))
+            (PP (IN throughout)
+              (NP (PRP$ their) (JJ whole) (NN life)))))))
+    (. .)))
+
+(ROOT
+  (S (RB So)
+    (VP (VB live)
+      (ADVP (RB well) (RB now)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBD got)
+      (NP
+        (NP (RB not) (NN nothing) (RB else))
+        (SBAR
+          (S
+            (VP (TO to)
+              (VP (VB say)
+                (PP (TO to)
+                  (NP (PRP me)))
+                (SBAR (IN for)
+                  (S
+                    (NP (PRP I))
+                    (VP (VBD did)
+                      (PP (IN for)
+                        (NP (PRP$ my) (NN child))))))))))))
+    (. .)))
+
+(ROOT
+  (NP (FW Period) (. .)))
+

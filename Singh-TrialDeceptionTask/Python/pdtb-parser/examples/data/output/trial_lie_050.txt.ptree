@@ -1,0 +1,73 @@
+(ROOT
+  (FRAG
+    (PP (IN With)
+      (NP (DT a) (NN fist)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP (IN On)
+      (NP (PRP$ my) (NN temple)))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP he))
+    (VP (VBD kept)
+      (S
+        (VP (VBG hitting)
+          (NP (DT the) (JJ same) (NN spot)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP guess)
+      (SBAR
+        (S
+          (NP (PRP$ my) (NN head))
+          (VP (VBZ 's) (RB not)
+            (ADJP (RB as) (JJ strong)
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP (MD 'd)
+                    (VP (VB like)
+                      (S
+                        (VP (TO to)
+                          (VP (VB believe)
+                            (SBAR
+                              (S
+                                (NP (PRP it))
+                                (VP (VBZ is))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (INTJ (UH No))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBD went)
+        (PP (TO to)
+          (NP (DT the) (NN doctor) (NNP and)))))
+    (: ...)
+    (S
+      (NP (PRP It))
+      (VP (VBD was)
+        (ADVP
+          (NP (CD four) (NNS days))
+          (IN after))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (ADVP (RB finally))
+    (VP (VBD went)
+      (PRT (RP back))
+      (S
+        (VP (TO to)
+          (VP (VB work)))))
+    (. .)))
+

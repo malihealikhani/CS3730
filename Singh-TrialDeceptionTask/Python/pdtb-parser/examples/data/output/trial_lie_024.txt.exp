@@ -1,0 +1,9 @@
+conn_lc:so conn:So conn_POS:CC xxx£
+conn_lc:so_that conn:so_that conn_POS:IN_DT with_prev_full:head_so_that xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:thought_and xxx£
+conn_lc:so conn:so conn_POS:RB with_prev_full:,_so xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:then conn:then conn_POS:RB with_prev_full:and_then xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:then conn:then conn_POS:RB with_prev_full:and_then xxx£

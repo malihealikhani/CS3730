@@ -1,0 +1,23 @@
+(Elaboration[N][S]
+  (Background[S][N]
+    _!I was ,!_
+    (Attribution[S][N]
+      _!I believed!_
+      (Elaboration[N][S]
+        _!that it 's not okay in any circumstance to take someones life!_
+        (Elaboration[N][S]
+          (Elaboration[N][S]
+            _!even if you are defending your own life!_
+            _!that 's how I believed it So!_)
+          (Enablement[N][S]
+            _!I never really stopped!_
+            (Attribution[S][N]
+              _!to consider!_
+              _!how society would view it . <s>!_))))))
+  (Condition[S][N]
+    _!If someone is defending themselves ,!_
+    (Attribution[S][N]
+      _!I just felt!_
+      (Joint[N][N]
+        _!like I had done something wrong!_
+        _!and I was afraid of what the consequences would be . <P>!_))))

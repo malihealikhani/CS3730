@@ -1,0 +1,41 @@
+(Summary[N][S]
+  (same-unit[N][N]
+    (Joint[N][N]
+      _!asked him instinctively \!_
+      (Joint[N][N]
+        _!so you are not going to drive anyway , right ? \ " ,!_
+        _!and I said ,!_))
+    (Joint[N][N]
+      _!\ " you are going to stay here ,!_
+      (Elaboration[N][S]
+        _!and he is going to pick you up \ " ,!_
+        (Attribution[S][N] _!he said ,!_ _!\ " yes \ " . <s>!_))))
+  (Elaboration[N][S]
+    (Explanation[N][S]
+      (Elaboration[N][S]
+        _!I have a personal connection!_
+        _!with that!_)
+      (Joint[N][N]
+        _!because my grandfather was killed by a drunk driver ,!_
+        (Joint[N][N]
+          (same-unit[N][N]
+            (Attribution[S][N]
+              _!so!_
+              (Elaboration[N][S]
+                _!whenever comes anyone!_
+                (Elaboration[N][S]
+                  _!that is intoxicated!_
+                  _!that could have the possibility of driving ,!_)))
+            (Elaboration[N][S]
+              _!I was just like ,!_
+              _!\ " you not going to go anywhere \ "!_))
+          (same-unit[N][N]
+            (Elaboration[N][S]
+              _!and so I had a moment!_
+              (Attribution[S][N]
+                _!of making sure!_
+                _!that he was going to stay in the vicinity ,!_))
+            (same-unit[N][N]
+              (Attribution[N][S] _!so I asked him ,!_ _!he said ,!_)
+              _!\ " yes \ " . <s>!_)))))
+    _!'' <P>!_))

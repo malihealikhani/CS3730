@@ -1,0 +1,189 @@
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Why))
+    (SQ (VBD did) (RB n't)
+      (NP (PRP I))
+      (VP (VB understand)
+        (NP (PRP$ my) (NNS rights))))
+    (. ?)))
+
+(ROOT
+  (S
+    (INTJ (UH Well))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP 'm) (RB not)
+      (NP (DT a) (NN coward)))
+    (. .)))
+
+(ROOT
+  (SQ (VBP Do)
+    (NP (PRP you))
+    (VP (VB get)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP I))
+          (VP (VBP 'm)
+            (VP (VBG saying))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT All))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP know)))))
+      (VP (VBZ is)
+        (NP (DT this))))
+    (: :)
+    (S
+      (NP (PRP$ My) (NN son))
+      (VP (VBZ is)
+        (ADJP
+          (NP (CD eight) (NNS years))
+          (JJ old))
+        (ADVP (RB right) (RB now))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ 's)
+      (VP (VBG going)
+        (S
+          (VP (TO to)
+            (VP (VB forget)
+              (NP
+                (NP (DT a) (NN lot))
+                (PP (IN about)
+                  (NP (PRP me)))))))))
+    (. .)))
+
+(ROOT
+  (INTJ (UH Okay) (. ?)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP he))
+        (VP (MD 'll)
+          (VP (VB look)
+            (PRT (RP back))
+            (PP (IN at)
+              (NP (PDT all) (DT this) (NNS media) (NN cover)))
+            (PP (IN from)
+              (NP (DT this) (NN bottle) (NNS feeders)))))))
+    (NP (PRP I))
+    (VP (VBP do) (RB n't)
+      (VP (VB want)
+        (S
+          (NP (PRP him))
+          (VP (TO to)
+            (VP (VB see)
+              (SBAR (IN that)
+                (S
+                  (NP (PRP I))
+                  (VP (VBD stood)
+                    (ADVP (RB here))
+                    (PP (IN like)
+                      (NP (DT a) (NN coward)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD did)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (PRP I))
+            (VP (VBD did))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD did)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (PRP I))
+            (VP (VBD did)
+              (PP (IN for)
+                (NP
+                  (NP (PRP$ my) (NN baby))
+                  (, ,)
+                  (NP (NN period)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ 's)
+      (VP (VBG going)
+        (S
+          (VP (TO to)
+            (VP (VB see)
+              (S
+                (NP (PRP me))
+                (VP (VBG standing)
+                  (PRT (RP up))
+                  (S
+                    (VP (VBG taking)
+                      (NP (PRP$ my) (NN responsability)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (ADVP (RB happily))
+      (VP (VB do)
+        (NP
+          (NP (NN life))
+          (PP (IN in)
+            (NP (NN prison))))
+        (PP (IN for)
+          (NP
+            (NP (PRP$ my) (NN child))
+            (, ,)
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ 's)
+                  (NP (NN period)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB So))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP do) (RB n't)
+      (VP (VB understand)
+        (NP
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (VP (VBZ 's))))
+          (: ...)
+          (NP
+            (NP (WP what))
+            (, ,)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (NP (JJ other) (NN paper) (NN work))
+                (VP (VBZ is)
+                  (SBAR (IN that)
+                    (S
+                      (VP (TO to)
+                        (VP (VB do))))))))))))
+    (: ...)))
+

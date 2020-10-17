@@ -1,0 +1,39 @@
+(Explanation[N][S]
+  (Background[S][N]
+    (Elaboration[N][S]
+      _!No ,!_
+      _!when Rusty backed up out of the garage ... <s>!_)
+    (Cause[S][N]
+      (same-unit[N][N]
+        (Elaboration[N][S]
+          _!So Rusty had a communication with him , but!_
+          (Elaboration[N][S] _!--!_ _!now I know why --!_))
+        _!but Hemy never responded ,!_)
+      (same-unit[N][N]
+        (Attribution[N][S] _!because!_ _!if he had spoken ,!_)
+        (Attribution[S][N]
+          _!I 'm sure!_
+          (Elaboration[N][S]
+            _!Rusty would have recognized!_
+            _!who he was . <s>!_)))))
+  (Joint[N][N]
+    _!So he stayed silent the entire time . <s>!_
+    (Elaboration[N][S]
+      _!And Rusty panicked . <s>!_
+      (Joint[N][N]
+        (Elaboration[N][S]
+          _!He got into the car ,!_
+          _!backed out of the driveway ,!_)
+        (Elaboration[N][S]
+          _!and once he was at the end of the driveway!_
+          (same-unit[N][N]
+            (Elaboration[N][S]
+              _!picking up the phone!_
+              _!to dial 911 ,!_)
+            (Elaboration[N][S]
+              _!Hemy ran across the lawn , over to a place!_
+              (Elaboration[N][S]
+                _!that only someone!_
+                (Temporal[N][S]
+                  _!who had been stalking my house!_
+                  _!for months would have known existed . <P>!_)))))))))

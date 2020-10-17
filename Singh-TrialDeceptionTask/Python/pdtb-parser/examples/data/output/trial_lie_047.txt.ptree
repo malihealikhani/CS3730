@@ -1,0 +1,33 @@
+(ROOT
+  (FRAG
+    (INTJ (UH No))
+    (, ,)
+    (ADVP (RB not)
+      (PP (IN at)
+        (NP (DT any) (NN time))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP (VBD called)
+        (S
+          (NP (PRP me))
+          (NP (DT some) (NNS names)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT that))
+      (VP (VBD was) (RB n't)
+        (ADVP (RB really))
+        (NP (DT a) (NN conversation))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was) (RB n't)
+      (NP (DT a) (CD two) (NN part) (NN conversation)))
+    (. .)))
+

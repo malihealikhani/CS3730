@@ -1,0 +1,23 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    _!Uh , I had just been on a cruise with my husband . <s>!_
+    (Cause[N][S]
+      _!We had n't been on a vacation for years , alone ,!_
+      _!without the children . <s>!_))
+  (Joint[N][N]
+    (Elaboration[N][S]
+      _!( pause , clears throat )!_
+      _!I had a project I needed to complete ,!_)
+    (Joint[N][N]
+      (Attribution[S][N]
+        _!and Hemy insisted!_
+        _!it had to be completed that ... day ,!_)
+      (Joint[N][N]
+        (Joint[N][N]
+          _!and so the only way in which to --!_
+          _!and it required his input ,!_)
+        (Elaboration[N][S]
+          _!and the only way!_
+          (Enablement[N][S]
+            _!in which!_
+            _!to finish it was to work on it that night <P>!_))))))

@@ -1,0 +1,21 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      (Elaboration[N][S]
+        _!My statement is this :!_
+        _!I 've never been alone with Candace Conte . <s>!_)
+      _!I never molested Candace Conte . <s>!_)
+    _!What do you mean think ? <s>!_)
+  (Elaboration[N][S]
+    _!I just told you . <s>!_
+    (Elaboration[N][S]
+      _!Never . <s>!_
+      (Elaboration[N][S]
+        _!I 've never ... <s>!_
+        (Elaboration[N][S]
+          _!Okay , get this right . <s>!_
+          (Elaboration[N][S]
+            _!I 've never been alone with Candace Conte , ever . <s>!_
+            (Elaboration[N][S]
+              _!Never have I!_
+              _!been alone with Candace Conte . <P>!_)))))))

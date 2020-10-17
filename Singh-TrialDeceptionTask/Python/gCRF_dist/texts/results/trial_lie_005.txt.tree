@@ -1,0 +1,63 @@
+(Joint[N][N]
+  (Temporal[N][N]
+    (same-unit[N][N]
+      (Elaboration[N][S]
+        (Attribution[S][N]
+          _!And he told me that , ammm ...!_
+          (Joint[N][N]
+            (Attribution[S][N]
+              (Joint[N][N]
+                _!he was trying to figure some stuff out ,!_
+                _!and ammm ...!_)
+              _!I asked him Like what ?!_)
+            _!and he will ...!_))
+        (Attribution[S][N] _!I mean!_ _!I will never forget it ,!_))
+      (Joint[N][N]
+        (Joint[N][N]
+          _!he was smoking a cigarette ,!_
+          _!and he was like really calm ,!_)
+        (Attribution[S][N]
+          (Attribution[S][N]
+            (Joint[N][N] _!and he looked at me!_ _!and he said!_)
+            _!What would you say!_)
+          (Condition[N][S]
+            _!if I said ...!_
+            (Attribution[S][N]
+              _!if I told you!_
+              _!Laura was dead ? <s>!_)))))
+    (same-unit[N][N]
+      (Attribution[N][S] _!And I was like ,!_ _!you know ,!_)
+      _!I was like What ? <s>!_))
+  (same-unit[N][N]
+    (same-unit[N][N]
+      (Joint[N][N]
+        (Attribution[S][N]
+          _!And ... basically he told me that , ammm ...!_
+          (same-unit[N][N]
+            (Elaboration[N][S]
+              _!the night that Laura had come over to the house ,!_
+              _!that she had died ,!_)
+            (Attribution[S][N]
+              _!and that!_
+              (Attribution[S][N]
+                _!whenever I left!_
+                _!that he just panicked and freaked out ,!_))))
+        (Attribution[S][N]
+          _!and I got ...!_
+          _!I started freaking out ,!_))
+      (same-unit[N][N]
+        (Attribution[S][N]
+          _!and I was asking him!_
+          _!why he did n't call the cops [ stutters ] ...!_)
+        (Attribution[S][N]
+          _!call for help like he told me!_
+          _!he was going to ,!_)))
+    (Attribution[S][N]
+      _!and he told me that , ammm ...!_
+      (Joint[N][N]
+        (Attribution[S][N]
+          _!he got scared!_
+          _!that he was a black man with a dead white woman!_)
+        (Attribution[S][N]
+          _!and nobody was gon na believe him!_
+          _!that it was an accident <P>!_)))))

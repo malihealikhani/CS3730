@@ -1,0 +1,82 @@
+(ROOT
+  (S
+    (ADVP (RB Um))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP remember)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBD were)
+            (VP (VBG going)
+              (PRT (RP in)
+                (CC and)
+                (RP out))
+              (PP (IN of)
+                (NP (DT the) (NNS basements))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP remember)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (DT the) (JJ like) (, ,) (JJ young) (NN ladies) (NN um))
+          (VP (VBD fell)
+            (PRT (RP down))
+            (PP (IN in)
+              (NP (DT the) (NN kitchen)))
+            (SBAR (IN because)
+              (S
+                (NP (PRP she))
+                (VP (VBD was)
+                  (ADJP (RB so) (JJ intoxicated)
+                    (SBAR
+                      (S
+                        (NP (PRP she))
+                        (VP (MD could) (RB n't)
+                          (VP (VB walk)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Um))
+      (, ,)
+      (NP (PRP me))
+      (CC and)
+      (NP
+        (NP (PRP$ my) (NN staff))
+        (, ,)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP (PRP$ my) (NN staff) (NNS members))))))
+    (ADVP (RB actually))
+    (VP (VBD made)
+      (NP (DT a) (NN comment))
+      (PP (IN about)
+        (NP (DT that))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Um))
+      (, ,)
+      (CC and)
+      (NP (DT that)))
+    (VP (VBZ 's) (RB all)
+      (NP
+        (NP (DT the) (RB only) (JJ other) (NN time))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP remember)
+              (S
+                (VP (VBG seeing)
+                  (NP (PRP them)))))))))
+    (. .)))
+

@@ -1,0 +1,25 @@
+(same-unit[N][N]
+  (Elaboration[N][S]
+    _!We talked about the same kind of books!_
+    (Attribution[N][S] _!we liked to read ,!_ _!I mean ,!_))
+  (Elaboration[N][S]
+    _!Atlas Shrugged , Thinking Girl Rich ,!_
+    (Elaboration[N][S]
+      _!How to Win Friends and Influence People ,!_
+      (same-unit[N][N]
+        (Elaboration[N][S]
+          _!we had a lot of the same interests ,!_
+          _!she was a great conversationalist on the phone ,!_)
+        (same-unit[N][N]
+          (Background[N][S]
+            _!we just had a lot in common ,!_
+            _!when I first met her ,!_)
+          (Temporal[N][N]
+            _!she 's a business woman at a national convention , an entrepreneur ,!_
+            (same-unit[N][N]
+              (Elaboration[N][S]
+                (Attribution[S][N]
+                  _!so I thought!_
+                  _!that was an attractive traits , all those things ,!_)
+                _!it sounded!_)
+              _!like somebody I wanted to get to know <P>!_)))))))

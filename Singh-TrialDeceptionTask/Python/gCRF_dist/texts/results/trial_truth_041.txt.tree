@@ -1,0 +1,31 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (same-unit[N][N]
+      (Joint[N][N]
+        _!Um , I put on my soft body armor!_
+        _!and put on ,!_)
+      (Elaboration[N][S]
+        _!um , in the Repeat Offender Project!_
+        (Elaboration[N][S]
+          _!we had hard body armor , uh , for ,!_
+          _!which was good for rifle rounds . <s>!_)))
+    _!So , it was augmented body armor . <s>!_)
+  (Elaboration[N][S]
+    _!So I put that on . <s>!_
+    (Elaboration[N][S]
+      (Elaboration[N][S]
+        _!Um , I changed my glasses!_
+        _!when I noticed the time of day . <s>!_)
+      (Elaboration[N][S]
+        (Enablement[N][S]
+          _!So , I changed the glasses from , um , my sunglasses to , uh , clear lenses ,!_
+          _!to have eye protection . <s>!_)
+        (same-unit[N][N]
+          (Elaboration[N][S]
+            _!Uh , got my department rifle ,!_
+            (Attribution[S][N]
+              _!insured!_
+              _!that I had my department rifle and my taser shotgun , and , um ,!_))
+          (Elaboration[N][S]
+            _!made sure!_
+            _!my body armor had the recording devices on it . <P>!_))))))

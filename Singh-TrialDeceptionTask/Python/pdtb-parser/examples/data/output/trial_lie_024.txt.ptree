@@ -1,0 +1,136 @@
+(ROOT
+  (S (CC So)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBG experiencing)
+          (NP (NN disorientation)))))
+    (, ,)
+    (S
+      (NP (PRP I))
+      (VP (VBD was) (RB n't)
+        (VP (VBG thinking)
+          (NP (NN gosh)))))
+    (, ,)
+    (S
+      (NP (NNP Travis) (POS '))
+      (ADVP (RB just))
+      (VP (VBD choked)
+        (NP (PRP me))
+        (PRT (RP out))))
+    (, ,)
+    (S
+      (NP (PRP I))
+      (VP (VBD was) (: ...)
+        (S
+          (ADVP (RB actually))
+          (NP (DT a) (NN thought))
+          (VP
+            (ADVP (JJ just) (NN sort) (IN of))
+            (VBD wandered)
+            (PP (IN through)
+              (NP
+                (NP (PRP$ my) (NN mind) (NNP Wheres) (NNP Nepolian))
+                (, ,)
+                (PP (IN in)
+                  (NP (PRP$ my) (NN head)))))
+            (SBAR (IN so)
+              (S
+                (NP (DT that))
+                (VP (VBD was)
+                  (NP (PRP$ my) (NN thought)))))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD did) (RB n't)
+        (ADVP (RB really))
+        (VP (VB have)
+          (NP (DT any) (NN relation))
+          (PP (TO to)
+            (NP
+              (NP (DT the) (NN event))
+              (, ,)
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBD was)
+                    (ADVP (RB just))
+                    (NP (DT a) (NN thought))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (NP
+          (NP (NN kinda))
+          (VP (VBG getting)
+            (NP (PRP$ my) (NNS bearings))))))
+    (, ,)
+    (S
+      (ADVP (RB um))
+      (, ,)
+      (SBAR (RB so)
+        (S
+          (NP (EX there))
+          (VP (VBZ is) (, ,)
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP (VBZ 's) (RB not)
+                  (ADJP (RB completely) (JJ clear))))))))
+      (, ,)
+      (NP (PRP I))
+      (ADVP (RB just))
+      (VP (VBP remember)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (VBD had)
+              (NP (PRP$ his) (NNS hands))
+              (PP (IN around)
+                (NP (PRP$ my) (NN neck))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBD was)
+        (VP (VBG banging)
+          (NP (PRP$ my) (NN head))
+          (PP (IN on)
+            (NP (DT the) (NN carpet))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD tried)
+        (S
+          (VP (TO to)
+            (VP (VB push)
+              (NP (PRP him))
+              (PRT (RP off)))))))
+    (, ,)
+    (CC and)
+    (S
+      (S
+        (ADVP (RB then))
+        (NP (PRP it))
+        (VP (VBD was)))
+      (, ,)
+      (CC and)
+      (RB then)
+      (S
+        (NP (PRP I))
+        (VP (VBN blacked)
+          (PRT (RP out)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Really) (RB shortly) (IN after))
+    (NP (DT that))
+    (. .)))
+

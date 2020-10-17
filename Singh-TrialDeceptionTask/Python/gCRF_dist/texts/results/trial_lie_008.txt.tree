@@ -1,0 +1,11 @@
+(textual-organization[N][N]
+  _!Ahhh ... <s>!_
+  (Joint[N][N]
+    _!I did n't go to the dance club as a drinking activity ,!_
+    (Attribution[S][N]
+      _!and nor did!_
+      (Elaboration[N][S]
+        _!I know at the time!_
+        (Elaboration[N][S]
+          _!that it was a dance club!_
+          _!until we got in there . <P>!_)))))

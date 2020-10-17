@@ -1,0 +1,33 @@
+(Elaboration[N][S]
+  (Evaluation[N][S]
+    (Attribution[S][N]
+      _!Well , I think!_
+      (Elaboration[N][S]
+        _!that I have a good memory!_
+        _!June 4th is an anomaly for me . <s>!_))
+    (Contrast[S][N]
+      _!It 's like I said yesterday ,!_
+      _!it 's in a class of it 's own . <s>!_))
+  (same-unit[N][N]
+    (Attribution[S][N]
+      _!And I ca n't explain!_
+      (Elaboration[N][S]
+        _!why ,!_
+        _!what kind of state of mind I was in ,!_))
+    (Joint[N][N]
+      (Attribution[S][N] _!um!_ _!it was ,!_)
+      (Joint[N][N]
+        _!most of the day was an entire blank ,!_
+        (Joint[N][N]
+          _!and little pieces have come back ,!_
+          (Joint[N][N]
+            _!but not very many ,!_
+            (Contrast[S][N]
+              _!So I ca n't explain that day alone!_
+              (same-unit[N][N]
+                _!but!_
+                (Condition[S][N]
+                  _!if you were ,!_
+                  (Elaboration[N][S]
+                    _!to put that day over here and over here all the other days of memory issues!_
+                    _!that are any different from any average person . <P>!_))))))))))

@@ -1,0 +1,72 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (VP
+        (VP (VBN convicted)
+          (NP (DT the) (JJ following) (NN year)))
+        (CC and)
+        (VP (VBN sentenced)
+          (PP (TO to)
+            (NP
+              (NP (JJ forty) (NNS years))
+              (PP (IN in)
+                (NP (NN prision))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT This) (JJ last) (NN year))
+        (NP (NNP July) (CD six)))
+      (PRN (, ,)
+        (S
+          (NP (PRP I))
+          (VP (VBD was)
+            (VP (VBN exonarated)
+              (PP (IN after)
+                (S
+                  (VP (VBG serving)
+                    (NP
+                      (ADJP (RB twently)
+                        (NP (CD two) (NNS years))
+                        (PP (IN by)
+                          (NP (NNP DNA))))
+                      (NN evidence))
+                    (PP (IN with)
+                      (NP
+                        (NP (DT the) (NN help))
+                        (PP (IN of)
+                          (NP
+                            (NP (DT the) (NN innocence) (NN project))
+                            (, ,)
+                            (SBAR
+                              (WHNP (WP who))
+                              (S
+                                (VP (VBD was)
+                                  (ADJP (JJ able)
+                                    (S
+                                      (VP (TO to)
+                                        (VP (VB locate)
+                                          (NP (NN evidence))
+                                          (PP (IN in)
+                                            (NP (PRP$ my) (NN case))))))))))))))))))))
+        (, ,))
+      (VP (VBP have)
+        (S
+          (NP (PRP it))
+          (VP (VBN tested)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN test))
+      (VP (VBP prove)
+        (SBAR (IN that)
+          (S
+            (NP (PRP I))
+            (VP (VBD had) (RB n't)
+              (VP (VBN committed)
+                (NP (DT the) (NN crime))))))))
+    (. .)))
+

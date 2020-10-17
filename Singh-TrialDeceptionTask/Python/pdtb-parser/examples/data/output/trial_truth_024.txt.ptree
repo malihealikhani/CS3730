@@ -1,0 +1,91 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (VP (VBN sentenced)
+        (S
+          (VP (TO to)
+            (VP (VB forty)
+              (PP (TO to)
+                (NP
+                  (NP (JJ sixty) (NNS years))
+                  (PP (IN in)
+                    (NP
+                      (NP (NN prision))
+                      (PP (IN for)
+                        (NP (DT this) (NN crime)))))))
+              (SBAR (IN that)
+                (S
+                  (NP (PRP I))
+                  (VP (VBD did) (RB n't)
+                    (VP (VB commit))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (DT the) (NN trial)))
+    (NP (DT the) (NN judge))
+    (VP (VBD had)
+      (VP (VBN exceded)
+        (NP (DT the) (NN sentence) (NNS guidelines))
+        (SBAR (IN because)
+          (S
+            (NP (PRP he))
+            (VP (VBD said)
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP (VBD failed)
+                    (S
+                      (VP (TO to)
+                        (VP (VB show)
+                          (NP (NN remorse)))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP I))
+    (VP (VBD told)
+      (SBAR
+        (S
+          (S
+            (NP (PRP him))
+            (PRN (, ,)
+              (S
+                (NP (PRP you))
+                (VP (VBP know) (, ,)
+                  (SBAR
+                    (S
+                      (NP (PRP I))
+                      (VP (VBD felt)
+                        (ADJP (JJ terrible)
+                          (PP (IN for)
+                            (SBAR
+                              (WHNP (WP what))
+                              (S
+                                (VP (VBP happen)
+                                  (PP (TO to)
+                                    (NP (DT this) (NN woman)))))))))))))
+              (, ,))
+            (VP (VBD shoud) (RB n't)
+              (VP (VB happen)
+                (PP (TO to)
+                  (NP (NN anyone))))))
+          (, ,)
+          (CC but)
+          (S
+            (NP (PRP I))
+            (VP (MD ca) (RB n't)
+              (VP (VB show)
+                (NP (NN remorse))
+                (PP (IN for)
+                  (S
+                    (VP (VBG somethig)
+                      (SBAR
+                        (S
+                          (NP (PRP I))
+                          (VP (VBD did) (RB n't)
+                            (VP (VB do))))))))))))))
+    (. .)))
+

@@ -1,0 +1,85 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD pushed)
+      (SBAR
+        (S
+          (NP (PRP me)
+            (CC and)
+            (PRP I))
+          (VP (VBD was)
+            (ADVP (RB up)
+              (PP (IN in)
+                (NP (PRP$ his) (NN face))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Definitely))
+    (PP (IN in)
+      (NP (PRP$ his) (NN face)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (VP (VBN Pushed)
+          (NP (PRP me))))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB know)
+          (SBAR (IN if)
+            (S
+              (NP (PRP he))
+              (VP (VBD did)
+                (NP (PRP it))
+                (PP (IN on)
+                  (NP (NN purpose)))))))))
+    (CC but)
+    (S
+      (NP (PRP he))
+      (VP (VBZ scratched)
+        (NP (PRP$ my) (NN neck))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (ADVP (RB then))
+    (NP (PRP he))
+    (VP (VBZ scratched)
+      (NP (PRP$ my) (NN neck)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (NP (DT a) (NN err))))
+    (: ...)
+    (S
+      (NP (DT a) (NN rag))
+      (ADJP (JJ t-shirt)
+        (PP (IN on)
+          (ADVP (RB anyway)))))
+    (SBAR (IN because)
+      (S
+        (NP (PRP I))
+        (VP (VBD 'd)
+          (VP (VBN been)
+            (VP (VBG taking)
+              (NP
+                (NP (NN care))
+                (PP (IN of)
+                  (NP (PRP$ my) (NN house)))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP he))
+    (VP (VBD tore)
+      (NP (PRP$ my) (NN shirt)))
+    (. .)))
+

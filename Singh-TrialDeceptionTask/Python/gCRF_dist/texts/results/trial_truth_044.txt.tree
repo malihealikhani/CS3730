@@ -1,0 +1,19 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Attribution[S][N]
+      _!Um , I remember!_
+      _!they were going in and out of the basements . <s>!_)
+    (Attribution[S][N]
+      _!I remember!_
+      (Explanation[N][S]
+        _!when the like , young ladies um fell down in the kitchen!_
+        (Attribution[S][N]
+          _!because she was so intoxicated!_
+          _!she could n't walk . <s>!_))))
+  (Elaboration[N][S]
+    _!Um , me and my staff , one of my staff members actually made a comment about that . <s>!_
+    (Joint[N][N]
+      _!Um ,!_
+      (Elaboration[N][S]
+        _!and that 's all the only other time!_
+        _!I remember seeing them . <P>!_))))

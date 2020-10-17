@@ -1,0 +1,29 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      (Elaboration[N][S]
+        _!Not at all . <s>!_
+        (Elaboration[N][S]
+          _!Oh , that 's her word agains!_
+          _!mine is n't . <s>!_))
+      _!Who do you think ? <s>!_)
+    (Contrast[N][N]
+      (Temporal[N][N]
+        _!You heard her ? <s>!_
+        (same-unit[N][N]
+          (Elaboration[N][S]
+            _!Since then you become the biggest!_
+            _!( inaudible )!_)
+          _!in all of this ? <s>!_))
+      (same-unit[N][N]
+        (Elaboration[N][S]
+          _!Well ,!_
+          (Contrast[S][N]
+            _!I would like to think so ,!_
+            _!but that 's not for me to juge ,!_))
+        _!is n't . <s>!_)))
+  (Elaboration[N][S]
+    (Attribution[S][N]
+      _!I mean!_
+      _!that 's between him and his God . <s>!_)
+    _!Is it not ? <P>!_))

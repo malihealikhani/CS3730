@@ -1,0 +1,63 @@
+(ROOT
+  (S (: ...)
+    (S
+      (NP
+        (NP
+          (NP (NN brother))
+          (, ,)
+          (NP (NN sister))
+          (CC and)
+          (NP (PRP$ his) (NNS children)))
+        (: ...)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP know)
+              (SBAR (IN that)
+                (S
+                  (NP (PRP he))
+                  (VP (VBD was)
+                    (NP
+                      (NP (DT a) (NN fun))
+                      (VP (VBG loving)
+                        (NP (NNP Uncle)))))))))
+          (CC and)
+          (S
+            (NP (PRP I))
+            (VP (VBP 'm))))
+        (: ...))
+      (VP (MD ca) (RB n't)
+        (VP (VB continue)
+          (PP (TO to)
+            (NP
+              (NP (NN experience) (NNS things))
+              (PP (IN in)
+                (NP (PRP$ his) (NN life)))))
+          (: ...)
+          (PP (IN for)
+            (NP (DT a) (NN kid))))))
+    (: ...)
+    (S
+      (NP (EX there))
+      (VP (VBZ is)
+        (ADVP (RB certainly))
+        (NP (DT no) (NN way)
+          (S
+            (VP (TO to)
+              (VP
+                (VP (VB explain))
+                (: ...)
+                (VP (VB make)
+                  (NP
+                    (NP (NN sense))
+                    (PP (IN of)
+                      (NP (DT the) (NN situation)))))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (ADJP (RB truly) (JJ sorry)
+          (PP (IN for)
+            (NP (DT that))))))
+    (. .)))
+

@@ -1,0 +1,2 @@
+conn:so conn_POS:IN prev1:neck prev1_POS:NN with_prev1_full:neck_so with_prev1_POS_full:NN_IN prev2:my prev2_POS:PRP$ with_prev2_full:my_so with_prev2_POS_full:PRP$_IN NA
+conn:so_that conn_POS:CC_IN prev1:head prev1_POS:NN with_prev1_full:head_so_that with_prev1_POS_full:NN_CC_IN prev2:my prev2_POS:PRP$ with_prev2_full:my_so_that with_prev2_POS_full:PRP$_CC_IN NA

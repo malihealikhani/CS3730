@@ -1,0 +1,11 @@
+(textual-organization[N][N]
+  _!With the word ' you ' in front of it . <s>!_
+  (Elaboration[N][S]
+    (Attribution[S][N]
+      _!So I would assume!_
+      _!that ' you ' would be ... <s>!_)
+    (Condition[S][N]
+      _!If I said you ,!_
+      (Attribution[S][N]
+        _!you would say -!_
+        (Attribution[S][N] _!you would assume!_ _!it 's you . <P>!_)))))

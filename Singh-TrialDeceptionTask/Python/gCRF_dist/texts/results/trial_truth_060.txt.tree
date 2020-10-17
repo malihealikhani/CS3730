@@ -1,0 +1,15 @@
+(Contrast[S][N]
+  (Background[S][N]
+    _!Yes um , Reginald and I would have like long talks and through one of our long talks ,!_
+    (Joint[N][N]
+      _!it was um late at night!_
+      _!and it was just us two . <s>!_))
+  (Elaboration[N][S]
+    (Attribution[N][S]
+      (Attribution[S][N]
+        _!But I guess!_
+        (Joint[N][N]
+          _!we put ourselves in a vulnerable position!_
+          _!and um we ,!_))
+      _!we ...!_)
+    _!we slept together . <P>!_))

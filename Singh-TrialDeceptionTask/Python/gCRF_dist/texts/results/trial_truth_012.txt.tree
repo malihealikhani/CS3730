@@ -1,0 +1,23 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      _!I do n't think too often , cause usually we!_
+      _!just call each other . <s>!_)
+    (Temporal[N][N]
+      _!We would be texting . <s>!_
+      (Condition[S][N]
+        (Background[N][S]
+          _!If we are both by a computer!_
+          _!when you are on gmail ,!_)
+        (Joint[N][N]
+          _!you can kind of see your contacts!_
+          _!and who 's actually online . <s>!_))))
+  (same-unit[N][N]
+    (Attribution[N][S]
+      _!And I think at one point ,!_
+      _!she wrote ' hi this is the text ' ,!_)
+    (Joint[N][N]
+      _!and I was online!_
+      (Attribution[S][N]
+        _!and I responded back to him!_
+        _!that we started kind of just talking that way <P>!_))))

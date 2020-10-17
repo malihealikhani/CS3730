@@ -1,0 +1,17 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      _!With a fist . <s>!_
+      (Joint[N][N]
+        _!On my temple . <s>!_
+        _!And he kept hitting the same spot . <s>!_))
+    (Attribution[S][N]
+      _!I guess!_
+      (Elaboration[N][S]
+        _!my head 's not as strong!_
+        (Attribution[S][N] _!I 'd like to believe!_ _!it is . <s>!_))))
+  (Explanation[N][S]
+    _!No , I went to the doctor and ... <s>!_
+    (Elaboration[N][S]
+      _!It was four days after . <s>!_
+      _!He finally went back to work . <P>!_)))

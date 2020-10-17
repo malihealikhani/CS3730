@@ -1,0 +1,33 @@
+(ROOT
+  (S (CC But)
+    (NP (RB yes))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADVP (RB there)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Yep))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD stayed))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (FRAG
+      (NP
+        (NP (NNP Uh))
+        (: ...)
+        (NP (NNP Yep))
+        (, ,))
+      (ADJP (JJ prob)))
+    (: --)
+    (FRAG
+      (INTJ (UH yes))
+      (, ,)
+      (NP (RB yes)))
+    (. .)))
+

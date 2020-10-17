@@ -1,0 +1,29 @@
+(Elaboration[N][S]
+  (Attribution[S][N]
+    _!He said!_
+    _!he was hungry , get something . <s>!_)
+  (Explanation[N][S]
+    (Elaboration[N][S]
+      (Attribution[S][N]
+        _!I -!_
+        (Elaboration[N][S]
+          _!there was a pizza receipt!_
+          _!siting there . <s>!_))
+      (Joint[N][N] _!I called!_ _!and ordered . <s>!_))
+    (Joint[N][N]
+      (Background[S][N]
+        _!When the pizza man came ,!_
+        (Background[N][S]
+          _!it was right!_
+          _!after Tim had been over . <s>!_))
+      (Elaboration[N][S]
+        (same-unit[N][N]
+          _!And!_
+          (Background[S][N]
+            _!when Tim was over ,!_
+            _!the guy had just stopped me . <s>!_))
+        (Attribution[S][N]
+          (Elaboration[N][S]
+            _!He was standing!_
+            _!being that partially opened!_)
+          _!door Tim talked about , with a gun . <P>!_)))))

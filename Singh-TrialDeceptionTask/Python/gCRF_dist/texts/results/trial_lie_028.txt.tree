@@ -1,0 +1,19 @@
+(Summary[N][S]
+  (Background[S][N]
+    (Elaboration[N][S]
+      _!Well , it happened very fast ,!_
+      (Enablement[N][S]
+        _!I did n't have time!_
+        (Elaboration[N][S]
+          _!to think everything!_
+          _!just happened um ,!_)))
+    _!it seemed in a split second . <s>!_)
+  (Elaboration[N][S]
+    _!So ... <s>!_
+    (Elaboration[N][S]
+      _!I really do n't ... <s>!_
+      (Attribution[S][N]
+        _!I just did n't have time to think to go this way or that way or to do this or that , it just happened!_
+        (Enablement[N][S]
+          _!without really thinking about the best move!_
+          _!to make . <P>!_)))))

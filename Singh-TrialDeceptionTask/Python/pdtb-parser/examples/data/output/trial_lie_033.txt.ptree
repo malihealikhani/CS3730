@@ -1,0 +1,260 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD knew)
+      (NP (PRP it)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Get)
+        (S
+          (NP (PRP them))
+          (ADVP
+            (NP (NNS kids))
+            (RB back))
+          (NP (EX there)))))
+    (, ,)
+    (VP (VBP do) (RB n't)
+      (VP (VB wan)
+        (S
+          (VP (TO na)
+            (VP (VB look)
+              (PP (IN at)
+                (NP (PRP you))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD got)
+      (NP (DT a) (NN gun))
+      (PRT (RP up))
+      (ADVP (RB here)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Get)
+      (S
+        (NP (PRP them))
+        (ADVP
+          (NP (NNS kids))
+          (RB back))
+        (NP (EX there))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (MD 'll)
+        (VP (VB flail)
+          (NP (DT a) (JJ little) (NN bit))))
+      (CC but)
+      (VP (VBP get)
+        (NP (PRP them))
+        (ADVP (RB back) (RB there))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (S
+      (NP
+        (NP (DT the) (NN police))
+        (, ,)
+        (VP
+          (VP (VBN come)
+            (PP (IN in)))
+          (CC and)
+          (VP (VBN shot)
+            (NP (DT the) (NN boy))
+            (SBAR
+              (WHADVP (WRB where))
+              (S
+                (NP (PRP they))
+                (VP (VBD were)
+                  (VP (VBN gone))))))))
+      (VP (VBP say)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBD were))))))
+    (. ?)))
+
+(ROOT
+  (S (: ...)
+    (SBAR
+      (ADVP (RB Well))
+      (S
+        (NP (PRP I))
+        (VP (MD could)
+          (VP (VB 've)))))
+    (, ,)
+    (VP (VBP look)
+      (PP (IN at)
+        (NP
+          (NP (PDT all) (DT those) (NNS rounds))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBD had)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP I))
+        (VP (VBD wanted)
+          (S
+            (VP (TO to)
+              (VP (VB kill)
+                (NP (NN someone))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD could)
+      (VP (VB have)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD were) (RB n't)
+      (VP (VBG trying)
+        (S
+          (VP (TO to)
+            (VP (VB kill)
+              (NP (NN nobody)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBD was) (RB n't)
+        (NP (DT no) (NNS hostages))))
+    (, ,)
+    (NP (JJ young) (NN folk))
+    (VP (VBD scared))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP (VBP see)
+        (NP (DT the) (NN man))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD made)
+      (SBAR
+        (S
+          (NP (PRP them))
+          (VP (VBP testify)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Them) (NN folk))
+      (VP (VBG going)
+        (PP (TO to)
+          (NP (NN jail)))))
+    (VP (VBP do) (RB n't)
+      (VP
+        (VP (VB come)
+          (ADVP (RB here)))
+        (CC and)
+        (VP (VB say)
+          (NP (NN nothing))
+          (PP (IN on)
+            (NP (PRP me))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Oh))
+    (NP (PRP I))
+    (VP (VBP ai) (RB n't)
+      (ADJP (RB just) (JJ mad)
+        (PP (IN at)
+          (NP (PRP them))))
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (MD can)
+            (VP (VB understand)
+              (NP (PRP you)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD scared))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP it))
+    (VP (MD should) (RB n't)
+      (VP (VB have)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (PP (IN like)
+                (NP (DT that))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (NNS people))
+      (PP (IN like)
+        (NP (DT that))))
+    (VP (VBP make)
+      (NP (PRP them))
+      (PP (IN like)
+        (NP (DT that))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBP see)
+      (S
+        (NP (PRP he))
+        (VP (VB make)
+          (S
+            (NP (CD -LSB-) (. ?))
+            (ADJP (JJ -RSB-))))))))
+
+(ROOT
+  (FRAG
+    (NP (PRP he))
+    (ADJP (JJ -LSB-) (. ?))
+    (ADVP (RB -RSB-))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBN gone)
+      (S
+        (VP (VB make)
+          (S
+            (NP (PRP me))
+            (VP (VB testify))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Made)))
+    (NP (PRP him))
+    (VP (VBP do)
+      (NP (PRP it)))
+    (. .)))
+

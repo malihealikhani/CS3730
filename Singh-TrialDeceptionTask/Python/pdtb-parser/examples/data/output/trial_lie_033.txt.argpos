@@ -1,0 +1,4 @@
+conn:If conn_POS:IN sent_pos:0 NA
+conn:because conn_POS:IN prev1:them prev1_POS:PRP with_prev1_full:them_because with_prev1_POS_full:PRP_IN prev2:at prev2_POS:IN with_prev2_full:at_because with_prev2_POS_full:IN_IN NA
+conn:And conn_POS:CC sent_pos:0 NA
+conn:But conn_POS:CC sent_pos:0 NA

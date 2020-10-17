@@ -1,0 +1,44 @@
+(ROOT
+  (FRAG
+    (PP (IN from)
+      (NP
+        (NP (NNS conversations))
+        (: ...)
+        (SBAR
+          (WHPP (IN from)
+            (WHNP (WP what)))
+          (S
+            (NP (NNP Jodi))
+            (VP (VBG telling)
+              (NP (PRP me))
+              (SBAR (IN that)
+                (S
+                  (NP (PRP he))
+                  (VP (VBD had)
+                    (VP (VBN talked)
+                      (PP (TO to)
+                        (NP (JJ other) (NNS girls)))
+                      (SBAR (RB even)
+                        (WHADVP (WRB when))
+                        (S
+                          (NP (PRP they))
+                          (VP (VBD were)
+                            (VP (VBN supposed)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB be)
+                                    (ADJP (RB together))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (MD might)
+      (VP (VB be)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (PRP I))
+            (VP (VBP mean))))))
+    (. .)))
+

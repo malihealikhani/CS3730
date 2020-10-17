@@ -1,0 +1,2 @@
+conn:after conn_POS:IN prev1:exonarated prev1_POS:VBN with_prev1_full:exonarated_after with_prev1_POS_full:VBN_IN prev2:was prev2_POS:VBD with_prev2_full:was_after with_prev2_POS_full:VBD_IN NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:tested prev2_POS:VBN with_prev2_full:tested_and with_prev2_POS_full:VBN_CC NA

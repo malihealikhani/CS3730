@@ -1,0 +1,227 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD started)
+        (NP (DT the) (NN investigation))
+        (ADVP (RB similarly))
+        (PP (TO to)
+          (SBAR
+            (WHADVP (WRB how))
+            (S
+              (NP (PRP I))
+              (VP (VBP start)
+                (NP (DT all) (JJ my) (, ,) (NN um))))))))
+    (, ,)
+    (S
+      (NP (NNS investigations))
+      (PP (IN as)
+        (NP (PRP I))))
+    (, ,)
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (NP
+          (NP
+            (ADJP (DT a)
+              (PRN (, ,)
+                (INTJ (UH uh))
+                (, ,))))
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (VP (VBZ 's)
+                (VP
+                  (VP (VBN called)
+                    (NP
+                      (NP (DT a) (JJ primary) (NN briefing))
+                      (, ,)
+                      (SBAR
+                        (WHADVP (WRB where))
+                        (S
+                          (NP
+                            (NP (DT all))
+                            (PP (IN of)
+                              (NP (PRP$ my))))
+                          (VP (VBZ assisting)
+                            (PRN (, ,)
+                              (INTJ (UH uh))
+                              (, ,))
+                            (NP (NNS detectives)))))))
+                  (CC and)
+                  (PRN (, ,)
+                    (INTJ (UH uh))
+                    (, ,))
+                  (VP (VBZ criminalistics)
+                    (NP
+                      (NP
+                        (NP (NNS detectives))
+                        (, ,)
+                        (NP
+                          (NP (DT the) (JJ scientific) (NN portion))
+                          (PP (IN of)
+                            (NP (DT the) (NN investigation)))))
+                      (, ,)
+                      (CONJP (RB as) (RB well) (IN as))
+                      (NP
+                        (NP (, ,)
+                          (NP (NN um))
+                          (, ,) (NNS members))
+                        (PP (IN of)
+                          (NP (DT the) (NN command) (NN staff)))))))))))
+        (SBAR (IN once)
+          (S
+            (NP (NN everyone))
+            (VP (VBZ 's)
+              (ADJP (JJ present)))))))
+    (CC and)
+    (S
+      (NP (PDT all) (DT the) (NNS representatives))
+      (ADVP (RB there))
+      (VP (VBP are)
+        (PP (IN from)
+          (NP
+            (NP (NNP OMI))
+            (, ,)
+            (NP
+              (NP (DT the) (NN district) (NN attorney) (POS 's))
+              (NN office))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Uh))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBP get)
+      (NP (NN everybody))
+      (ADVP (RB together)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Um))
+    (, ,)
+    (PP (IN in)
+      (NP (DT this) (JJ particular) (NN instance)))
+    (NP (EX there))
+    (VP (VBD was)
+      (NP
+        (NP
+          (QP (RB so) (JJ many)))
+        (PP (IN of)
+          (NP (PRP us))))
+      (, ,)
+      (S
+        (INTJ (UH uh))
+        (, ,)
+        (NP (PRP we))
+        (VP (VBD did)
+          (NP (PRP it))
+          (PP (IN inside)
+            (NP
+              (NP
+                (NP (DT the) (NN garage))
+                (PP (IN of)
+                  (PRN (, ,)
+                    (INTJ (UH uh))
+                    (, ,))
+                  (NP (NNP Alexander) (NNP Fixton)))
+                (POS 's))
+              (NN house))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP (VBD was) (RB not)
+        (ADJP (JJ present)
+          (PP (IN for)
+            (NP
+              (NP (DT any))
+              (PP (IN of)
+                (NP (DT the) (NNS briefings))))))))
+    (CC but)
+    (, ,)
+    (S
+      (NP (PRP he))
+      (VP (VBD allowed)
+        (S
+          (NP (PRP us))
+          (VP (TO to)
+            (VP (VB use)
+              (NP (PRP$ his))
+              (, ,)
+              (FRAG
+                (INTJ (UH uh))
+                (, ,)
+                (NP (NN garage))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP
+      (NP (NNP uh))
+      (, ,)
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ 's)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (VP (VBD started)
+                  (PRT (RP off))
+                  (NP (DT the) (NN investigation))))))))
+      (, ,))
+    (VP (VBZ is)
+      (S
+        (S
+          (NP (PRP I))
+          (VP (VBD was)))
+        (, ,)
+        (S
+          (NP
+            (NP (NN um))
+            (, ,)
+            (VP (VBD briefed)
+              (PRT (RP up))
+              (PP (IN on)
+                (NP
+                  (NP (DT some) (NNS officers))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBD were)
+                        (ADVP (RB there))
+                        (PP (IN on)
+                          (NP (NN scene))))))))
+              (SBAR (RB just) (IN so)
+                (S
+                  (NP (PRP I))
+                  (VP (MD could)
+                    (VP (VB get)
+                      (NP
+                        (NP (DT a) (NN lay))
+                        (PP (IN of)
+                          (NP (DT the) (NN land)))))))))
+            (, ,))
+          (VP (VBP figure)
+            (PRT (RP out))
+            (ADVP (NN kind) (IN of))))
+        (, ,)
+        (INTJ (UH uh))
+        (, ,)
+        (S
+          (NP (PRP you))
+          (VP (VBP know) (, ,)
+            (NP
+              (NP (DT a) (NN summary))
+              (PP (IN of)
+                (SBAR
+                  (WHNP (WP what))
+                  (S
+                    (VP (VBD happened))))))))))
+    (. .)))
+

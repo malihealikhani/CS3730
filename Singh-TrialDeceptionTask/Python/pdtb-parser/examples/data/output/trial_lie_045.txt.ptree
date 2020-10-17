@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP do) (RB not)
+      (VP (VB know)
+        (PRT (RP about))
+        (, ,)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (NP
+              (NP (NN quote))
+              (, ,)
+              (NP
+                (NP
+                  (ADJP (JJ responsible))
+                  (NNP CHR) (POS 's))
+                (NN share) (NNS holders)))
+            (VP (VBP are)
+              (SBAR (IN because)
+                (S
+                  (NP (DT that) (NN dataset))
+                  (VP
+                    (VP (VBZ is) (RB not)
+                      (ADJP (JJ available)))
+                    (CC and)
+                    (VP (VBZ is)
+                      (ADJP (RB completely) (VBN locked)
+                        (PRT (RP down))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT Any) (NNS statements))
+      (PP (IN about)
+        (NP
+          (NP
+            (ADJP (JJ responsible)
+              (CC and)
+              (JJ quote))
+            (JJ law-abiding) (NN CHR))
+          (VP (VBP are)))))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB completely) (JJ anecdotal))
+        (CC and)
+        (ADJP
+          (ADVP (RB therefore))
+          (VBN conjecture))))
+    (. .)))
+

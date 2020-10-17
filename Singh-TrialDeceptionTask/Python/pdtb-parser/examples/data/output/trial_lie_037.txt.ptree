@@ -1,0 +1,69 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP (VBD straddled)
+        (SBAR
+          (S
+            (NP (PRP me)
+              (CC and)
+              (PRP he))
+            (VP (VBD hit)
+              (NP (PRP me)))))))
+    (CC and)
+    (RB then)
+    (S
+      (NP (PRP he))
+      (VP (VBD started)
+        (S
+          (VP (VBG choking)
+            (NP (PRP me))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (MD could) (RB n't)
+        (VP (VB breath)
+          (SBAR
+            (S
+              (NP (PRP$ my) (NN umm))
+              (ADVP (RB airway))
+              (VP (VBD was)
+                (VP (VBN cut)
+                  (PRT (RP off)))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD could) (RB n't)
+      (VP (VB breath)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Umm)
+      (SBAR
+        (S
+          (NP (PRP$ my) (NN head))
+          (VP (VBD was)
+            (VP (VBG hurting)
+              (ADJP (RB really) (JJ bad)))))))
+    (. .)))
+
+(ROOT
+  (FRAG (CC and)
+    (NP
+      (NP (PRP it))
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD felt)
+            (SBAR (IN like)
+              (S
+                (NP (PRP$ my) (NN head))
+                (VP (VBD was)
+                  (VP (VBG gon)
+                    (S
+                      (VP (TO na)
+                        (VP (VB explode))))))))))))))
+

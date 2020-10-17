@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD used)
+      (NP (DT the) (JJ f) (NN word))
+      (NP (JJ several) (NNS times)))
+    (. .)))
+
+(ROOT
+  (S
+    (INTJ (UH Okay))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADJP (JJ sorry)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Let)
+      (S
+        (NP (PRP me))
+        (VP (VB rephrase)
+          (NP (DT that)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD made)
+      (VP (VBN mentioned)
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ f) (NN word))
+            (PP (IN towards)
+              (NP (PRP me)))))
+        (NP (JJ several) (NNS times))))
+    (. .)))
+

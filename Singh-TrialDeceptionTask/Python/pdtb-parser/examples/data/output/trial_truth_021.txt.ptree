@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (S
+      (PP (TO To)
+        (NP (PRP me)))
+      (NP (PRP it))
+      (VP (VBZ 's) (, ,)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's) (, ,)
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ 's) (, ,)
+                    (SBAR
+                      (S
+                        (NP (PRP it))
+                        (VP (VBZ 's)
+                          (ADJP (JJ hard))
+                          (PP (TO to) (: ...)
+                            (NP
+                              (VP (VB swallow)
+                                (SBAR (IN because)
+                                  (S
+                                    (NP (PRP I))
+                                    (VP (VBP know)
+                                      (SBAR
+                                        (S
+                                          (NP (PRP I))
+                                          (VP (VBD had) (RB n't)
+                                            (VP (VBN done)
+                                              (NP (NN anything)))))))))))))))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD was) (RB n't)
+        (NP (DT a) (JJ sexual) (NN predator))))
+    (. .)))
+

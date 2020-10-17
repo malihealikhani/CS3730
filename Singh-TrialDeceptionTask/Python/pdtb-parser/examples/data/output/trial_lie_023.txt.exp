@@ -1,0 +1,8 @@
+conn_lc:but conn:but conn_POS:CC with_prev_full:,_but xxx£
+conn_lc:because conn:Because conn_POS:IN xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:also conn:also conn_POS:RB with_prev_full:and_also xxx£
+conn_lc:now_that conn:now_that conn_POS:RB_IN with_prev_full:especially_now_that xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:away_and xxx£
+conn_lc:also conn:also conn_POS:RB with_prev_full:and_also xxx£
+conn_lc:if conn:if conn_POS:IN with_prev_full:example_if xxx£

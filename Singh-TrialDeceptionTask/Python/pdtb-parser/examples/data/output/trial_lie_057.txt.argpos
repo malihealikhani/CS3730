@@ -1,0 +1,3 @@
+conn:and conn_POS:CC prev1:definition prev1_POS:NN with_prev1_full:definition_and with_prev1_POS_full:NN_CC prev2:a prev2_POS:DT with_prev2_full:a_and with_prev2_POS_full:DT_CC NA
+conn:So conn_POS:IN sent_pos:0 NA
+conn:if conn_POS:IN sent_pos:1 prev1:So prev1_POS:IN with_prev1_full:So_if with_prev1_POS_full:IN_IN NA

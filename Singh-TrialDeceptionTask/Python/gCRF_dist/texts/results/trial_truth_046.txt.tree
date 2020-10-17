@@ -1,0 +1,35 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Attribution[S][N]
+      _!They were ...!_
+      (Elaboration[N][S]
+        _!they were at the taller!_
+        _!( ? ) table there , in the walk way . <s>!_))
+    (same-unit[N][N]
+      (Elaboration[N][S]
+        _!Um , we were staring all over the place ,!_
+        _!looking around ,!_)
+      _!taking pictures . <s>!_))
+  (Elaboration[N][S]
+    (Joint[N][N]
+      (Joint[N][N]
+        _!Inside , outside , capture as much as possible and they , uh , they kind of stopped me , uh ,!_
+        _!and started talking to me ,!_)
+      (same-unit[N][N]
+        (same-unit[N][N]
+          (Elaboration[N][S]
+            _!and uh , um , the two girls and the two guys!_
+            _!that had been drinking!_)
+          _!were trying to uh ,!_)
+        _!to say something to me . <s>!_))
+    (Joint[N][N]
+      (Attribution[S][N]
+        _!None of it made sense , um!_
+        (Elaboration[N][S]
+          _!they were telling me how they were!_
+          _!amazed with how many pictures that were taken ,!_))
+      (same-unit[N][N]
+        (Attribution[S][N] _!and stuff!_ _!but uh ,!_)
+        (Attribution[S][N]
+          _!most of what they said!_
+          _!was not really understandable . <P>!_)))))

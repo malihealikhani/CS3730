@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP do)
+        (VP (VB recall)
+          (S
+            (NP (PRP him))
+            (VP (VBG screaming)
+              (CC and)
+              (VBG yelling)
+              (PP (IN at)
+                (NP
+                  (NP (PRP me))
+                  (, ,)
+                  (NP (NN um)))))))))
+    (, ,) (IN so)
+    (S
+      (S
+        (NP (PRP I))
+        (VP (VBP do) (RB n't)
+          (VP (VB know)
+            (SBAR (IN if)
+              (S
+                (NP (DT that))
+                (VP (VBZ constitutes)
+                  (PP (IN as)
+                    (S
+                      (VP (VBG talking))))))))))
+      (, ,)
+      (CC but)
+      (S
+        (NP (PRP he))
+        (VP (VBD was)
+          (VP (VBG saying)
+            (NP
+              (NP (NNS words))
+              (, ,)
+              (NP (DT the) (JJ other) (NNS things)))))))
+    (, ,)
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB recall)
+          (ADVP (RB as) (RB far))
+          (PP (IN as)
+            (S
+              (VP (VBG being)
+                (PP (IN on)
+                  (NP (DT all) (NNS words)))))))))
+    (, ,)
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)))
+    (. .)))
+

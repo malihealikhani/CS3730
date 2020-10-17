@@ -1,0 +1,110 @@
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (DT this) (NNS corrections))
+        (VP (VBP are) (RB n't)
+          (VP (VBN made)
+            (PP (IN in)
+              (NP (PRP$ our) (NN system)))))))
+    (, ,)
+    (NP (PRP$ its))
+    (VP (VBZ gon)
+      (S
+        (VP (TO na)
+          (VP (VB happen)
+            (PP (TO to)
+              (NP (NN someone)))
+            (SBAR (IN that)
+              (S
+                (NP (PRP you))
+                (VP (VBP know))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP
+          (NP (NNP Trust)
+            (NX (FW me)))
+          (, ,)
+          (NP (PRP$ its) (NN gon)))
+        (VP (TO na)
+          (VP (VB happen))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (PRP I))
+        (VP (VBP do) (RB n't)
+          (VP (VB want)))))
+    (: ...)
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB want)
+          (ADJP (JJ anywhone)
+            (S
+              (VP (TO to)
+                (VP (VB go)
+                  (PP (IN through)
+                    (SBAR
+                      (WHNP (WP what))
+                      (S
+                        (NP
+                          (NP (PRP I))
+                          (CC or)
+                          (NP (PRP$ my) (NN family)))
+                        (VP (VBP have)
+                          (S
+                            (VP (TO to)
+                              (VP (VB go)
+                                (PRT (RP through))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Because)
+      (S
+        (S
+          (S
+            (NP (PRP we))
+            (VP (VBD went)
+              (PP (IN through)
+                (NP (DT the) (NN hell)
+                  (CC and)
+                  (NN back)))))
+          (, ,)
+          (CC and)
+          (S
+            (NP
+              (NP (NN nobody))
+              (PP (IN in)
+                (NP (DT this) (NN country))))
+            (VP (MD should)
+              (VP (VB have)
+                (S
+                  (VP (TO to)
+                    (VP (VB suffer)
+                      (PP (IN like)
+                        (NP (DT that))))))))))
+        (CC and)
+        (S
+          (NP (PRP I))
+          (VP (MD 'll)
+            (VP (VB do)
+              (NP (PRP$ my) (JJS best))
+              (S
+                (VP (TO to)
+                  (VP (VB make)
+                    (ADJP (JJ sure))))))))))
+    (NP (DT this))
+    (VP (VBZ is) (RB not)
+      (VP (VBG gon)
+        (S
+          (VP (TO na)
+            (VP (VB happen)
+              (PP (TO to)
+                (NP (NN anyone) (RB else))))))))
+    (. .)))
+

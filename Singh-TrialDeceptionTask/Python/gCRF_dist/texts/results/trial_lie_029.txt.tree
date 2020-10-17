@@ -1,0 +1,19 @@
+(Elaboration[N][S]
+  (Attribution[S][N]
+    (same-unit[N][N]
+      (Elaboration[N][S]
+        _!it goes back to the choking incident and the fact!_
+        _!that ,!_)
+      (Background[S][N]
+        _!when his body slammed me!_
+        (Attribution[N][S]
+          _!he was standing over me again!_
+          _!I thought!_)))
+    (Elaboration[N][S]
+      _!he was trying to get on top of me and!_
+      _!even when we fell ,!_))
+  (Attribution[S][N]
+    _!I felt!_
+    (Manner-Means[N][S]
+      _!he was still trying to get on top of me!_
+      _!by grabbing at me <P>!_)))

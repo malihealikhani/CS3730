@@ -1,0 +1,85 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT All))
+      (PP (IN of)
+        (NP
+          (NP (PRP us))
+          (, ,)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBP have)
+                (VP (VBN represented)
+                  (NP (NNS people))
+                  (PP (IN for)
+                    (NP
+                      (NP (NNS years))
+                      (PP (IN in)
+                        (NP (DT the) (NN system))))))))))))
+    (VP (VBP get)
+      (NP
+        (NP
+          (NP (NNS letters))
+          (PP (IN from)
+            (NP (JJ prisioners) (NN um))))
+        (: ...)
+        (CC and)
+        (NP (PRP$ their) (NNS families))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP (VBP know)))
+    (, ,)
+    (S
+      (NP (DT this) (NN person))
+      (VP (VBZ is)
+        (ADVP (RB improperly))
+        (VP (VBN convicted))))
+    (, ,)
+    (S
+      (NP (PRP you))
+      (VP (VBP need)
+        (S
+          (VP (TO to)
+            (VP (VB do)
+              (NP (NN something))
+              (PP (IN about)
+                (NP (PRP it))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (PRN (, ,)
+      (S
+        (S
+          (NP
+            (NP (PRP$ its)
+              (QP (DT no) (CD one)))
+            (ADJP (RB else)))
+          (VP (VBZ 's)
+            (NP (NN job)
+              (S
+                (VP (TO to)
+                  (VP (VB do)
+                    (NP (PRP it))
+                    (, ,)
+                    (FRAG
+                      (ADJP (JJ other)
+                        (PP (IN than)
+                          (NP (DT the) (JJ inocence) (NN project))))
+                      (: ...))))))))
+        (CC and)
+        (S
+          (NP (PRP they))
+          (VP (VBP do)
+            (NP (PRP it)))))
+      (, ,))
+    (NP (PRP they))
+    (VP (VBP do)
+      (NP (JJ itelse) (NN marvelously)))
+    (. .)))
+

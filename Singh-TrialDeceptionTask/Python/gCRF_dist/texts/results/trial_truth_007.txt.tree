@@ -1,0 +1,63 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      (Elaboration[N][S]
+        (Elaboration[N][S]
+          _!I have no idea . <s>!_
+          _!A police officer I presume . <s>!_)
+        _!You 'd have to ask my mother or my brother . <s>!_)
+      (Elaboration[N][S]
+        (Elaboration[N][S]
+          _!Nope . <s>!_
+          (Elaboration[N][S]
+            (Attribution[S][N]
+              _!They said!_
+              (Attribution[S][N]
+                _!they did n't know!_
+                _!where he was being taken . <s>!_))
+            _!Yep . <s>!_))
+        (Joint[N][N]
+          (Background[S][N]
+            _!Went to the house ,!_
+            (Elaboration[N][S]
+              _!I was in a fairly catatonic state , my dad and my brother!_
+              _!started making phone calls to all the local hospitals ,!_))
+          _!and they eventually got a hold of ... <s>!_)))
+    (same-unit[N][N]
+      (Elaboration[N][S]
+        _!I do n't know ,!_
+        _!whatever the hospital is ,!_)
+      _!Atlanta Medical Center . <s>!_))
+  (Elaboration[N][S]
+    (Explanation[N][S]
+      (Attribution[S][N]
+        _!And they would n't tell my dad anything but!_
+        _!that he was being taken there . <s>!_)
+      (Joint[N][N] _!So we got in the car ,!_ _!and we left . <s>!_))
+    (Elaboration[N][S]
+      _!That 's correct . <s>!_
+      (Elaboration[N][S]
+        (same-unit[N][N]
+          (Attribution[N][S] _!Yes ,!_ _!he was!_)
+          (same-unit[N][N]
+            (Elaboration[N][S]
+              _!and I had , I!_
+              (Elaboration[N][S]
+                _!--!_
+                (Attribution[S][N]
+                  _!that was instructed!_
+                  _!that that was the best idea!_)))
+            _!was to keep him at the day care . <s>!_))
+        (textual-organization[N][N]
+          _!The , uh ... <s>!_
+          (Elaboration[N][S]
+            _!Donna . <s>!_
+            (Elaboration[N][S]
+              (Elaboration[N][S]
+                _!The woman!_
+                _!that runs the day care . <s>!_)
+              (Elaboration[N][S]
+                _!Yep . <s>!_
+                (Elaboration[N][S]
+                  _!That 's the safest place ... uh!_
+                  _!for him to be . <P>!_)))))))))

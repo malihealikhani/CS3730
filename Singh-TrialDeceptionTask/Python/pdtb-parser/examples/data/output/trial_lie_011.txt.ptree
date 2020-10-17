@@ -1,0 +1,104 @@
+(ROOT
+  (S
+    (ADVP (RB Uh))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD had)
+      (ADVP (RB just))
+      (VP (VBN been)
+        (PP (IN on)
+          (NP (DT a) (NN cruise)))
+        (PP (IN with)
+          (NP (PRP$ my) (NN husband)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD had) (RB n't)
+      (VP (VBN been)
+        (PP (IN on)
+          (NP
+            (NP (DT a) (NN vacation))
+            (PP (IN for)
+              (NP
+                (NP (NNS years))
+                (, ,)
+                (ADVP (RB alone))
+                (, ,)))))
+        (PP (IN without)
+          (NP (DT the) (NNS children)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR
+        (PRN (-LRB- -LRB-)
+          (NP
+            (NP (NN pause))
+            (, ,)
+            (NP (JJ clears) (NN throat)))
+          (-RRB- -RRB-))
+        (S
+          (NP (PRP I))
+          (VP (VBD had)
+            (NP (DT a) (NN project)))))
+      (NP (PRP I))
+      (VP (VBD needed)
+        (S
+          (VP (TO to)
+            (VP (VB complete))))))
+    (, ,)
+    (CC and)
+    (S
+      (S
+        (NP (NNP Hemy))
+        (VP (VBD insisted)
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (VBD had)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (VP (VBN completed)
+                        (NP
+                          (NP (DT that))
+                          (: ...)
+                          (NP (NN day))))))))))))
+      (, ,)
+      (CC and)
+      (RB so)
+      (S
+        (NP
+          (NP (DT the) (JJ only) (NN way))
+          (WHPP (IN in)
+            (WHNP (WDT which))))
+        (NP (TO to)))
+      (: --)
+      (CC and)
+      (S
+        (NP (PRP it))
+        (VP (VBD required)
+          (NP (PRP$ his) (NN input)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (JJ only) (NN way))
+        (PP (IN in)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (TO to)
+                (VP (VB finish)
+                  (NP (PRP it))))))))
+      (VP (VBD was)
+        (S
+          (VP (TO to)
+            (VP (VB work)
+              (PP (IN on)
+                (NP (PRP it)))
+              (NP (DT that) (NN night)))))))))
+

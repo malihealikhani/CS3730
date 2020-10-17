@@ -1,0 +1,74 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Other) (JJ tactical) (NNS officers))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBD were)
+            (ADVP (RB already))
+            (PP (IN at)
+              (NP (DT the) (NN scene)))))))
+    (VP (VBD were)
+      (VP (VBN deployed)
+        (PP (IN on)
+          (NP (DT the) (JJ inner) (NN perimeter)))
+        (ADVP (RB already))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Um))
+      (, ,)
+      (ADVP (RB again))
+      (NP (NNP Officer) (NNP Purdue))
+      (VP (VBD had)
+        (ADVP (RB already))
+        (VP (VBN deployed)
+          (PP (IN in)
+            (NP (DT a) (JJ high-ground) (NN position))))))
+    (, ,)
+    (CC and)
+    (IN so)
+    (S
+      (NP
+        (NP
+          (NP (DT the) (JJ next) (CD two))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD walked)
+                (PRT (RP up))))))
+        (, ,)
+        (NP
+          (NP (NNP Officer) (NNP Perez))
+          (, ,)
+          (NP (NNP Officer) (NNP Ramon) (NNP Hernelez)))
+        (, ,))
+      (VP (VBD walked)
+        (PRT (RP up))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBG going)
+          (S
+            (VP (TO to)
+              (VP (VB send)
+                (NP
+                  (NP (DT both))
+                  (PP (IN of)
+                    (NP (DT those) (NNS individuals))))
+                (ADVP (RB up)
+                  (PP (TO to)
+                    (SBAR
+                      (WHADVP (WRB where))
+                      (S
+                        (NP (NNP Officer) (NNP Weimerskirtz))
+                        (VP (VBD was)
+                          (VP (VBG requesting)
+                            (NP (JJ additional) (NN manpower))))))))))))))
+    (. .)))
+

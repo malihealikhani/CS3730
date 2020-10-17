@@ -1,0 +1,98 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Um))
+      (, ,)
+      (NP (PRP$ my) (NN daughter)
+        (CC and)
+        (NN ah))
+      (, ,))
+    (ADVP (RB Nicole))
+    (VP (VBP have)
+      (VP (VBN been)
+        (NP
+          (NP (NNS friends))
+          (PP (IN for)
+            (NP (DT a) (JJ long) (NN time))))))
+    (. .)))
+
+(ROOT
+  (S
+    (INTJ (UH Ah))
+    (, ,)
+    (ADVP (RB pretty) (RB much))
+    (VP (VBP cause)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBD were) (DT both)
+            (NP
+              (NP (NNS lifers))
+              (PP (IN for)
+                (NP
+                  (NP (DT the) (NN class))
+                  (PP (IN of)
+                    (NP (CD 2005))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (ADVP (RB um))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD had)
+      (ADVP (RB actually))
+      (VP (VBN taught)
+        (NP (NNP Nicole) (NNP sophomore) (NNP English))))
+    (. .)))
+
+(ROOT
+  (S
+    (S (CC And)
+      (NP (NNP Nicole)
+        (CC and)
+        (NNP Megan))
+      (VP (VBD had)
+        (VP (VBN been)
+          (PP (IN in)
+            (NP (DT the) (NN band)))
+          (ADVP (RB together))
+          (PP (IN for)))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP think) (, ,)
+      (PP (IN from)
+        (NP (JJ like) (NNS 7th)))
+      (PP (TO to)
+        (NP (JJ 10th) (NN grade))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP
+      (NP (NN um))
+      (, ,)
+      (NP
+        (NP (DT no) (NN excuse))
+        (NP (PRP me)))
+      (, ,))
+    (VP (VBD basketball)
+      (PP (IN from)
+        (NP (CD 7th)))
+      (PP (TO to)
+        (NP (NN 10th))))
+    (. .)))
+
+(ROOT
+  (FRAG (CC And)
+    (ADVP (RB then))
+    (PP (IN in)
+      (NP (DT the) (NN band)))
+    (PP
+      (ADVP (RB together))
+      (IN from)
+      (ADJP (JJ 4th)
+        (PP (IN through)
+          (NP (NNP 12th)))))
+    (. .)))
+

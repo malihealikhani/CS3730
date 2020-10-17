@@ -1,0 +1,25 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Attribution[S][N]
+      _!I believe!_
+      _!it was on either paragraph one or two . <s>!_)
+    (Contrast[S][N]
+      _!I 'm not really sure ,!_
+      (same-unit[N][N]
+        (Background[N][S]
+          _!but he was saying!_
+          _!when one person 's rights is destroyed ,!_)
+        _!all of our rights are diminished or something like that . <s>!_)))
+  (Elaboration[N][S]
+    (Attribution[S][N]
+      _!I feel!_
+      (Elaboration[N][S]
+        _!like their parents taught them!_
+        _!how they were . <s>!_))
+    (Cause[S][N]
+      (Joint[N][N]
+        _!They looked up to their parents ,!_
+        _!and so they did n't like African Americans ,!_)
+      (Contrast[N][S]
+        _!so they just grew up to be like that too ,!_
+        _!even though they had the choice to ... <P>!_))))

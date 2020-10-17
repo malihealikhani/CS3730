@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (S
+      (NP (DT No) (NN sir) (NN I))
+      (VP (VBD was) (RB not)))
+    (, ,)
+    (FRAG (RB not)
+      (ADVP (IN at) (DT all)))
+    (. .)))
+

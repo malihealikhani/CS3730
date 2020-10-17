@@ -1,0 +1,106 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (NP (DT no) (NN idea)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Uh))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD was)
+      (PP (IN at)
+        (NP (NN work)))
+      (SBAR (IN so)
+        (S
+          (NP (PRP I))
+          (VP (VBD was)
+            (ADVP (RB presumably))
+            (VP (VBG doing)
+              (NP (NN work) (NNS things)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADJP (JJ s-sure)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBD was)))))
+      (: --)
+      (S
+        (VP (VB nope))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADJP (JJ sure)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (NP
+                (NP (NN work))
+                (VP (VBN related))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBZ 's)))
+    (: ...)
+    (S
+      (S
+        (NP (PRP it))
+        (VP (VBZ does)
+          (VP (VB seem)
+            (ADJP (JJ coincidental)))))
+      (CC but)
+      (S
+        (NP (PRP I))
+        (VP (VBP 'm)
+          (ADJP (JJ sure)
+            (SBAR (IN that)
+              (S
+                (NP (EX there))
+                (VP (VBD was)
+                  (NP
+                    (NP (NN something) (RB else))
+                    (VP (VBG going)
+                      (PRT (RP on))
+                      (SBAR (IN that)
+                        (S
+                          (NP (PRP I))
+                          (VP (VBD had)
+                            (S
+                              (VP (TO to)
+                                (VP (VB call)
+                                  (S
+                                    (NP (PRP him))
+                                    (ADJP (IN about))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP talk)
+      (PP (TO to)
+        (NP (PRP him)))
+      (ADVP (RB frequently))
+      (PP (IN about)
+        (NP (NN work) (NNS matters))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ 's))
+    (: ...)))
+

@@ -1,0 +1,31 @@
+(ROOT
+  (S (IN So)
+    (NP (PRP I))
+    (VP (VBD answered)
+      (NP (DT the) (NNS questions))
+      (ADVP
+        (ADVP (RB as) (RB much))
+        (SBAR (IN as)
+          (S
+            (NP (PRP I))
+            (VP (MD could))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (X (WP What))
+      (NP (PRP I))
+      (VP (VBD knew)))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBD knew)
+        (NP (NN nothing))
+        (PP (IN about)
+          (NP (DT those) (NN murder)
+            (CC and)
+            (NN rape)))))
+    (. .)))
+

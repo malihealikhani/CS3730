@@ -1,0 +1,35 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (same-unit[N][N]
+      (Attribution[N][S]
+        _!I started the investigation similarly to how I start all my , um ,!_
+        _!investigations as I ,!_)
+      (Attribution[S][N]
+        _!I have a , uh ,!_
+        (same-unit[N][N]
+          (Elaboration[N][S]
+            _!what 's called a primary briefing ,!_
+            _!where all of my assisting , uh , detectives!_)
+          (Elaboration[N][S]
+            _!and , uh , criminalistics detectives , the scientific portion of the investigation , as well as , um , members of the command staff!_
+            (Joint[N][N]
+              _!once everyone 's present!_
+              _!and all the representatives there are from OMI , the district attorney 's office . <s>!_)))))
+    _!Uh , we get everybody together . <s>!_)
+  (Elaboration[N][S]
+    _!Um , in this particular instance there was so many of us , uh , we did it inside the garage of , uh , Alexander Fixton 's house . <s>!_
+    (Joint[N][N]
+      _!He was not present for any of the briefings but , he allowed us to use his , uh , garage . <s>!_
+      (same-unit[N][N]
+        (same-unit[N][N]
+          (Elaboration[N][S]
+            _!And uh ,!_
+            _!that 's what started off the investigation ,!_)
+          (Elaboration[N][S]
+            _!is I was , um , briefed up on some officers!_
+            (Elaboration[N][S]
+              _!that were there on scene!_
+              _!just so I could get a lay of the land ,!_)))
+        (Elaboration[N][S]
+          _!figure out kind of , uh , you know , a summary!_
+          _!of what happened . <P>!_)))))

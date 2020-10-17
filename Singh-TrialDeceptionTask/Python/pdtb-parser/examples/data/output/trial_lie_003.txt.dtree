@@ -1,0 +1,9 @@
+neg(I-3, No-1)
+nn(I-3, sir-2)
+nsubj(was-4, I-3)
+root(ROOT-0, was-4)
+neg(was-4, not-5)
+dep(was-4, not-7)
+dep(not-7, at-8)
+pobj(at-8, all-9)
+

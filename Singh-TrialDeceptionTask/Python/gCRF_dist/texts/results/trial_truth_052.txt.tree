@@ -1,0 +1,17 @@
+(Elaboration[N][S]
+  (Explanation[N][S]
+    (Elaboration[N][S]
+      _!Five of the items had ...!_
+      _!were first taken through the serology process ,!_)
+    _!because they needed to determine what type of DNA is present . <s>!_)
+  (same-unit[N][N]
+    (Condition[N][S]
+      _!The reason being is!_
+      _!if sperm cells are identified ,!_)
+    (Elaboration[N][S]
+      _!we have to take them through a process!_
+      (same-unit[N][N]
+        (Elaboration[N][S]
+          _!where we then ... we call it a differential separation!_
+          _!where we are!_)
+        _!trying to separate the sperm cells from all of the epithelial cells . <P>!_))))

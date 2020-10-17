@@ -1,0 +1,104 @@
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB really))
+    (VP (VBD did) (RB n't)
+      (VP (VB tell)
+        (NP (PRP me))
+        (NP (NN anything))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (EX there))
+          (VP (VBD had)
+            (VP (VBN been)
+              (NP (DT an) (NN accident)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (EX there))
+            (VP (VBD had)
+              (VP (VBN been)
+                (NP (DT an) (NN accident) (: --)
+                  (SBAR (IN that)
+                    (S
+                      (NP (NNP Ian))
+                      (VP (VBD was)
+                        (ADJP (JJ fine))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (EX there))
+      (VP (VBD had)
+        (VP (VBN been)
+          (NP (DT an) (NN accident)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD did) (RB n't)
+      (ADVP (RB really))
+      (VP (VB tell)
+        (NP (PRP me))))
+    (. .)))
+
+(ROOT
+  (S
+    (S (CC And)
+      (ADVP (RB then))
+      (NP (PRP I))
+      (VP (VBD screamed)
+        (PP (IN into)
+          (NP (DT the) (NN phone)))
+        (S
+          (VP (VBG asking)
+            (SBAR
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (VP (VBD was)
+                    (VP (VBG going)
+                      (PRT (RP on))))))
+              (, ,)
+              (CC and)
+              (FRAG
+                (NP (PRP I))))))))
+    (: ...)
+    (S
+      (S
+        (NP (PRP They))
+        (ADVP (RB just))
+        (VP (VBD said)
+          (SBAR
+            (S
+              (NP (PRP you))
+              (VP (VBP need)
+                (S
+                  (VP (TO to)
+                    (VP (VB come)
+                      (ADVP (RB here))))))))))
+      (, ,) (IN so)
+      (S
+        (NP (PRP I))
+        (VP
+          (VP (VBD dropped)
+            (NP (DT the) (NN phone)))
+          (CC and)
+          (VP (VBD ran)
+            (PRT (RP out))
+            (PP (IN of)
+              (NP (PRP$ my) (NN office)))))))
+    (. .)))
+

@@ -1,0 +1,19 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Condition[S][N]
+      _!If this corrections are n't made in our system ,!_
+      (Elaboration[N][S]
+        _!its gon na happen to someone!_
+        _!that you know . <s>!_))
+    (Joint[N][N]
+      _!Trust me , its gon na happen ,!_
+      _!and I do n't want ... <s>!_))
+  (Explanation[N][S]
+    _!I do n't want anywhone to go through what I or my family have to go through . <s>!_
+    (Joint[N][N]
+      _!Because we went through the hell and back ,!_
+      (Joint[N][N]
+        _!and nobody in this country should have to suffer like that!_
+        (Attribution[S][N]
+          _!and I 'll do my best to make sure!_
+          _!this is not gon na happen to anyone else . <P>!_)))))

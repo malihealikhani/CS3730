@@ -1,0 +1,152 @@
+(ROOT
+  (S
+    (S
+      (INTJ (UH Well))
+      (, ,)
+      (S
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (PRP I))
+            (VP (VBP do)
+              (SBAR
+                (S
+                  (NP (NN recall))
+                  (VP (VBZ is)
+                    (SBAR
+                      (WHADVP (WRB when))
+                      (S
+                        (NP (PRP I))
+                        (VP (VBD filled)
+                          (SBAR
+                            (S
+                              (NP (DT the) (NN gas) (NNS cans))
+                              (ADVP (RB rather) (RB then))
+                              (VP (VBP have)
+                                (NP
+                                  (NP (RB just) (DT a) (JJ loose) (NN gas) (NN hose))
+                                  (ADVP (RB somewhere))
+                                  (SBAR
+                                    (S
+                                      (NP (PRP I))
+                                      (VP (VBD did) (RB n't)
+                                        (VP (VB have)
+                                          (S
+                                            (ADVP (RB anywhere))
+                                            (VP (TO to)
+                                              (VP (VB put)
+                                                (NP (PRP it))))))))))))))))))))))
+        (, ,)
+        (ADVP
+          (NP (CD um))
+          (RB so))
+        (, ,)
+        (NP (PRP I))
+        (VP (VBD hung)
+          (NP (PRP it))
+          (PRT (RP up))))
+      (CC and)
+      (S
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP I))
+            (VP (VBD hung)
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP
+                    (ADVP (IN up) (DT that))
+                    (VBZ ends)
+                    (NP (DT the) (NN transaction))
+                    (, ,)
+                    (SBAR (IN so)
+                      (S
+                        (NP (DT that))
+                        (VP (VBZ 's)
+                          (ADVP (RB probably))
+                          (NP
+                            (SBAR
+                              (WHADVP (WRB why))
+                              (PRN (, ,)
+                                (S
+                                  (NP (PRP I))
+                                  (VP (MD could)
+                                    (VP (VB have))))
+                                (, ,))
+                              (S
+                                (NP (PRP you))
+                                (VP (VBP know)
+                                  (S
+                                    (VP (VB mean) (, ,)
+                                      (SBAR (IN if)
+                                        (S
+                                          (NP (PRP I))
+                                          (VP (MD could)
+                                            (ADVP (IN of))
+                                            (VP (VB put)
+                                              (NP (PRP them))
+                                              (PRT (RP back))
+                                              (PP (IN in)
+                                                (NP (DT the) (NN trunk))))))))))))
+                            (CC or)
+                            (SBAR
+                              (WHNP (WDT whatever))
+                              (, ,)
+                              (S
+                                (ADVP (RB then))
+                                (VP (VBD started)
+                                  (NP
+                                    (NP (DT the) (NN car)
+                                      (CC or)
+                                      (NN vise) (NN versa))
+                                    (, ,)
+                                    (NP
+                                      (NP (NN um))
+                                      (PP (IN at)
+                                        (NP (CD one) (NN point))))))))))))))))))
+        (, ,)
+        (NP (PRP I))
+        (VP (VBD did) (RB n't)
+          (VP (VB want)
+            (PP (TO to)
+              (NP (NN ground)))))))
+    (, ,) (IN so)
+    (S
+      (S
+        (NP (PRP I))
+        (VP (VBD hung)
+          (NP (PRP it))
+          (PRT (RP up))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (DT that))
+        (VP (VBD ended)
+          (NP (DT the) (NN transaction))
+          (, ,)
+          (SBAR (IN so)
+            (S
+              (NP (DT that))
+              (VP (VBZ 's)
+                (ADVP (RB probably))
+                (SBAR
+                  (WHADVP (WRB why))
+                  (S
+                    (NP (EX there))
+                    (VP (VBZ is)
+                      (NP
+                        (QP (JJR more) (IN than) (CD one))))))))))))
+    (CC and)
+    (S
+      (ADVP (RB maybe))
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBG topping)
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN gas) (NN tank))
+              (PP (IN for)
+                (NP (DT another))))))))
+    (. .)))
+

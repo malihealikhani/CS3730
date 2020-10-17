@@ -1,0 +1,95 @@
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBD was)
+        (NP
+          (NP (DT a) (NN lot))
+          (PP (IN of)
+            (NP
+              (NP (NN talk))
+              (PP (IN about)
+                (NP (PRP me)))))
+          (VP (VBG being)))))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP know) (, ,)
+      (ADVP (RB seduced))
+      (PP (IN by)
+        (NP (NNP Jodi))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (ADVP (RB frankly))
+    (, ,)
+    (NP (NNP Jodi))
+    (VP (VBZ is) (RB not)
+      (ADJP (RB that) (JJ seductive)
+        (PP (IN as)
+          (NP (DT a) (NN person)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP She))
+      (VP (VBZ 's)
+        (ADJP (RB pretty) (JJ straightforward))
+        (, ,)
+        (ADVP (RB uhm))))
+    (, ,)
+    (CC and)
+    (S
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (NNP Jodi))
+          (VP (VBD did))))
+      (VP (VBD was)
+        (ADJP (JJ terrible))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (NNP Jodi))
+    (VP (VBZ is) (RB n't)
+      (ADJP (JJ terrible)))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (S
+      (NP (PRP I))
+      (VP (VBP think)
+        (NP (DT the) (NNS media))))
+    (: ...)
+    (S
+      (NP (PRP You))
+      (VP (VBD had)
+        (NP (NNP Nancy) (NNP Grace))))
+    (, ,)
+    (S
+      (NP (PRP you))
+      (VP (VBD had)
+        (NP (NNP Jane) (NNP Velez) (NNP Mitchell))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP you))
+      (VP (VBD had)
+        (NP
+          (NP (NNP Dr.) (NNP Drew))
+          (, ,)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBZ is)
+                (ADJP (RB very) (JJ insidious))
+                (SBAR (IN because)
+                  (S
+                    (NP (PRP he))
+                    (VP (VBZ sounds)
+                      (ADJP (JJ sane)))))))))))
+    (. .)))
+

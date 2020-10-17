@@ -1,0 +1,146 @@
+(ROOT
+  (S
+    (ADVP (RB Again))
+    (, ,)
+    (S
+      (NP (PRP it))
+      (VP (VBD took)))
+    (, ,)
+    (S
+      (NP (PRP it))
+      (VP (VBD took)
+        (NP (DT a) (JJ long) (NN time))))
+    (, ,)
+    (S
+      (NP (PRP it))
+      (VP (VBD took)
+        (NP (DT a) (JJ long) (NN time))
+        (PP (IN for)
+          (NP (PRP me)))
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (PP (TO to)
+                (NP (DT this) (NN point))))))))
+    (, ,)
+    (S
+      (NP (PRP I))
+      (ADVP (RB never))
+      (VP (VBD wanted)
+        (S
+          (VP (TO to)
+            (VP (VB admit)
+              (PP (TO to)
+                (NP (DT this))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD 'd)
+        (VP (VBN written)
+          (PP (IN out)
+            (NP
+              (NP (DT all))
+              (PP (IN of)
+                (NP (PRP$ my) (NN suicide) (NNS letters))))))))
+    (, ,)
+    (S
+      (NP (PRP I))
+      (VP (VBD sent)
+        (SBAR
+          (S
+            (S
+              (NP (PRP$ my) (NN note))
+              (PRN (, ,)
+                (S
+                  (NP (PRP I))
+                  (VP (VBD sent)
+                    (NP (PRP them))
+                    (PP (DT all) (IN in)
+                      (NP (DT an) (NN envelope)))
+                    (PP (TO to)
+                      (NP (PRP$ my) (NN grandmother)))))
+                (, ,))
+              (VP (VBP do) (RB not)
+                (VP (VB open)
+                  (PP (IN until)
+                    (NP
+                      (NP (NNP Nov))
+                      (ADJP (JJ 10th)
+                        (NP (CD 2008))))))))
+            (, ,)
+            (S
+              (NP (PRP I))
+              (VP (VBD was)
+                (VP (VBG hoping)
+                  (S
+                    (VP (TO to)
+                      (VP (VB be)
+                        (ADJP (JJ dead))
+                        (PP (IN by)
+                          (NP (RB then)))
+                        (, ,)
+                        (S
+                          (VP (VBG giving)
+                            (NP (PRP myself))
+                            (NP (DT a) (JJ little) (NN time)))))))
+                  (, ,)
+                  (S
+                    (VP (TO to)
+                      (VP (VB get)
+                        (NP (PRP$ my) (NNS affairs))
+                        (PP (IN in)
+                          (NP
+                            (NP (NN order))
+                            (, ,)
+                            (SBAR
+                              (WHNP (WDT that) (NN date))
+                              (S
+                                (VP (VBD rolled)
+                                  (PP (IN by)))))))))))))
+            (CC and)
+            (RB then)
+            (S
+              (NP (JJR more) (NN time))
+              (VP (VBD rolled)
+                (PP (IN by))))))))
+    (CC and)
+    (S
+      (S
+        (NP (PRP I))
+        (VP (VBD was)
+          (ADVP (RB still))
+          (ADVP (RB here))))
+      (, ,) (IN so)
+      (S
+        (PP (IN with)
+          (NP
+            (NP (DT the) (NN evolution))
+            (PP (IN of)
+              (NP
+                (NP (RB just) (NN time))
+                (CC and)
+                (NP (DT the) (NNS years))))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBD went)
+                  (PP (IN by)))))))
+        (PRN (, ,)
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (NP (DT a) (JJ gradual) (NN process))))
+          (, ,))
+        (NP (PRP I))
+        (VP (VBD began)
+          (S
+            (VP (TO to)
+              (VP (VB feel)
+                (ADVP (RB not) (RB right))
+                (PP (IN about)
+                  (S
+                    (VP (VBG keeping)
+                      (NP (PRP it))
+                      (PP (IN in) (RB instead)))))))))))
+    (. .)))
+

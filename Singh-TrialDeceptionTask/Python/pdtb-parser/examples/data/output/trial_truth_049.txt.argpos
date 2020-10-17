@@ -1,0 +1,1 @@
+conn:and conn_POS:CC prev1:recover prev1_POS:VB with_prev1_full:recover_and with_prev1_POS_full:VB_CC prev2:and prev2_POS:CC with_prev2_full:and_and with_prev2_POS_full:CC_CC NA

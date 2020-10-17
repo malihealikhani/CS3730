@@ -1,0 +1,16 @@
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Why))
+    (SQ (MD would)
+      (NP (PRP she))
+      (VP (VB take)
+        (SBAR
+          (S
+            (S
+              (NP (DT a) (VBG hammer)))
+            (CC and)
+            (S
+              (VP (VB hit)
+                (NP (PRP him)))
+              (: ...))))))))
+

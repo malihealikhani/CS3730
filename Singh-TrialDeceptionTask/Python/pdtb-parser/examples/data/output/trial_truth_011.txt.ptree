@@ -1,0 +1,110 @@
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD talked)
+      (PP (IN about)
+        (NP
+          (NP (DT the) (JJ same) (NN kind))
+          (PP (IN of)
+            (NP (NNS books)))))
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (VBD liked)
+            (S
+              (VP (TO to)
+                (VP (VB read)
+                  (PRN (, ,)
+                    (S
+                      (NP (PRP I))
+                      (VP (VBP mean)))
+                    (, ,))
+                  (NP
+                    (NP (NNP Atlas) (NNP Shrugged))
+                    (, ,)
+                    (NP (NNP Thinking) (NNP Girl) (NNP Rich))
+                    (, ,)
+                    (SBAR
+                      (WHADVP (WRB How))
+                      (S
+                        (PP (TO to)
+                          (NP
+                            (NP (NNP Win) (NNPS Friends))
+                            (CC and)
+                            (NP (JJ Influence) (NNS People))))
+                        (, ,)
+                        (S
+                          (NP (PRP we))
+                          (VP (VBD had)
+                            (NP
+                              (NP (DT a) (NN lot))
+                              (PP (IN of)
+                                (NP (DT the) (JJ same) (NNS interests))))))
+                        (, ,)
+                        (S
+                          (NP (PRP she))
+                          (VP (VBD was)
+                            (NP
+                              (NP (DT a) (JJ great) (NN conversationalist))
+                              (PP (IN on)
+                                (NP (DT the) (NN phone))))))
+                        (, ,)
+                        (S
+                          (NP (PRP we))
+                          (ADVP (RB just))
+                          (VP (VBD had)
+                            (NP
+                              (NP (DT a) (NN lot))
+                              (PP (IN in)
+                                (NP
+                                  (NP (JJ common))
+                                  (, ,)
+                                  (SBAR
+                                    (WHADVP (WRB when))
+                                    (S
+                                      (NP (PRP I))
+                                      (ADVP (RB first))
+                                      (VP (VBD met)
+                                        (NP (PRP her)))))))))))))
+                  (PRN (, ,)
+                    (S
+                      (NP (PRP she))
+                      (VP (VBZ 's)
+                        (NP
+                          (NP (DT a) (NN business) (NN woman))
+                          (PP (IN at)
+                            (NP
+                              (NP (DT a) (JJ national) (NN convention))
+                              (, ,)
+                              (NP (DT an) (NN entrepreneur)))))))
+                    (, ,))
+                  (SBAR (IN so)
+                    (S
+                      (NP (PRP I))
+                      (VP (VBD thought)
+                        (SBAR
+                          (S
+                            (SBAR
+                              (WHNP (WDT that))
+                              (S
+                                (VP (VBD was)
+                                  (NP
+                                    (NP (DT an) (JJ attractive) (NNS traits))
+                                    (, ,)
+                                    (NP (PDT all) (DT those) (NNS things))))))
+                            (, ,)
+                            (NP (PRP it))
+                            (VP (VBD sounded)
+                              (SBAR
+                                (S
+                                  (PP (IN like)
+                                    (NP (NN somebody)))
+                                  (NP (PRP I))
+                                  (VP (VBD wanted)
+                                    (S
+                                      (VP (TO to)
+                                        (VP (VB get)
+                                          (S
+                                            (VP (TO to)
+                                              (VP (VB know)))))))))))))))))))))))))
+

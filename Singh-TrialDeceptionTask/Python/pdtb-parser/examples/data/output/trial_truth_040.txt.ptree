@@ -1,0 +1,64 @@
+(ROOT
+  (S
+    (NP (NNP Um))
+    (: ...)
+    (S
+      (ADVP (RB well))
+      (NP (PRP I))
+      (VP (VBP remember)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBD heard)
+              (NP (DT a) (NN shot))
+              (PP (IN after)
+                (NP (DT that))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Um)))
+    (: ...)
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP remember)
+        (S
+          (VP (VBG getting)
+            (PP (IN under)
+              (NP
+                (NP (DT the) (NN vehicle))
+                (: ...)
+                (NP (NNP and))))))))
+    (: ...)
+    (S
+      (NP (PRP I))
+      (VP (VBD fell)
+        (PP (IN on)
+          (NP (DT the) (NN ground)))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP
+      (NP (NN um))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ 's)
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (VP (VBP SPO)
+                  (NP (NNP Jerry) (NNP Johnson)))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD heard)
+      (SBAR
+        (S
+          (NP (PRP him))
+          (VP (VBP come)
+            (PRT (RP up))))))
+    (. .)))
+

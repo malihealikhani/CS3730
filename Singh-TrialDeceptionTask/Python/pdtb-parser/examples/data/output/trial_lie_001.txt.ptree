@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (DT No) (NN sir) (NN I))
+    (VP (VBD did) (RB not))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB absolutely))
+    (VP (VBD did) (RB not))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT No) (NN sir) (NN I))
+    (VP (VBD was) (RB not))
+    (. .)))
+
+(ROOT
+  (NP (DT No) (NN sir) (. .)))
+

@@ -1,0 +1,6 @@
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:on prev2_POS:RP with_prev2_full:on_and with_prev2_POS_full:RP_CC NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:yelled prev2_POS:VBD with_prev2_full:yelled_and with_prev2_POS_full:VBD_CC NA
+conn:because conn_POS:IN prev1:remember prev1_POS:VB with_prev1_full:remember_because with_prev1_POS_full:VB_IN prev2:can prev2_POS:MD with_prev2_full:can_because with_prev2_POS_full:MD_IN NA
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:well prev2_POS:RB with_prev2_full:well_but with_prev2_POS_full:RB_CC NA
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:meanings prev2_POS:NNS with_prev2_full:meanings_but with_prev2_POS_full:NNS_CC NA
+conn:if conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_if with_prev1_POS_full:,_IN prev2:feel prev2_POS:VBP with_prev2_full:feel_if with_prev2_POS_full:VBP_IN NA

@@ -1,0 +1,15 @@
+conn:and conn_POS:CC sent_pos:1 prev1:... prev1_POS:: with_prev1_full:..._and with_prev1_POS_full::_CC NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:me prev2_POS:PRP with_prev2_full:me_and with_prev2_POS_full:PRP_CC NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:other prev2_POS:JJ with_prev2_full:other_and with_prev2_POS_full:JJ_CC NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:wall prev2_POS:NN with_prev2_full:wall_and with_prev2_POS_full:NN_CC NA
+conn:and conn_POS:CC prev1:me prev1_POS:PRP with_prev1_full:me_and with_prev1_POS_full:PRP_CC prev2:into prev2_POS:IN with_prev2_full:into_and with_prev2_POS_full:IN_CC NA
+conn:and conn_POS:CC prev1:her prev1_POS:PRP with_prev1_full:her_and with_prev1_POS_full:PRP_CC prev2:grabbed prev2_POS:VBD with_prev2_full:grabbed_and with_prev2_POS_full:VBD_CC NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:out prev2_POS:RP with_prev2_full:out_and with_prev2_POS_full:RP_CC NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:him prev2_POS:PRP with_prev2_full:him_and with_prev2_POS_full:PRP_CC NA
+conn:and conn_POS:CC prev1:it prev1_POS:PRP with_prev1_full:it_and with_prev1_POS_full:PRP_CC prev2:kicked prev2_POS:VBD with_prev2_full:kicked_and with_prev2_POS_full:VBD_CC NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:floor prev2_POS:NN with_prev2_full:floor_and with_prev2_POS_full:NN_CC NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:happened prev2_POS:VBD with_prev2_full:happened_and with_prev2_POS_full:VBD_CC NA
+conn:when conn_POS:WRB prev1:and prev1_POS:CC with_prev1_full:and_when with_prev1_POS_full:CC_WRB prev2:, prev2_POS:, with_prev2_full:,_when with_prev2_POS_full:,_WRB NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:door prev2_POS:NN with_prev2_full:door_and with_prev2_POS_full:NN_CC NA
+conn:and conn_POS:CC prev1:was prev1_POS:VBD with_prev1_full:was_and with_prev1_POS_full:VBD_CC prev2:noise prev2_POS:NN with_prev2_full:noise_and with_prev2_POS_full:NN_CC NA
+conn:and conn_POS:CC prev1:was prev1_POS:VBD with_prev1_full:was_and with_prev1_POS_full:VBD_CC prev2:daddy prev2_POS:NN with_prev2_full:daddy_and with_prev2_POS_full:NN_CC NA

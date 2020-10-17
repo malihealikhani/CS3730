@@ -1,0 +1,19 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    _!Ahhh ... <s>!_
+    (Temporal[N][N]
+      (same-unit[N][N]
+        (Attribution[N][S]
+          _!When we got to the hotel ,!_
+          _!I remember ,!_)
+        (Attribution[S][N]
+          _!ammm ...!_
+          (Elaboration[N][S]
+            _!sitting , er ...!_
+            _!sitting briefly on the balcony of my room ,!_)))
+      (Attribution[S][N]
+        _!but then that was!_
+        (Elaboration[N][S]
+          _!that there was no other additional time!_
+          _!if that 's what you 're asking . <s>!_))))
+  _!Besides what I ... just explained , no . <P>!_)

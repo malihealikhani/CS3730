@@ -1,0 +1,82 @@
+(ROOT
+  (S
+    (S
+      (INTJ (UH Well))
+      (, ,)
+      (S
+        (NP (PRP it))
+        (VP (VBD happened)
+          (ADJP (RB very) (JJ fast))))
+      (, ,)
+      (S
+        (NP (PRP I))
+        (VP (VBD did) (RB n't)
+          (VP (VB have)
+            (NP (NN time))
+            (S
+              (VP (TO to)
+                (VP (VB think)
+                  (NP
+                    (NP (NN everything))
+                    (VP
+                      (ADVP (RB just))
+                      (VBN happened)
+                      (NP (NN um)))))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD seemed)
+      (PP (IN in)
+        (NP (DT a) (NN split) (NN second))))
+    (. .)))
+
+(ROOT
+  (S
+    (FRAG
+      (ADVP (RB So)))
+    (: ...)
+    (S
+      (S
+        (NP (PRP I))
+        (ADVP (RB really))
+        (VP (VBP do) (RB n't)))
+      (: ...)
+      (S
+        (NP (PRP I))
+        (ADVP (RB just))
+        (VP (VBD did) (RB n't)
+          (VP (VB have)
+            (NP (NN time))
+            (S
+              (VP (TO to)
+                (VP (VB think)
+                  (S
+                    (VP
+                      (VP (TO to)
+                        (VP (VB go)
+                          (NP
+                            (NP (DT this) (NN way))
+                            (CC or)
+                            (NP (DT that) (NN way)))))
+                      (CC or)
+                      (VP (TO to)
+                        (VP (VB do)
+                          (NP
+                            (NP (DT this))
+                            (CC or)
+                            (NP (DT that)))))))))))))
+      (, ,)
+      (S
+        (NP (PRP it))
+        (ADVP (RB just))
+        (VP (VBD happened)
+          (PP (IN without)
+            (S
+              (ADVP (RB really))
+              (VP (VBG thinking)
+                (PP (IN about)
+                  (NP (DT the) (JJS best) (NN move)))
+                (S
+                  (VP (TO to)
+                    (VP (VB make))))))))))
+    (. .)))
+

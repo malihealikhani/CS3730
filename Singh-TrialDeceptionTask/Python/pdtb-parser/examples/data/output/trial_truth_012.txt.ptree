@@ -1,0 +1,100 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB think)
+          (S
+            (ADVP (RB too) (RB often))
+            (, ,)
+            (VP (VB cause)
+              (ADVP (RB usually)))))))
+    (NP (PRP we))
+    (VP
+      (ADVP (RB just))
+      (VBP call)
+      (NP (DT each) (JJ other)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (MD would)
+      (VP (VB be)
+        (ADJP (JJ texting))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP we))
+        (VP (VBP are) (DT both)
+          (PP (IN by)
+            (NP (DT a) (NN computer)))
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP you))
+              (VP (VBP are)
+                (PP (IN on)
+                  (NP (NN gmail)))))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD can)
+      (ADVP (NN kind) (IN of))
+      (VP (VB see)
+        (NP
+          (NP (PRP$ your) (NNS contacts))
+          (CC and)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBZ 's)
+                (ADVP (RB actually))
+                (PP (NN online))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S (CC And)
+      (NP (PRP I))
+      (VP (VBP think)
+        (PP (IN at)
+          (NP (CD one) (NN point)))))
+    (, ,)
+    (S
+      (NP (PRP she))
+      (VP (VBD wrote) (`` `)
+        (S
+          (S
+            (INTJ (UH hi))
+            (NP (DT this))
+            (VP (VBZ is)
+              (NP (DT the) (NN text) ('' '))))
+          (, ,)
+          (CC and)
+          (S
+            (NP (PRP I))
+            (VP (VBD was)
+              (ADJP (JJ online)))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD responded)
+        (ADVP (RB back))
+        (PP (TO to)
+          (NP (PRP him)))
+        (SBAR (IN that)
+          (S
+            (NP (PRP we))
+            (VP (VBD started)
+              (NP
+                (NP (NN kind))
+                (PP (IN of)
+                  (S
+                    (VP
+                      (ADVP (RB just))
+                      (VBG talking)
+                      (NP (DT that) (NN way)))))))))))))
+

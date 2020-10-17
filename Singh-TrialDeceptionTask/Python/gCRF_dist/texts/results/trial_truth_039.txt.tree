@@ -1,0 +1,21 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Background[S][N]
+      _!When interviewed by police ,!_
+      (Attribution[S][N]
+        _!Mathew Hood stated!_
+        (Joint[N][N]
+          _!that Jamie Hood called him!_
+          _!and asked him to pick Him up at Mc Donald 's . <s>!_)))
+    _!He did so . <s>!_)
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      _!Jamie was at Mc Donald 's with his parents . <s>!_
+      (same-unit[N][N]
+        (Elaboration[N][S]
+          _!Jamie asked Mathew to take him to his cousins Tobarris 's house!_
+          _!to change ,!_)
+        _!Mathew did not know why . <s>!_))
+    (Attribution[S][N]
+      _!Mathew Hood and Jamie Hood left!_
+      _!the Mc Donald 's . <P>!_)))

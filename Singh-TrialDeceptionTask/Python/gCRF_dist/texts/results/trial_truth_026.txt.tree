@@ -1,0 +1,39 @@
+(Evaluation[N][S]
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      (Cause[N][S]
+        _!Why did n't I understand my rights ? <s>!_
+        _!Well , I 'm not a coward . <s>!_)
+      (Attribution[S][N] _!Do you get!_ _!what I 'm saying ? <s>!_))
+    (Joint[N][N]
+      (Elaboration[N][S]
+        (Elaboration[N][S]
+          (Elaboration[N][S]
+            (same-unit[N][N]
+              (Elaboration[N][S] _!All!_ _!I know!_)
+              _!is this :!_)
+            _!My son is eight years old right now . <s>!_)
+          (Summary[N][S]
+            _!He 's going to forget a lot about me . <s>!_
+            _!Okay ? <s>!_))
+        (Attribution[S][N]
+          _!When he 'll look back at all this media cover from this bottle feeders I do n't want him to see!_
+          _!that I stood here like a coward . <s>!_))
+      (Elaboration[N][S]
+        (Joint[N][N]
+          (Attribution[S][N] _!I did!_ _!what I did ,!_)
+          (Attribution[S][N]
+            _!and I did!_
+            _!what I did for my baby , period . <s>!_))
+        (Joint[N][N]
+          (Cause[N][S]
+            _!He 's going to see me standing up!_
+            _!taking my responsability . <s>!_)
+          (Elaboration[N][S]
+            _!I will happily do life in prison for my child ,!_
+            _!that 's period . <s>!_)))))
+  (same-unit[N][N]
+    (Elaboration[N][S]
+      _!So , I do n't understand what 's ... what ,!_
+      (Elaboration[N][S] _!what other paper work is!_ _!that to do!_))
+    _!... <P>!_))

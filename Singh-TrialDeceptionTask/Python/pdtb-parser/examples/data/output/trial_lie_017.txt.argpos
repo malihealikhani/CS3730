@@ -1,0 +1,5 @@
+conn:and conn_POS:CC prev1:this prev1_POS:DT with_prev1_full:this_and with_prev1_POS_full:DT_CC prev2:to prev2_POS:TO with_prev2_full:to_and with_prev2_POS_full:TO_CC NA
+conn:and conn_POS:CC prev1:by prev1_POS:IN with_prev1_full:by_and with_prev1_POS_full:IN_CC prev2:rolled prev2_POS:VBD with_prev2_full:rolled_and with_prev2_POS_full:VBD_CC NA
+conn:then conn_POS:RB prev1:and prev1_POS:CC with_prev1_full:and_then with_prev1_POS_full:CC_RB prev2:by prev2_POS:IN with_prev2_full:by_then with_prev2_POS_full:IN_RB NA
+conn:and conn_POS:CC prev1:by prev1_POS:IN with_prev1_full:by_and with_prev1_POS_full:IN_CC prev2:rolled prev2_POS:VBD with_prev2_full:rolled_and with_prev2_POS_full:VBD_CC NA
+conn:so conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_so with_prev1_POS_full:,_IN prev2:here prev2_POS:RB with_prev2_full:here_so with_prev2_POS_full:RB_IN NA

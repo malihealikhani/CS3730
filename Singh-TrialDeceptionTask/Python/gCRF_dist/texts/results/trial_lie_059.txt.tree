@@ -1,0 +1,35 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Explanation[N][S]
+      _!... um person in the congregation was involved in activities like that . <s>!_
+      (Joint[N][N]
+        _!The elders would sit down with the individual!_
+        (Attribution[S][N]
+          _!and try to determine!_
+          _!what 's going on . <s>!_)))
+    (Cause[S][N]
+      (Joint[N][N]
+        (same-unit[N][N]
+          (Attribution[N][S]
+            _!The objective is!_
+            _!as Jesus said ,!_)
+          (Attribution[S][N] _!\!_ _!if you have a hundred sheep ,!_))
+        (Joint[N][N]
+          _!and one 's lost , leave the ninety-nine!_
+          _!and go find the one \ " . <s>!_))
+      (Elaboration[N][S]
+        _!So the objective is to help that individual . <s>!_
+        (Explanation[N][S]
+          (Attribution[S][N]
+            _!Whether it 's to er ,!_
+            (same-unit[N][N]
+              (Elaboration[N][S]
+                _!er ,!_
+                _!worshiping er , someone or anything like that!_)
+              _!or celebrate Christmas or fornication or whatever it happens to be . <s>!_))
+          (same-unit[N][N]
+            (Elaboration[N][S]
+              _!The elder would mate with the individual!_
+              _!based on person 's um attitude!_)
+            _!at that time will have direct relevance to what they do . <s>!_)))))
+  _!'' <P>!_)

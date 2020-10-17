@@ -1,0 +1,111 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT a) (NN sense))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ is)
+              (ADJP (JJ correct)))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP remember)
+      (NP (DT that)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (S
+          (VP (VBG Dropping)
+            (NP (DT the) (NN knife))))
+        (, ,)
+        (S
+          (VP (VBG screaming))))
+      (CC and)
+      (S
+        (NP (DT that) (NN memory))
+        (VP (VBD came)
+          (ADVP (RB much) (RB later))
+          (, ,)
+          (S
+            (ADJP (JJ Um))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ goes)
+        (ADJP (JJ blank)
+          (WHPP (IN after)
+            (WHNP (WDT that))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB remember)
+          (S
+            (VP (VBG putting)
+              (NP (DT the) (NN gun))
+              (PP (IN in)
+                (NP (DT the) (NN car))))))))
+    (PRN (, ,)
+      (S
+        (NP (PRP I))
+        (VP (VBP do) (RB n't)
+          (VP (VB remember)
+            (S
+              (VP (VBG putting)
+                (NP (DT the) (NN rope))
+                (PP (IN in)
+                  (NP (DT the) (NN car))))))))
+      (, ,))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (NP
+          (NP (, ,)
+            (NP
+              (NP (RB not) (NN crystal))
+              (ADJP
+                (ADJP (JJ clear))
+                (, ,)
+                (CC but)
+                (ADJP (JJ pretty))))
+            (, ,)
+            (ADJP (RB pretty) (JJ solid))
+            (NNS memories))
+          (PP (IN of)
+            (S
+              (VP (VBG disposing)
+                (PP (IN of)
+                  (NP (DT those)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S (IN So)
+      (NP (PRP they))
+      (VP (VBD did)
+        (VP (VB go)
+          (PP (IN in)
+            (NP (DT the) (NN car)))
+          (ADVP (RB obviously)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB remember)
+          (S
+            (VP (VBG placing)
+              (NP (PRP them))
+              (PP (IN in)
+                (NP (DT the) (NN car))))))))
+    (. .)))
+

@@ -1,0 +1,23 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      _!We proceeded to step back into the living room in front of the fireplace!_
+      _!while William was sitting in the love seat . <s>!_)
+    (Joint[N][N]
+      _!And he was still sitting there in shock and so they to repeatedly tell him to get down on the ground . <s>!_
+      (Joint[N][N]
+        _!And so now all three of us are face down on the wood floor!_
+        (Attribution[S][N]
+          _!and they just tell!_
+          (Elaboration[N][S]
+            _!us " do n't look , do n't look " And then they started rummaging through the house!_
+            _!to find stuff . <s>!_)))))
+  (Elaboration[N][S]
+    (Attribution[S][N]
+      _!They just asked -!_
+      (Attribution[S][N]
+        _!they asked!_
+        (Joint[N][N]
+          _!who else was in the house!_
+          _!and we did n't say anything . <s>!_)))
+    _!We said " no one " <P>!_))

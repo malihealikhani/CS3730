@@ -1,0 +1,5 @@
+conn_lc:once conn:once conn_POS:IN with_prev_full:staff_once xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:present_and xxx£
+conn_lc:but conn:but conn_POS:CC with_prev_full:briefings_but xxx£
+conn_lc:and conn:And conn_POS:CC xxx£
+conn_lc:so conn:so conn_POS:IN with_prev_full:just_so xxx£

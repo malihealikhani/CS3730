@@ -1,0 +1,21 @@
+(Joint[N][N]
+  (Attribution[S][N] _!I think!_ _!when he was choking me ,!_)
+  (Joint[N][N]
+    (Cause[N][S]
+      _!my hands were free!_
+      _!because he was over my torso ,!_)
+    (Joint[N][N]
+      _!my arms were free ,!_
+      (Joint[N][N]
+        (same-unit[N][N]
+          (Elaboration[N][S]
+            _!so I may have ,!_
+            _!tried to push him off ,!_)
+          (Attribution[N][S]
+            _!or ,!_
+            _!I did n't want to injure him ,!_))
+        (Joint[N][N]
+          _!I just wanted him to get off of me ,!_
+          (Joint[N][N]
+            _!but that was very quick!_
+            _!and it did n't last long . <P>!_))))))

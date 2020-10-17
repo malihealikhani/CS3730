@@ -1,0 +1,39 @@
+(Elaboration[N][S]
+  _!We had some drinks at the bar , maybe one ... two . <s>!_
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      _!Ammm ... I got onto the dance floor myself as I explained ,!_
+      (Joint[N][N]
+        (Attribution[S][N]
+          _!ammm ...!_
+          _!I have been a trained dancer for some time ,!_)
+        (Joint[N][N]
+          (Attribution[S][N]
+            _!going to be able to dance freely is!_
+            (Elaboration[N][S]
+              _!like a ... release , I 'm very much in my own space!_
+              (Attribution[S][N]
+                _!when I do!_
+                _!that and so I got up ,!_)))
+          _!and I was dancing alone on the dance floor . <s>!_)))
+    (Elaboration[N][S]
+      _!He came to join the dance floor , ahhh ...!_
+      (Joint[N][N]
+        _!did not join me necessarily on the dance floor initially ,!_
+        (same-unit[N][N]
+          (same-unit[N][N]
+            (Elaboration[N][S] _!and he was also ...!_ _!dancing ,!_)
+            _!and then ammm ...!_)
+          (Elaboration[N][S]
+            (same-unit[N][N]
+              (Elaboration[N][S]
+                _!there was a time!_
+                _!where he reached out his hand and ...!_)
+              _!as ...!_)
+            (Elaboration[N][S]
+              (Elaboration[N][S]
+                _!the defense has!_
+                (Joint[N][N]
+                  _!said twirled me around!_
+                  _!and ammm ...!_))
+              _!that 's it . <P>!_)))))))

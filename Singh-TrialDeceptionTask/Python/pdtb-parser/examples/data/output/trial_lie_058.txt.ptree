@@ -1,0 +1,31 @@
+(ROOT
+  (NP (CD 100) (RB percent) (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Absolutely))
+    (. .)))
+
+(ROOT
+  (NP (CD 100) (RB percent) (. .)))
+
+(ROOT
+  (NP (CD 100) (RB percent) (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB Totally) (JJ false))
+    (. .)))
+
+(ROOT
+  (SQ (VBP Do)
+    (NP (PRP I))
+    (VP (VB have)
+      (NP (NN remorse)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Absolutely))
+    (. .)))
+

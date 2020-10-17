@@ -1,0 +1,3 @@
+conn:when conn_POS:WRB prev1:, prev1_POS:, with_prev1_full:,_when with_prev1_POS_full:,_WRB prev2:that prev2_POS:IN with_prev2_full:that_when with_prev2_POS_full:IN_WRB NA
+conn:and conn_POS:CC prev1:me prev1_POS:PRP with_prev1_full:me_and with_prev1_POS_full:PRP_CC prev2:of prev2_POS:IN with_prev2_full:of_and with_prev2_POS_full:IN_CC NA
+conn:when conn_POS:WRB prev1:even prev1_POS:RB with_prev1_full:even_when with_prev1_POS_full:RB_WRB prev2:and prev2_POS:CC with_prev2_full:and_when with_prev2_POS_full:CC_WRB NA

@@ -1,0 +1,106 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD were)
+        (VP (VBN married)
+          (PP (IN for)
+            (NP (CD two) (NNS years))))))
+    (, ,)
+    (CC and)
+    (S
+      (ADVP (RB um))
+      (, ,)
+      (NP (PRP we))
+      (VP (VBD divorced)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP she))
+            (VP (VBD was)
+              (ADJP
+                (NP
+                  (QP (RB about) (CD 10))
+                  (NNS months))
+                (JJ old)))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (ADVP (RB basically))
+    (, ,)
+    (NP (PRP we))
+    (VP
+      (VP (VBD were)
+        (ADVP (RB just))
+        (ADJP (RB too) (JJ young)))
+      (CC and)
+      (VP (VBD did) (RB n't)
+        (VP (VB know)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (NP (NN marriage))
+              (VP (VBD was)
+                (VP (VBN supposed)
+                  (S
+                    (VP (TO to)
+                      (VP (VB be)
+                        (ADJP (IN about))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (ADVP (RB so))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP know)
+      (SBAR
+        (S (, ,)
+          (ADVP (RB just))
+          (, ,)
+          (NP (PRP I))
+          (VP (VBD knew)
+            (SBAR (IN that)
+              (S
+                (NP (PRP I))
+                (VP (VBD wanted)
+                  (S
+                    (VP (TO to)
+                      (VP (VB go)
+                        (PP (TO to)
+                          (NP (NN school)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD was)
+      (ADJP (RB very) (JJ jealous)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Um))
+    (, ,)
+    (NP (PRP he))
+    (ADVP (RB really))
+    (VP (VBD did) (RB n't)
+      (VP (VB want)
+        (S
+          (NP (PRP me))
+          (VP (TO to)
+            (VP
+              (VP (VB work)
+                (CC or)
+                (VB go)
+                (PP (TO to)
+                  (NP (NN school))))
+              (, ,)
+              (CC or)
+              (ADVP (RB even))
+              (VP (VB go)
+                (PP (TO to)
+                  (NP (DT the) (NN grocery) (NN store)))))))))
+    (. .)))
+

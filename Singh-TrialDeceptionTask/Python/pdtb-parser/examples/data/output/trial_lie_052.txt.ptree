@@ -1,0 +1,119 @@
+(ROOT
+  (INTJ
+    (INTJ (UH No))
+    (, ,)
+    (INTJ (UH no) (. .))))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD did) (RB not)))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (NP (RB absolutely) (NN nothing)
+          (S
+            (VP (TO to)
+              (VP (VB do)
+                (PP (IN with)
+                  (NP (PRP$ her) (NN disappearance)))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADJP (JJ glad)
+        (SBAR (IN that)
+          (S
+            (NP (PRP she))
+            (VP (VBD did))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD did))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD did))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Um))
+      (CC and)
+      (NP
+        (NP (RB then))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (NNP Laci))
+            (VP (VBD disappeared))))))
+    (, ,)
+    (ADVP (RB um))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD called)
+      (NP (PRP her))
+      (ADVP (RB immediately)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBD was) (RB n't)
+        (ADVP (RB immediately))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD was)
+      (NP
+        (NP (DT a) (NN couple))
+        (PP (IN of)
+          (NP (NNS days))))
+      (PP (IN after)
+        (NP
+          (NP (NNP Laci) (POS 's))
+          (NN disappearance)))
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (VP
+            (VP (VBD telephoned)
+              (NP (PRP her)))
+            (CC and)
+            (VP (VBD told)
+              (S
+                (NP (PRP her))
+                (NP (DT the) (NN truth))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN That)
+      (S
+        (NP (PRP I))
+        (VP (VBD was)
+          (ADJP (JJ married))
+          (, ,)
+          (SBAR (IN that)
+            (FRAG
+              (NP
+                (NP (NNP Laci) (POS 's))
+                (NN disappearance)))))))
+    (NP (PRP she))
+    (VP (VBD did) (RB n't)
+      (VP (VB know)
+        (PP (IN about)
+          (NP (PRP it)))
+        (PP (IN at)
+          (NP (DT that) (NN point)))))
+    (. .)))
+

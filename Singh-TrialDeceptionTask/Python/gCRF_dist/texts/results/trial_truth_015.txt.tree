@@ -1,0 +1,39 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      (same-unit[N][N]
+        (same-unit[N][N]
+          (Attribution[N][S]
+            (Elaboration[N][S]
+              (Attribution[N][S]
+                _!just talked to everybody ,!_
+                _!you know ,!_)
+              (Attribution[S][N]
+                _!you know!_
+                _!he was flirtatious ,!_))
+            _!I mean he ,!_)
+          _!ah , you know ,!_)
+        _!um , I do n't know ... <s>!_)
+      (Attribution[S][N]
+        _!I do n't know!_
+        _!who told me that . <s>!_))
+    _!I do n't know enough about it . <s>!_)
+  (Elaboration[N][S]
+    (Attribution[S][N]
+      _!I just knew!_
+      _!he was a flirt and that ... <s>!_)
+    (Elaboration[N][S]
+      (Attribution[N][S] _!You know ,!_ _!he was ... <s>!_)
+      (Elaboration[N][S]
+        (Attribution[N][S]
+          (same-unit[N][N]
+            (Attribution[N][S]
+              _!I remember Clancy telling me ,!_
+              _!you know ,!_)
+            _!at times , you know ,!_)
+          _!he was just him . <s>!_)
+        (Elaboration[N][S]
+          (Contrast[S][N]
+            _!You know ,!_
+            _!he would just flirt with everybody , just goofing around . <s>!_)
+          _!Nobody really took it seriously . <P>!_)))))

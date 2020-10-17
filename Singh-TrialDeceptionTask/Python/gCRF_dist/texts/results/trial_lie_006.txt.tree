@@ -1,0 +1,23 @@
+(Elaboration[N][S]
+  (Explanation[N][S]
+    _!No , I did n't . <s>!_
+    (Elaboration[N][S]
+      (same-unit[N][N]
+        (Elaboration[N][S]
+          (Elaboration[N][S] _!The last time!_ _!I saw!_)
+          (Attribution[S][N]
+            _!her was!_
+            (Elaboration[N][S]
+              _!whenever they fell ,!_
+              _!whenever I came out she!_)))
+        _!was already in the bathroom . <s>!_)
+      _!I never saw her ever . <s>!_))
+  (same-unit[N][N]
+    (Elaboration[N][S]
+      _!Whenever we got to the boat!_
+      _!it was all covered up ,!_)
+    (Attribution[S][N]
+      _!honestly I did n't even know!_
+      (Elaboration[N][S]
+        _!there was a middle seat!_
+        _!until we saw the boat the other day . <P>!_))))

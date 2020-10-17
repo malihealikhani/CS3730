@@ -1,0 +1,2 @@
+conn:and conn_POS:CC prev1:me prev1_POS:PRP with_prev1_full:me_and with_prev1_POS_full:PRP_CC prev2:hit prev2_POS:VBD with_prev2_full:hit_and with_prev2_POS_full:VBD_CC NA
+conn:then conn_POS:RB prev1:and prev1_POS:CC with_prev1_full:and_then with_prev1_POS_full:CC_RB prev2:me prev2_POS:PRP with_prev2_full:me_then with_prev2_POS_full:PRP_RB NA

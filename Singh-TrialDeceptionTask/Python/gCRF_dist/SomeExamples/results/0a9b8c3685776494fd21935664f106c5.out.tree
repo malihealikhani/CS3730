@@ -1,0 +1,75 @@
+(Elaboration[N][S]
+  (Explanation[N][S]
+    _!I do . <s>!_
+    (Elaboration[N][S]
+      (Elaboration[N][S]
+        (Attribution[S][N]
+          _!I think!_
+          (same-unit[N][N]
+            (Elaboration[N][S]
+              _!it kind of goes back to this book!_
+              _!called " Leviathan "!_)
+            _!that Hobbes wrote . <s>!_))
+        (Joint[N][N]
+          _!He was a contemporary and [ inaudible 00:29:14 ] ,!_
+          (Attribution[S][N]
+            _!and he basically said!_
+            (Attribution[S][N]
+              _!that ,!_
+              (Elaboration[N][S]
+                _!" Without government , humans would revert to this natural state!_
+                (Elaboration[N][S]
+                  _!where they value survival over any type of communal instinct!_
+                  _!in order to preserve everyone in the society . <s>!_))))))
+      (Joint[N][N]
+        _!Basically , an every man for himself type of mentality . <s>!_
+        (Explanation[N][S]
+          (Attribution[S][N]
+            _!And I think!_
+            (Explanation[N][S]
+              _!that 's true!_
+              (same-unit[N][N]
+                (Elaboration[N][S]
+                  _!because the society!_
+                  (Elaboration[N][S] _!that we 're!_ _!living in!_))
+                (Elaboration[N][S]
+                  _!has morals!_
+                  _!that are prescribed to people by other men . <s>!_))))
+          (Joint[N][N]
+            (Elaboration[N][S]
+              _!It 's basically humans!_
+              (Enablement[N][S]
+                _!making rules for other humans!_
+                _!to play by . <s>!_))
+            (same-unit[N][N]
+              (same-unit[N][N]
+                (Attribution[N][S] _!So ,!_ _!you think about it ,!_)
+                _!if there were different people in charge ,!_)
+              (Attribution[S][N]
+                _!we would be!_
+                _!playing by entirely different set of rules . <s>!_)))))))
+  (Elaboration[N][S]
+    (Explanation[N][S]
+      (Attribution[S][N]
+        _!And I think!_
+        (same-unit[N][N]
+          (Elaboration[N][S]
+            _!that 's you see!_
+            _!cultural differences across the world is that , every single culture may have some basic underlying morals!_)
+          (Elaboration[N][S]
+            _!but the way!_
+            _!that they 're executed are different . <s>!_)))
+      (Attribution[S][N]
+        _!So I think!_
+        (same-unit[N][N]
+          _!that!_
+          (Condition[S][N]
+            (Condition[S][N]
+              _!if there were no organized society ,!_
+              (Elaboration[N][S]
+                _!you would basically be left to this subconscious in your mind!_
+                (Joint[N][N]
+                  _!that 's just telling you it 's eat!_
+                  _!or be eaten ,!_)))
+            _!not necessarily we need to have empathy and care for everyone else in our society . <s>!_))))
+    _!Do you agree with the roadkill analogy ? <P>!_))

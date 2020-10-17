@@ -1,0 +1,5 @@
+conn:but conn_POS:CC prev1:purpose prev1_POS:NN with_prev1_full:purpose_but with_prev1_POS_full:NN_CC prev2:on prev2_POS:IN with_prev2_full:on_but with_prev2_POS_full:IN_CC NA
+conn:And conn_POS:CC sent_pos:0 NA
+conn:then conn_POS:RB sent_pos:1 prev1:And prev1_POS:CC with_prev1_full:And_then with_prev1_POS_full:CC_RB NA
+conn:because conn_POS:IN prev1:anyway prev1_POS:RB with_prev1_full:anyway_because with_prev1_POS_full:RB_IN prev2:on prev2_POS:IN with_prev2_full:on_because with_prev2_POS_full:IN_IN NA
+conn:And conn_POS:CC sent_pos:0 NA

@@ -1,0 +1,17 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Attribution[S][N] _!Yes , he said!_ _!he did . <s>!_)
+    (Explanation[N][S]
+      _!And he told me to take care of my wounds as necessary . <s>!_
+      (Attribution[S][N]
+        _!No he said!_
+        _!there was several wounds . <s>!_)))
+  (same-unit[N][N]
+    (Background[N][S]
+      _!Um he advised me to take Tylenol!_
+      (Attribution[S][N]
+        _!when I get!_
+        (Enablement[N][S]
+          _!the gel and um asked him for something!_
+          _!to put on ,!_)))
+    _!put on my face . <P>!_))

@@ -1,0 +1,69 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD did) (RB n't)
+        (ADVP (RB really))
+        (VP (VB know)
+          (NP (PRP her))
+          (ADVP (RB too) (RB well)))))
+    (, ,)
+    (NP (PRP I))
+    (ADVP (RB only))
+    (VP (VBD saw)
+      (S
+        (NP (PRP her))
+        (NP
+          (NP (DT a) (NN couple))
+          (PP (IN of)
+            (NP (NNS times))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP
+      (NP (RB Not) (RB really))
+      (RB no))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD was) (RB n't)
+      (VP (VBG placing)
+        (NP (PRP$ her) (NN face))
+        (PP (IN with)
+          (NP (PRP$ her) (NN address)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (INTJ (UH No))
+      (, ,)
+      (S
+        (NP (PRP I))
+        (VP (VBD did) (RB n't)
+          (VP (VB talk)
+            (PP (TO to)
+              (NP (NN anybody))))))
+      (, ,)
+      (S
+        (NP (PRP I))
+        (ADVP (RB just))
+        (VP (VBD lived))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD would)
+      (VP
+        (VP (VB go)
+          (PP (TO to)
+            (NP (NN school))))
+        (CC and)
+        (VP (VB come)
+          (NP (NN home)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Uh))
+    (, ,)
+    (ADVP (RB no) (. .))))
+

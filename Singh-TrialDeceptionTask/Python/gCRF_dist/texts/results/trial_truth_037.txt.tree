@@ -1,0 +1,15 @@
+(Joint[N][N]
+  _!Were several investigators on the scene ,!_
+  (same-unit[N][N]
+    (Attribution[S][N]
+      _!and ... um!_
+      _!once we were there executing the warrant ,!_)
+    (Attribution[S][N]
+      _!the search warrant!_
+      (Elaboration[N][S]
+        _!we took um ... rooms in the house!_
+        (Elaboration[N][S]
+          _!and I actually took um , the room to the right!_
+          (Elaboration[N][S]
+            _!as you walk into , walk out of the living room!_
+            _!which was um , Jonathan 's room . <P>!_))))))

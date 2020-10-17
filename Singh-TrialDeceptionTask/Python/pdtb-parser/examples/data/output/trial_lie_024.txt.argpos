@@ -1,0 +1,9 @@
+conn:So conn_POS:CC sent_pos:0 NA
+conn:so_that conn_POS:IN_DT prev1:head prev1_POS:NN with_prev1_full:head_so_that with_prev1_POS_full:NN_IN_DT prev2:my prev2_POS:PRP$ with_prev2_full:my_so_that with_prev2_POS_full:PRP$_IN_DT NA
+conn:and conn_POS:CC prev1:thought prev1_POS:NN with_prev1_full:thought_and with_prev1_POS_full:NN_CC prev2:my prev2_POS:PRP$ with_prev2_full:my_and with_prev2_POS_full:PRP$_CC NA
+conn:so conn_POS:RB prev1:, prev1_POS:, with_prev1_full:,_so with_prev1_POS_full:,_RB prev2:um prev2_POS:RB with_prev2_full:um_so with_prev2_POS_full:RB_RB NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:neck prev2_POS:NN with_prev2_full:neck_and with_prev2_POS_full:NN_CC NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:off prev2_POS:RP with_prev2_full:off_and with_prev2_POS_full:RP_CC NA
+conn:then conn_POS:RB prev1:and prev1_POS:CC with_prev1_full:and_then with_prev1_POS_full:CC_RB prev2:, prev2_POS:, with_prev2_full:,_then with_prev2_POS_full:,_RB NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:was prev2_POS:VBD with_prev2_full:was_and with_prev2_POS_full:VBD_CC NA
+conn:then conn_POS:RB prev1:and prev1_POS:CC with_prev1_full:and_then with_prev1_POS_full:CC_RB prev2:, prev2_POS:, with_prev2_full:,_then with_prev2_POS_full:,_RB NA

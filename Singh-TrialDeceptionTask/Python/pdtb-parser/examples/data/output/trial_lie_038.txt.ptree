@@ -1,0 +1,62 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBG trying)
+          (S
+            (VP (TO to)
+              (VP (VB say)
+                (NP (NN something))))))))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (MD could) (RB n't)
+        (VP (VB talk))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD tried)
+        (S
+          (VP (TO to)
+            (VP (VB push)
+              (NP (PRP him))
+              (PP (IN off)
+                (NP (PRP me))))))))
+    (CC but)
+    (S
+      (NP (PRP he))
+      (VP (VBD was)
+        (ADJP (RB too) (JJ strong))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Um))
+    (RB all)
+    (NP (PRP I))
+    (VP (MD could)
+      (VP (VB think)
+        (SBAR (IN about)
+          (S
+            (VP (VBD was)
+              (NP
+                (NP (PRP$ my) (NNS kids))
+                (VP (VBG telling)
+                  (S
+                    (NP (PRP me))
+                    (ADJP (RB \) (JJ Mom))
+                    (PRN (, ,)
+                      (S
+                        (NP (PRP you))
+                        (VP (VBP do) (RB n't)
+                          (VP (VB go))))
+                      (, ,))
+                    (S
+                      (VP (VBP do) (RB n't)
+                        (VP (VB go))))))))))))
+    (. .) ('' '')))
+

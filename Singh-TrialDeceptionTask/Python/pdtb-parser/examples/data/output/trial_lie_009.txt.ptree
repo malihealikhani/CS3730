@@ -1,0 +1,65 @@
+(ROOT
+  (FRAG
+    (NP (NNP Ahhh))
+    (: ...)
+    (S
+      (S
+        (SBAR
+          (WHADVP (WRB When))
+          (S
+            (NP (PRP we))
+            (VP (VBD got)
+              (PP (TO to)
+                (NP (DT the) (NN hotel))))))
+        (, ,)
+        (NP (PRP I))
+        (VP (VBP remember) (, ,)
+          (S
+            (NP (NN ammm))
+            (: ...)
+            (VP
+              (VP (VBG sitting) (, ,)
+                (ADVP (RB er)))
+              (: ...)
+              (VP (VBG sitting)
+                (ADVP (RB briefly))
+                (PP (IN on)
+                  (NP
+                    (NP (DT the) (NN balcony))
+                    (PP (IN of)
+                      (NP (PRP$ my) (NN room))))))))))
+      (, ,)
+      (CC but)
+      (S
+        (ADVP (RB then))
+        (NP (DT that))
+        (VP (VBD was)
+          (SBAR (IN that)
+            (S
+              (NP (EX there))
+              (VP (VBD was)
+                (NP (DT no) (JJ other) (JJ additional) (NN time))
+                (SBAR (IN if)
+                  (S
+                    (NP (DT that))
+                    (VP (VBZ 's)
+                      (SBAR
+                        (WHNP (WP what))
+                        (S
+                          (NP (PRP you))
+                          (VP (VBP 're)
+                            (VP (VBG asking))))))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP (IN Besides)
+      (NP
+        (NP (WP what) (NN I))
+        (: ...)
+        (ADVP (RB just))
+        (NP (NNP explained))))
+    (, ,)
+    (INTJ (UH no))
+    (. .)))
+

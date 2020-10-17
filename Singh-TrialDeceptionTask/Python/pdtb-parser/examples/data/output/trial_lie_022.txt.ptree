@@ -1,0 +1,127 @@
+(ROOT
+  (S
+    (INTJ (UH Well))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (VP (VBP have)
+            (NP
+              (NP (DT a) (JJ good) (NN memory))
+              (SBAR
+                (S
+                  (NP (NNP June) (NNP 4th))
+                  (VP (VBZ is)
+                    (NP
+                      (NP (DT an) (NN anomaly))
+                      (PP (IN for)
+                        (NP (PRP me))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (SBAR (IN like)
+          (S
+            (NP (PRP I))
+            (VP (VBD said)
+              (NP (NN yesterday)))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (PP (IN in)
+        (NP
+          (NP (DT a) (NN class))
+          (PP (IN of)
+            (NP
+              (NP (PRP it) (POS 's))
+              (JJ own))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP I))
+    (VP (MD ca) (RB n't)
+      (VP (VB explain)
+        (SBAR
+          (SBAR
+            (WHADVP (WRB why))
+            (S (, ,)
+              (SBAR
+                (WHNP (WP what) (NN kind)
+                  (PP (IN of)
+                    (NP
+                      (NP (NN state))
+                      (PP (IN of)
+                        (NP (NN mind))))))
+                (S
+                  (NP (PRP I))
+                  (VP (VBD was)
+                    (PP (IN in)))))
+              (, ,)
+              (VP (VBP um)
+                (SBAR
+                  (S
+                    (S
+                      (NP (PRP it))
+                      (VP
+                        (VP (VBD was))
+                        (, ,)
+                        (SBAR
+                          (S
+                            (S
+                              (NP
+                                (NP (JJS most))
+                                (PP (IN of)
+                                  (NP (DT the) (NN day))))
+                              (VP (VBD was)
+                                (NP (DT an) (JJ entire) (JJ blank))))
+                            (, ,)
+                            (CC and)
+                            (S
+                              (NP (JJ little) (NNS pieces))
+                              (VP (VBP have)
+                                (VP (VBN come)
+                                  (ADVP (RB back))))))
+                          (, ,)
+                          (CC but)
+                          (S (RB not)
+                            (ADJP (RB very) (JJ many))))))
+                    (, ,) (IN So)
+                    (S
+                      (NP (PRP I))
+                      (VP (MD ca) (RB n't)
+                        (VP (VB explain)
+                          (NP (DT that) (NN day))
+                          (ADVP (RB alone))))))))))
+          (CC but)
+          (SBAR (IN if)
+            (S
+              (NP (PRP you))
+              (VP (VBD were)
+                (PRN (, ,)
+                  (S
+                    (VP (TO to)
+                      (VP (VB put)
+                        (NP (DT that) (NN day))
+                        (ADVP
+                          (ADVP (RB over) (RB here))
+                          (CC and)
+                          (ADVP (RB over) (RB here)))))))
+                (NP
+                  (NP (PDT all) (DT the) (JJ other) (NNS days))
+                  (PP (IN of)
+                    (NP (NN memory) (NNS issues)))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBP are)
+                        (ADJP (DT any) (JJ different)
+                          (PP (IN from)
+                            (NP (DT any) (JJ average) (NN person))))))))))))))
+    (. .)))
+

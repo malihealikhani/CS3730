@@ -1,0 +1,43 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (same-unit[N][N]
+      (Background[N][S]
+        _!I feel like Atticus!_
+        _!when it comes to parenting ,!_)
+      _!Atticus is supposed to be Zen and calm and more open . <s>!_)
+    (Joint[N][N]
+      _!But people like Miss Maudie and Calpurnia want stuff done!_
+      _!and they want things to change . <s>!_))
+  (Explanation[N][S]
+    (Background[S][N]
+      (Background[N][S]
+        _!Well I think!_
+        (Attribution[S][N]
+          _!when she said!_
+          _!you 'll never raise them!_))
+      (Attribution[S][N]
+        (Elaboration[N][S]
+          _!she 's referring to the way!_
+          _!she thinks!_)
+        _!they should be raised as opposed to how Atticus is raising them . <s>!_))
+    (Contrast[S][N]
+      (same-unit[N][N]
+        (Attribution[S][N]
+          _!Because I think!_
+          _!Atticus is raising them ,!_)
+        _!like fine . <s>!_)
+      (Contrast[N][N]
+        (Attribution[N][S]
+          _!But she expects , especially from more of the gender stereotype ,!_
+          (Joint[N][N]
+            _!she expects Scout to wear dresses!_
+            _!and be proper ,!_))
+        (Joint[N][N]
+          (Joint[N][N]
+            _!but she 's tomboyish!_
+            (Joint[N][N]
+              _!and she wears overalls!_
+              _!and runs around with the boys ,!_))
+          (Attribution[S][N]
+            _!and I do n't think!_
+            _!she approves of that , less so of the overall parenting . <P>!_))))))

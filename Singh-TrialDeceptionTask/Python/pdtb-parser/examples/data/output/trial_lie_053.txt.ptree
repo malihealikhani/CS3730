@@ -1,0 +1,57 @@
+(ROOT
+  (S (CC Either)
+    (S
+      (UCP
+        (NP
+          (NP (DT a) (NN barrel))
+          (CC or)
+          (NP (DT a) (NN stick)))
+        (CC but)
+        (ADJP (JJ certain)))
+      (, ,)
+      (NP (PRP they))
+      (VP (VBP are)
+        (ADJP (JJ like))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP are)
+      (VP (VBG going)
+        (S
+          (VP (TO to)
+            (VP (VB kill)
+              (NP (PRP you)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADVP (IN at))
+      (VP (VBN lost)
+        (PP (IN at)
+          (S
+            (VP (VBG justifing)
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (NP (PRP I))
+                  (VP (VBD did)
+                    (PP (IN in)
+                      (NP
+                        (NP (DT a) (JJ second) (NN valley))
+                        (ADJP (JJ other)
+                          (PP (IN than)
+                            (S
+                              (VP (VBG saying)
+                                (SBAR (IN that)
+                                  (S
+                                    (NP (PRP I))
+                                    (VP (VBD thought)
+                                      (SBAR (IN that)
+                                        (S
+                                          (NP (PRP they))
+                                          (VP (VBD were)
+                                            (VP (VBG shooting)
+                                              (ADVP (RB back)))))))))))))))))))))))
+    (. .)))
+

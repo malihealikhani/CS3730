@@ -1,0 +1,105 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ first) (NN time))
+      (NP (PRP I))
+      (VP (VBP remember)
+        (NP
+          (NP (NNP Mr.) (NNP Miller))
+          (SBAR
+            (S
+              (NP (PRP he))
+              (VP (VBD was)))))))
+    (: ...)
+    (S
+      (VP (VBG having)
+        (NP (NN kinda))
+        (PP (IN like)
+          (NP
+            (NP (DT an) (NN argument))
+            (PP (IN with)
+              (NP
+                (NP (DT the) (NNS officers))
+                (SBAR (IN as)
+                  (S
+                    (NP (PRP we))
+                    (VP (VBD were)
+                      (VP (VBG moving)
+                        (NP (DT the) (NNS people))
+                        (PRT (RP out))
+                        (PP (IN of)
+                          (NP
+                            (NP (DT the) (NN area))
+                            (PP (IN toward)
+                              (NP (DT the) (NN street)))))
+                        (, ,)
+                        (SBAR (RB so) (IN that)
+                          (S
+                            (NP (PRP they))
+                            (VP (MD could)
+                              (S
+                                (INTJ (UH uh))
+                                (VP (VB block)
+                                  (NP (DT the) (JJ uh) (NN sidewalk)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (S
+      (INTJ (UH uh))
+      (, ,)
+      (NP (PRP he))
+      (VP (VBD was)
+        (VP (VBG being)
+          (ADJP (RB very) (JJ aggressive))
+          (PP (IN with)
+            (NP (DT the) (NNS officers))))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD did) (RB n't)
+      (VP (VB understand)
+        (SBARQ
+          (WHADVP (WRB why)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (ADVP (RB just))
+      (VP (VBD needed)
+        (NP (NN everybody))
+        (S
+          (VP (TO to)
+            (VP (VB follow)
+              (NP (NNS orders)))))))
+    (, ,)
+    (NP (PRP we))
+    (ADVP (RB just))
+    (VP (VBD wanted)
+      (NP
+        (NP (NN everybody) (POS 's))
+        (NN safety)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP mean)
+      (SBAR
+        (S
+          (NP (PRP we))
+          (ADVP (RB just))
+          (VP (VBP have)
+            (S
+              (VP (TO to)
+                (VP (VB give)
+                  (S
+                    (NP (DT the) (NNS orders))
+                    (VP (TO to)
+                      (VP (VB step)
+                        (PRT (RP down))
+                        (PP (TO to)
+                          (NP (DT the) (NN street)))))))))))))
+    (. .)))
+

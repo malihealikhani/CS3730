@@ -1,0 +1,4 @@
+conn:as conn_POS:IN prev1:is prev1_POS:VBZ with_prev1_full:is_as with_prev1_POS_full:VBZ_IN prev2:objective prev2_POS:NN with_prev2_full:objective_as with_prev2_POS_full:NN_IN NA
+conn:if conn_POS:IN prev1:\ prev1_POS:VBG with_prev1_full:\_if with_prev1_POS_full:VBG_IN prev2:, prev2_POS:, with_prev2_full:,_if with_prev2_POS_full:,_IN NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:sheep prev2_POS:NN with_prev2_full:sheep_and with_prev2_POS_full:NN_CC NA
+conn:So conn_POS:IN sent_pos:0 NA

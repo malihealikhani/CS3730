@@ -1,0 +1,163 @@
+(ROOT
+  (S
+    (VP (VBD asked)
+      (SBAR
+        (S
+          (NP (PRP him))
+          (ADVP (RB instinctively))
+          (VP (VBZ \)
+            (SBAR (IN so)
+              (S
+                (NP (PRP you))
+                (VP (VBP are) (RB not)
+                  (VP (VBG going)
+                    (S
+                      (VP (TO to)
+                        (VP (VB drive)
+                          (ADVP (RB anyway))
+                          (, ,)
+                          (ADVP (RB right)))))))))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (VP (VBG \) ('' '')))
+      (, ,)
+      (CC and)
+      (S
+        (S
+          (NP (PRP I))
+          (VP (VBD said)))
+        (, ,)
+        (ADVP (RB \))
+        (S (`` ``)
+          (S
+            (NP (PRP you))
+            (VP (VBP are)
+              (VP (VBG going)
+                (S
+                  (VP (TO to)
+                    (VP (VB stay)
+                      (ADVP (RB here))))))))
+          (, ,)
+          (CC and)
+          (S
+            (NP (PRP he))
+            (VP (VBZ is)
+              (VP (VBG going)
+                (S
+                  (VP (TO to)
+                    (VP (VB pick)
+                      (NP (PRP you))
+                      (PRT (RP up))
+                      (ADVP (RB \))))))))
+          ('' ''))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD said) (, ,)
+      (S
+        (VP (VBG \) (`` ``)
+          (NP (RB yes) (JJ \))
+          ('' ''))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (NP
+          (NP (DT a) (JJ personal) (NN connection))
+          (PP (IN with)
+            (NP
+              (NP (DT that))
+              (SBAR (IN because)
+                (S
+                  (NP (PRP$ my) (NN grandfather))
+                  (VP (VBD was)
+                    (VP (VBN killed)
+                      (PP (IN by)
+                        (NP (DT a) (JJ drunk) (NN driver))))))))))))
+    (, ,) (IN so)
+    (S
+      (SBAR
+        (WHADVP (WRB whenever))
+        (S
+          (VP (VBZ comes)
+            (NP
+              (NP (NN anyone))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ is)
+                    (NP
+                      (NP (JJ intoxicated))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (MD could)
+                            (VP (VB have)
+                              (NP
+                                (NP (DT the) (NN possibility))
+                                (PP (IN of)
+                                  (NP (VBG driving))))))))))))))))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBD was)
+        (ADVP (RB just))
+        (PP (IN like))
+        (, ,)
+        (VP (VBN \) (`` ``)
+          (S
+            (NP (PRP you))
+            (VP (RB not) (VBG going)
+              (SBAR
+                (SBAR
+                  (S
+                    (VP (TO to)
+                      (VP (VB go)
+                        (NP
+                          (QP (RB anywhere) (CD \)))))))
+                ('' '')
+                (CC and)
+                (SBAR (IN so)
+                  (S
+                    (NP (PRP I))
+                    (VP (VBD had)
+                      (NP
+                        (NP (DT a) (NN moment))
+                        (PP (IN of)
+                          (S
+                            (VP (VBG making)
+                              (ADJP (JJ sure))
+                              (SBAR (IN that)
+                                (S
+                                  (S
+                                    (NP (PRP he))
+                                    (VP (VBD was)
+                                      (VP (VBG going)
+                                        (S
+                                          (VP (TO to)
+                                            (VP (VB stay)
+                                              (PP (IN in)
+                                                (NP (DT the) (NN vicinity)))))))))
+                                  (, ,) (IN so)
+                                  (S
+                                    (NP (PRP I))
+                                    (VP (VBD asked)
+                                      (SBAR
+                                        (S
+                                          (NP (PRP him))
+                                          (PRN (, ,)
+                                            (S
+                                              (NP (PRP he))
+                                              (VP (VBD said)))
+                                            (, ,))
+                                          (VP (VBZ \)
+                                            (INTJ (`` ``) (UH yes))
+                                            (ADVP (RB \)))))))))))))))))))
+          ('' ''))))
+    (. .) ('' '')))
+

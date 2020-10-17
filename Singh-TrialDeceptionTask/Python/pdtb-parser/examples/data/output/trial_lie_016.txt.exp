@@ -1,0 +1,8 @@
+conn_lc:and conn:and conn_POS:CC with_prev_full:up_and xxx£
+conn_lc:when conn:when conn_POS:WRB with_prev_full:and_when xxx£
+conn_lc:so_that conn:so_that conn_POS:IN_DT with_prev_full:,_so_that xxx£
+conn_lc:if_if_i_could_of_put_them_back_in_the_trunk_or_whatever_,_then conn:if_if_I_could_of_put_them_back_in_the_trunk_or_whatever_,_then conn_POS:IN_IN_PRP_MD_IN_VB_PRP_RP_IN_DT_NN_CC_WDT_,_RB with_prev_full:,_if_if_i_could_of_put_them_back_in_the_trunk_or_whatever_,_then xxx£
+conn_lc:so conn:so conn_POS:IN with_prev_full:,_so xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:so_that conn:so_that conn_POS:IN_DT with_prev_full:,_so_that xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:one_and xxx£

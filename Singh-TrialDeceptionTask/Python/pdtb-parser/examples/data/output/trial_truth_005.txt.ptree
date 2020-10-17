@@ -1,0 +1,137 @@
+(ROOT
+  (S
+    (S
+      (INTJ (UH No))
+      (, ,)
+      (S
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (NNP Rusty))
+            (VP (VBD backed)
+              (PRT (RP up))
+              (ADVP (RB out))
+              (PP (IN of)
+                (NP (DT the) (NN garage))))))
+        (: ...)
+        (ADVP (RB So))
+        (NP (NNP Rusty))
+        (VP (VBD had)
+          (NP (DT a) (NN communication))
+          (PP (IN with)
+            (NP (PRP him)))
+          (, ,)
+          (ADVP (CC but))))
+      (: --)
+      (S
+        (ADVP (RB now))
+        (NP (PRP I))
+        (VP (VBP know)
+          (VP
+            (FRAG
+              (WHADVP (WRB why)))))))
+    (: --)
+    (S (CC but)
+      (NP (NNP Hemy))
+      (ADVP (RB never))
+      (VP (VBD responded) (, ,)
+        (SBAR (IN because)
+          (S
+            (SBAR (IN if)
+              (S
+                (NP (PRP he))
+                (VP (VBD had)
+                  (VP (VBN spoken)))))
+            (, ,)
+            (NP (PRP I))
+            (VP (VBP 'm)
+              (ADJP (JJ sure)
+                (SBAR
+                  (S
+                    (NP (NNP Rusty))
+                    (VP (MD would)
+                      (VP (VB have)
+                        (VP (VBN recognized)
+                          (SBAR
+                            (WHNP (WP who))
+                            (S
+                              (NP (PRP he))
+                              (VP (VBD was)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (IN So)
+    (NP (PRP he))
+    (VP (VBD stayed)
+      (ADJP (JJ silent))
+      (NP (DT the) (JJ entire) (NN time)))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (NNP Rusty))
+    (VP (VBD panicked))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP (VBD got)
+        (PP (IN into)
+          (NP
+            (NP (DT the) (NN car))
+            (, ,)
+            (VP (VBN backed)
+              (PRT (RP out))
+              (PP (IN of)
+                (NP (DT the) (NN driveway))))))))
+    (, ,)
+    (CC and)
+    (S
+      (SBAR (IN once)
+        (S
+          (NP (PRP he))
+          (VP (VBD was)
+            (PP (IN at)
+              (NP
+                (NP (DT the) (NN end))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NN driveway))
+                    (VP (VBG picking)
+                      (PRT (RP up))
+                      (NP (DT the) (NN phone)
+                        (S
+                          (VP (TO to)
+                            (VP (VB dial)
+                              (NP (CD 911))))))))))))))
+      (, ,)
+      (NP (NNP Hemy))
+      (VP (VBD ran)
+        (PP (IN across)
+          (NP (DT the) (NN lawn)))
+        (, ,)
+        (ADVP (RB over))
+        (PP (TO to)
+          (NP (DT a) (NN place)))
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (JJ only) (NN someone))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBD had)
+                    (VP (VBN been)
+                      (VP (VBG stalking)
+                        (NP (PRP$ my) (NN house))
+                        (SBAR (IN for)
+                          (S
+                            (NP (NNS months))
+                            (VP (MD would)
+                              (VP (VB have)
+                                (VP (VBN known))))))))))))
+            (VP (VBD existed))))))
+    (. .)))
+

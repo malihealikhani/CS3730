@@ -1,0 +1,2 @@
+conn:and conn_POS:CC prev1:... prev1_POS:: with_prev1_full:..._and with_prev1_POS_full::_CC prev2:um prev2_POS:NNP with_prev2_full:um_and with_prev2_POS_full:NNP_CC NA
+conn:before conn_POS:IN prev1:parole prev1_POS:NN with_prev1_full:parole_before with_prev1_POS_full:NN_IN prev2:on prev2_POS:IN with_prev2_full:on_before with_prev2_POS_full:IN_IN NA

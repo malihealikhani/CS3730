@@ -1,0 +1,72 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Um))
+      (SBAR
+        (WHADVP (WRB whenever))
+        (S
+          (NP (PRP I))
+          (VP (VBD was)
+            (ADJP (JJ little))))))
+    (, ,)
+    (VP (VBP um)
+      (SBAR
+        (S
+          (NP (PRP$ my) (JJS oldest) (NN nephew))
+          (VP (VBZ is)
+            (ADJP (JJ um)
+              (NP
+                (NP (CD two) (NNS years))
+                (JJR younger)))
+            (SBAR (IN than)
+              (S
+                (NP (PRP I))
+                (VP (VBP am)
+                  (SBAR (IN so)
+                    (S
+                      (NP (PRP he)
+                        (CC and)
+                        (PRP I))
+                      (VP (VBD were)
+                        (ADVP (RB always))
+                        (ADJP (RB very) (JJ close))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (SBAR (RB so)
+      (WHADVP (WRB whenever))
+      (S
+        (NP (PRP I))
+        (VP (VBD was)
+          (ADJP (RB really) (JJ little)))))
+    (S
+      (NP (FW i))
+      (VP (VBD spent)
+        (NP
+          (NP (DT a) (NN lot))
+          (PP (IN of)
+            (NP (NN time))))
+        (PP (IN with)
+          (NP (PRP her)))))
+    (CC and)
+    (RB then)
+    (S
+      (SBAR
+        (WHADVP (WRB whenever))
+        (S (, ,)
+          (ADVP (RB um))
+          (NP (PRP I))
+          (VP (VBD was)
+            (NP
+              (NP (DT a) (NN freshman))
+              (PP (IN in)
+                (NP (JJ high) (NN school)))))))
+      (NP (PRP I))
+      (VP (VBD went)
+        (CC and)
+        (VBD lived)
+        (PP (IN with)
+          (NP (PRP her)))))
+    (. .)))
+

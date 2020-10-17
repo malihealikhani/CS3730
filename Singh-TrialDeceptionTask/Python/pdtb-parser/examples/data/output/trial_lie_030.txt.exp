@@ -1,0 +1,5 @@
+conn_lc:and conn:and conn_POS:CC with_prev_full:screaming_and xxx£
+conn_lc:but conn:but conn_POS:CC with_prev_full:,_but xxx£
+conn_lc:but conn:but conn_POS:CC with_prev_full:,_but xxx£
+conn_lc:so conn:So conn_POS:IN xxx£
+conn_lc:but conn:but conn_POS:CC with_prev_full:,_but xxx£

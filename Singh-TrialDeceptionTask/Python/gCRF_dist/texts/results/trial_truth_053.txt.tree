@@ -1,0 +1,29 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    _!They were good um!_
+    (Attribution[S][N]
+      (Elaboration[N][S] _!he treated me with respect!_ _!he loved!_)
+      (Attribution[S][N]
+        _!me um!_
+        (Temporal[N][N]
+          _!he would like I have degenerative disc disease in my neck!_
+          (Elaboration[N][S]
+            _!so he would bring a pillow in the bathroom and put it behind my head so!_
+            _!that my neck would n't hurt . <s>!_)))))
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      _!Um ...!_
+      (Attribution[S][N]
+        _!he um ...!_
+        (same-unit[N][N]
+          (Background[N][S]
+            _!he would always ask me!_
+            _!how I was doing you know always want to talk to me!_)
+          (Joint[N][N]
+            (Attribution[S][N]
+              _!he always called!_
+              _!me \ baby \ "!_)
+            (Attribution[S][N] _!and said!_ _!he loved me . <s>!_)))))
+    (Attribution[S][N]
+      _!He used to tell me!_
+      _!he loved me all the time . " <P>!_)))

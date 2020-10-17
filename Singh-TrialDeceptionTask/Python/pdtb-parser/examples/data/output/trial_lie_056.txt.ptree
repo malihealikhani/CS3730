@@ -1,0 +1,71 @@
+(ROOT
+  (S
+    (INTJ (UH yes))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP believe)
+      (SBAR
+        (S
+          (NP (PRP she))
+          (VP (VBD was)
+            (PP (IN in)
+              (NP (DT an)
+                (PRN (, ,)
+                  (ADVP (RB er))
+                  (, ,))
+                (JJ abusive) (NN relationship)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (INTJ (UH Yes))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP do))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Um))
+      (, ,)
+      (ADVP (RB certainly)))
+    (VP (VBG putting)
+      (PRT (RP down))
+      (NP (NNS friends)
+        (CC and)
+        (NN family)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Um))
+    (, ,)
+    (S
+      (NP (EX there))
+      (VP (VBZ is)
+        (NP
+          (NP (DT some) (NN destruction))
+          (PP (IN of)
+            (NP (NN property))))))
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ seems)
+        (ADJP (JJ minimal)
+          (PP (IN at)
+            (NP (DT this) (NN point))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Um))
+    (, ,)
+    (NP
+      (NP (DT a) (NN change))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN victim) (POS 's))
+          (NN personality))))
+    (: ...)))
+

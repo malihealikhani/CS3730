@@ -1,0 +1,93 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD was)))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD believed)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's) (RB not)
+            (ADJP (JJ okay)
+              (PP (IN in)
+                (NP (DT any)
+                  (ADJP (JJ circumstance)
+                    (S
+                      (VP (TO to)
+                        (VP (VB take)
+                          (NP (NNS someones))))))
+                  (NN life))))
+            (SBAR (RB even) (IN if)
+              (S
+                (NP (PRP you))
+                (VP (VBP are)
+                  (VP (VBG defending)
+                    (NP
+                      (NP (PRP$ your) (JJ own) (NN life))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (VBZ 's)
+                            (SBAR
+                              (WHADVP (WRB how))
+                              (S
+                                (S
+                                  (NP (PRP I))
+                                  (VP (VBD believed)
+                                    (NP (PRP it))))
+                                (IN So)
+                                (S
+                                  (NP (PRP I))
+                                  (ADVP (RB never))
+                                  (VP
+                                    (ADVP (RB really))
+                                    (VBD stopped)
+                                    (S
+                                      (VP (TO to)
+                                        (VP (VB consider)
+                                          (SBAR
+                                            (WHADVP (WRB how))
+                                            (S
+                                              (NP (NN society))
+                                              (VP (MD would)
+                                                (VP (VB view)
+                                                  (NP (PRP it)))))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (NN someone))
+        (VP (VBZ is)
+          (VP (VBG defending)
+            (NP (PRP themselves))))))
+    (, ,)
+    (NP (PRP I))
+    (ADVP (RB just))
+    (VP (VBD felt)
+      (SBAR (IN like)
+        (S
+          (S
+            (NP (PRP I))
+            (VP (VBD had)
+              (VP (VBN done)
+                (S
+                  (NP (NN something))
+                  (ADJP (JJ wrong))))))
+          (CC and)
+          (S
+            (NP (PRP I))
+            (VP (VBD was)
+              (ADJP (JJ afraid)
+                (PP (IN of)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (NP (DT the) (NNS consequences))
+                      (VP (MD would)
+                        (VP (VB be))))))))))))
+    (. .)))
+

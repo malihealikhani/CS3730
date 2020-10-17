@@ -1,0 +1,7 @@
+conn:while conn_POS:IN prev1:to prev1_POS:TO with_prev1_full:to_while with_prev1_POS_full:TO_IN prev2:started prev2_POS:VBD with_prev2_full:started_while with_prev2_POS_full:VBD_IN NA
+conn:and conn_POS:CC prev1:first prev1_POS:RB with_prev1_full:first_and with_prev1_POS_full:RB_CC prev2:ground prev2_POS:NN with_prev2_full:ground_and with_prev2_POS_full:NN_CC NA
+conn:then conn_POS:RB prev1:and prev1_POS:CC with_prev1_full:and_then with_prev1_POS_full:CC_RB prev2:first prev2_POS:RB with_prev2_full:first_then with_prev2_POS_full:RB_RB NA
+conn:and conn_POS:CC prev1:about prev1_POS:IN with_prev1_full:about_and with_prev1_POS_full:IN_CC prev2:talking prev2_POS:VBG with_prev2_full:talking_and with_prev2_POS_full:VBG_CC NA
+conn:then conn_POS:RB prev1:and prev1_POS:CC with_prev1_full:and_then with_prev1_POS_full:CC_RB prev2:about prev2_POS:IN with_prev2_full:about_then with_prev2_POS_full:IN_RB NA
+conn:then conn_POS:RB prev1:and prev1_POS:CC with_prev1_full:and_then with_prev1_POS_full:CC_RB prev2:that prev2_POS:DT with_prev2_full:that_then with_prev2_POS_full:DT_RB NA
+conn:because conn_POS:IN prev1:value prev1_POS:NN with_prev1_full:value_because with_prev1_POS_full:NN_IN prev2:of prev2_POS:IN with_prev2_full:of_because with_prev2_POS_full:IN_IN NA

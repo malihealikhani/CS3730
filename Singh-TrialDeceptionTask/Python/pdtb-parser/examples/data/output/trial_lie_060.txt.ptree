@@ -1,0 +1,86 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP$ My) (NN statement))
+      (VP (VBZ is)
+        (NP (DT this))))
+    (: :)
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (ADVP (RB never))
+        (VP (VBN been)
+          (ADVP (RB alone))
+          (PP (IN with)
+            (NP (NNP Candace) (NNP Conte))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB never))
+    (VP (VBD molested)
+      (NP (NNP Candace) (NNP Conte)))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP do)
+      (NP (PRP you))
+      (VP (VB mean)
+        (NP (VB think))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB just))
+    (VP (VBD told)
+      (NP (PRP you)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Never))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (ADVP (RB never))))
+    (: ...)
+    (S
+      (INTJ (UH Okay))
+      (, ,)
+      (VP (VB get)
+        (NP (DT this) (NN right))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 've)
+      (VP
+        (ADVP (RB never))
+        (VBN been)
+        (ADJP (RB alone))
+        (PP (IN with)
+          (NP (NNP Candace) (NNP Conte)))
+        (, ,)
+        (ADVP (RB ever))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB Never))
+    (VBP have)
+    (NP (PRP I))
+    (VP (VBN been)
+      (ADVP (RB alone))
+      (PP (IN with)
+        (NP (NNP Candace) (NNP Conte))))
+    (. .)))
+

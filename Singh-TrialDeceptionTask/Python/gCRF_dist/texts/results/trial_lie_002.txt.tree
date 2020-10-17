@@ -1,0 +1,35 @@
+(Elaboration[N][S]
+  (Joint[N][N]
+    _!... and she approached me ,!_
+    (Elaboration[N][S]
+      _!and at that time!_
+      (Elaboration[N][S]
+        _!that she had tripped over the rug and kind of bumped into me I was heading to the nursery ,!_
+        _!which is ammm ... <s>!_)))
+  (Joint[N][N]
+    (Attribution[S][N]
+      _!I ran to the bedroom with Lily!_
+      _!I did n't even stick around to see what happened ,!_)
+    (same-unit[N][N]
+      (same-unit[N][N]
+        (Elaboration[N][S]
+          _!and when I got to the bedroom!_
+          _!Little Grant was trying to come ...!_)
+        _!he was coming out of the door ,!_)
+      (Attribution[S][N]
+        _!and he asked me what that noise was!_
+        (Elaboration[N][S]
+          (Joint[N][N]
+            (Attribution[S][N]
+              _!and I told him!_
+              (Enablement[N][S]
+                _!that the chair fell and ...!_
+                _!to come back into the bedroom ,!_))
+            _!and ammm ...!_)
+          (Attribution[S][N]
+            _!he asked!_
+            (Joint[N][N]
+              _!where his daddy was!_
+              (Attribution[S][N]
+                _!and I told him!_
+                _!he was picking up the chair . <P>!_))))))))

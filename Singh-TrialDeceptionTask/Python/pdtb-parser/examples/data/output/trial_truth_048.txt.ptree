@@ -1,0 +1,81 @@
+(ROOT
+  (S
+    (NP (NNP Um))
+    (, ,)
+    (ADVP (RB tanbark))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD started)
+      (S
+        (VP (TO to)
+          (VP (VB notice)
+            (NP (DT some) (NN debris))
+            (PP (IN on)
+              (NP (DT the) (NN road) (NN way)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD noticed)
+        (NP (DT some) (NN uhhh))))
+    (: ...)
+    (S
+      (NP (NN tire))
+      (VP (VBZ marks)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBD Was) (RB n't)
+      (ADJP
+        (ADJP (RB exactly) (RB exactly) (JJ sure))
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (PRP it))
+            (VP (VBD was))))))
+    (. .)))
+
+(ROOT
+  (NP (DT Some) (NN debris) (. .)))
+
+(ROOT
+  (S
+    (VP (VB ahhh)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP
+            (VP (VBD started)
+              (S
+                (VP (VBG following)
+                  (NP (PRP it))
+                  (PRT (RP down)))))
+            (CC and)
+            (VP (VBD noticed)
+              (NP (DT some)
+                (ADJP (JJ damaged)
+                  (PP (TO to)
+                    (NP (DT the) (NN roadway))))
+                (NN ahh))
+              (ADVP (RB then))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP I))
+                  (VP (VBD looked)
+                    (PRT (RP up))
+                    (SBAR
+                      (S
+                        (NP (PRP I))
+                        (VP (VBD saw)
+                          (SBAR
+                            (S
+                              (NP (DT a) (JJ white) (NN car) (NN i))
+                              (VP (VBD was)
+                                (ADVP (RB up)
+                                  (PP (IN against)
+                                    (NP (DT the) (NN tree))))))))))))))))))))
+

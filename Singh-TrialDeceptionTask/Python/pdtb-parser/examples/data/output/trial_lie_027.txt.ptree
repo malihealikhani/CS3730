@@ -1,0 +1,97 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN lunging))
+        (CC and)
+        (NP
+          (NP (DT the) (NN gun))
+          (VP (VBG going)
+            (PRT (RP off)))))
+      (VP (VBD were)
+        (NP
+          (NP (NN sort))
+          (PP (IN of)
+            (NP (NNS contemporanios))))))
+    (, ,)
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB remember)
+          (SBAR
+            (SBAR
+              (WHADVP (WRB how) (JJ close))
+              (S
+                (NP (PRP they))
+                (VP (VBD were))))
+            (CC or)
+            (SBAR (IN if)
+              (S
+                (NP (PRP it))
+                (VP (VBD happened)
+                  (PP (IN at)
+                    (NP
+                      (NP (RB exactly) (DT the) (JJ same) (NN moment))
+                      (CC or)
+                      (NP (CD one) (NN right))))
+                  (PP (IN after)
+                    (NP (DT the) (JJ other))))))))))
+    (, ,)
+    (S
+      (NP (PRP it))
+      (ADVP (DT all))
+      (VP (VBD happened)
+        (ADJP (RB very) (JJ fast))))
+    (, ,)
+    (CC and)
+    (S
+      (S
+        (NP (PRP it))
+        (ADVP (DT all))
+        (VP (VBD seemed)
+          (S
+            (VP (TO to)
+              (VP (VB happen)
+                (ADVP (DT all) (IN at) (RB once)))))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (PRP I))
+        (VP (MD would)
+          (VP (VB say)
+            (ADVP
+              (ADVP
+                (ADVP (RB as) (RB far))
+                (PP (IN as)
+                  (NP (NN distance))))
+              (, ,) (RB maybe)
+              (ADVP (RB as) (RB far)))
+            (PP (IN as)
+              (NP
+                (NP (NNP Mr.) (NNP Babbikey))
+                (PRN (-LRB- -LRB-)
+                  (NP (NNP sp) (. ?))
+                  (-RRB- -RRB-))))))))))
+
+(ROOT
+  (SINV
+    (VP (VBZ is))
+    (NP
+      (NP (NNP ,))
+      (PRN (-LRB- -LRB-)
+        (FRAG
+          (NP (NN court) (NN reporter))
+          (. ?))
+        (-RRB- -RRB-)))))
+
+(ROOT
+  (S (CC but)
+    (NP (PRP I))
+    (VP (MD could) (RB n't)
+      (VP (VB say)
+        (PP (IN for)
+          (ADJP (JJ sure)))
+        (PP (IN with)
+          (NP (JJ absolute) (NN certainty)))))
+    (. .)))
+

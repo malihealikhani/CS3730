@@ -1,0 +1,29 @@
+(Contrast[N][N]
+  (Joint[N][N]
+    (same-unit[N][N]
+      (Joint[N][N]
+        _!as far as details , every detail , I just sometimes I have a general sense of what 's going on ,!_
+        _!and sometimes I do n't but as far as the fog goes ,!_)
+      (same-unit[N][N]
+        (Elaboration[N][S]
+          _!it 's more of again , words!_
+          _!that are being spoken ,!_)
+        _!or screamed or yelled ,!_))
+    (Contrast[N][N]
+      (same-unit[N][N]
+        (Elaboration[N][S]
+          _!and that what processing that sort of thing , physical things!_
+          (Attribution[S][N]
+            _!I can remember!_
+            _!because I feel them physically ,!_))
+        (Attribution[S][N]
+          _!I can remember!_
+          _!what I feel internally and emotionally as well ,!_))
+      (Attribution[S][N]
+        _!but it 's more!_
+        (same-unit[N][N]
+          (Elaboration[N][S] _!the words!_ _!that are being spoken!_)
+          _!and their meanings ,!_))))
+  (Condition[N][S]
+    (Attribution[S][N] _!but I do remember!_ _!how I feel ,!_)
+    _!if that makes sense . <P>!_))

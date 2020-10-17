@@ -1,0 +1,87 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (: ...)
+    (NP (PRP It))
+    (VP (VBD was)
+      (SBAR (IN while)
+        (S
+          (SBAR
+            (ADVP (RB back))
+            (IN but)
+            (S
+              (NP (PRP I))
+              (VP (VBP believe))))
+          (, ,)
+          (NP (PRP I))
+          (VP (VBD did)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP ask)
+        (NP (NN hm))))
+    (: ...)
+    (S
+      (NP (PRP I))
+      (VP (VBD asked)
+        (PP (IN about)
+          (NP (DT the) (NN battery)))))
+    (, ,)
+    (S
+      (NP (PRP it))
+      (VP (MD will)
+        (VP (VB take)
+          (NP
+            (NP (NN time))
+            (PP (IN for)
+              (NP (NN battery))))
+          (PP (TO to)
+            (NP (NN charge))))))
+    (, ,)
+    (S
+      (NP (PRP You))
+      (VP (MD wo) (RB n't)
+        (VP (VB be)
+          (ADJP (JJ able)
+            (S
+              (VP (TO to)
+                (VP (VB use)
+                  (NP (PRP it))
+                  (PRT (RP out))
+                  (PP (IN of)
+                    (NP (DT the) (NN box))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB So))
+    (, ,)
+    (PP (IN by)
+      (NP
+        (NP (DT that) (NN time))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ 's)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP I))
+                  (VP (VBD asked)
+                    (SBAR
+                      (S
+                        (NP (PRP she))
+                        (VP (MD would)
+                          (VP (VB like)
+                            (NP
+                              (NP (CD one))
+                              (SBAR
+                                (WHNP (WDT that))
+                                (S
+                                  (VP (VBZ is)
+                                    (VP (VBN corded))))))))))))))))))
+    (. .)))
+

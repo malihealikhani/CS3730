@@ -1,0 +1,2 @@
+conn:When conn_POS:WRB sent_pos:0 NA
+conn:and conn_POS:CC prev1:happened prev1_POS:VBN with_prev1_full:happened_and with_prev1_POS_full:VBN_CC prev2:had prev2_POS:VBD with_prev2_full:had_and with_prev2_POS_full:VBD_CC NA

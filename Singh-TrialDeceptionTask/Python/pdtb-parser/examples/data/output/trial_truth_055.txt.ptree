@@ -1,0 +1,91 @@
+(ROOT
+  (NP
+    (NP
+      (NP (NN Nothing))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ is)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (NP (PRP you))
+                (ADVP (RB typically))
+                (VP (VBP see)
+                  (PP (IN in)
+                    (NP
+                      (NP (DT a) (NN case))
+                      (PP (IN like)
+                        (NP (DT this)))
+                      (, ,)
+                      (PP (JJ such) (IN as)
+                        (NP (NN um))))))))))))
+    (NP
+      (NP (DT a) (NN childhood))
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (EX there))
+          (VP (VBD was)
+            (NP
+              (NP (NNS drugs))
+              (, ,)
+              (NP (NN alcoholism))
+              (, ,)
+              (NP (NN molestation))
+              (, ,)
+              (NP
+                (NP (NNS things))
+                (PP (IN like)
+                  (NP (DT that)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN None))
+      (PP (IN of)
+        (NP (DT those) (NNS things))))
+    (VP (VBD occurred)
+      (PP (IN in)
+        (NP (PRP$ my) (NN family))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Um))
+      (, ,)
+      (ADVP (RB so))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB know))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP guess)
+      (SBAR (IN that)
+        (S
+          (NP (PRP we))
+          (VP (MD would)
+            (VP (VB sort)
+              (PP (IN of)
+                (NP (NN joke)))
+              (SBAR (IN that)
+                (S
+                  (NP (PRP$ my) (NN mom))
+                  (VP (VBD did) (RB n't)
+                    (VP (VB beat)
+                      (NP (PRP me))
+                      (ADVP (RB hard) (RB enough)))))))))))
+    (. .)))
+
+(ROOT
+  (S (IN So)
+    (NP (PRP I))
+    (VP (VBP do) (RB n't)
+      (ADVP (RB really))
+      (VP (VB have)
+        (NP (DT a) (NN mitigation))))
+    (. .)))
+

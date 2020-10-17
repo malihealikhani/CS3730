@@ -1,0 +1,276 @@
+(ROOT
+  (S (: ...)
+    (S (CC and)
+      (NP (PRP she))
+      (VP (VBD approached)
+        (NP (PRP me))))
+    (, ,)
+    (CC and)
+    (S
+      (PP (IN at)
+        (NP
+          (NP (DT that) (NN time))
+          (SBAR (IN that)
+            (S
+              (NP (PRP she))
+              (VP (VBD had)
+                (VP (VBN tripped)
+                  (PP (IN over)
+                    (NP
+                      (NP (DT the) (NN rug)
+                        (CC and)
+                        (NN kind))
+                      (PP (IN of)
+                        (NP (NNP bumped)))))
+                  (PP (IN into)
+                    (NP (PRP me)))))))))
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBG heading)
+          (PP (TO to)
+            (NP
+              (NP (DT the) (NN nursery))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBZ is)
+                    (NP (NN ammm))))))))))
+    (: ...)
+    (S
+      (S
+        (NP (PRP I))
+        (VP (VBP know)
+          (SBAR
+            (S
+              (NP (PRP you) (NNS guys))
+              (VP (VBP have) (RB all)
+                (VP (VBN seen)
+                  (NP (DT the) (NN layout))))))))
+      (, ,)
+      (NP (EX there))
+      (VP (VBZ 's)
+        (ADJP (JJ ahhh))))
+    (: ...)
+    (S
+      (S
+        (VP (VBD was)
+          (ADVP
+            (NP (DT a) (NN loveseat))
+            (RB right))
+          (NP
+            (NP (RB there))
+            (CC and)
+            (NP (DT a) (JJ rocking) (NN chair)))
+          (ADVP (RB right) (JJ next)
+            (PP (TO to)
+              (NP (DT each) (JJ other))))))
+      (, ,)
+      (CC and)
+      (S
+        (S
+          (NP (EX there))
+          (VP (VBZ 's)
+            (NP (DT a) (JJ little) (NN wall))))
+        (, ,)
+        (CC and)
+        (S
+          (SBAR
+            (WHADVP (WRB whenever))
+            (S
+              (NP (PRP she))
+              (VP (VBN tripped)
+                (PP (IN over)
+                  (NP (DT the) (NN rug))))))
+          (NP (PRP she))
+          (VP (VBD bumped)
+            (PP (IN into)
+              (NP (PRP me)))))
+        (CC and)
+        (S
+          (NP (NNP Grant))
+          (VP
+            (VP (VBD approached)
+              (NP (PRP her)))
+            (CC and)
+            (VP (VBD grabbed)
+              (NP (PRP her)))))
+        (CC and)
+        (S
+          (S
+            (NP
+              (NP (NN kind))
+              (PP (IN of)))
+            (VP (VBD pulled)
+              (SBAR
+                (S
+                  (NP (PRP her))
+                  (: ...)
+                  (VP (VBD was)
+                    (VP
+                      (VP (VBG pulling)
+                        (NP (PRP$ her) (NN back)))
+                      (CC and)
+                      (ADVP (RB just))
+                      (VP (VBG telling)
+                        (S
+                          (NP (PRP her))
+                          (VP (TO to)
+                            (VP (VB chill)
+                              (PRT (RP out))))))))))))
+          (, ,)
+          (CC and)
+          (S
+            (S
+              (NP (PRP she))
+              (VP (VBD started)
+                (S
+                  (VP (VBG fighting)
+                    (NP (PRP him))))))
+            (, ,)
+            (CC and)
+            (S
+              (SBAR
+                (WHADVP (WRB whenever))
+                (S
+                  (NP (PRP she))
+                  (VP (VBD did) (, ,)
+                    (NP
+                      (NP (DT that) (JJ little) (NN wall) (NN right))
+                      (PP (IN by)
+                        (NP (DT the) (NN loveseat)))))))
+              (, ,)
+              (NP (PRP she))
+              (VP (VBD kicked)
+                (NP (PRP it))))))
+        (CC and)
+        (S
+          (S
+            (SBAR
+              (WHADVP (WRB whenever))
+              (S
+                (NP (PRP she))
+                (VP (VBD did))))
+            (, ,)
+            (NP (PRP they))
+            (VP (CC both)
+              (VP (VBD went)
+                (PRT (RP over))
+                (NP (DT the) (NN chair)))
+              (CC and)
+              (VP (VBD landed)
+                (PP (IN on)
+                  (NP (DT the) (NN floor))))))
+          (, ,)
+          (CC and)
+          (S
+            (NP (PRP I))
+            (ADVP (RB just))
+            (VP (VBD went)
+              (ADVP (RB so)))))))
+    (: ...)
+    (S
+      (NP (PRP I))
+      (VP (VBD ran)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN bedroom))
+            (PP (IN with)
+              (NP (NNP Lily)))))
+        (SBAR
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBD did) (RB n't)
+                (ADVP (RB even))
+                (VP (VB stick)
+                  (PRT (RP around))
+                  (S
+                    (VP (TO to)
+                      (VP (VB see)
+                        (SBAR
+                          (WHNP (WP what))
+                          (S
+                            (VP (VBD happened)))))))))))
+          (, ,)
+          (CC and)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP I))
+              (VP (VBD got)
+                (PP (TO to)
+                  (NP (DT the) (NN bedroom)))
+                (SBAR
+                  (S
+                    (NP (NNP Little) (NNP Grant))
+                    (VP (VBD was)
+                      (VP (VBG trying)
+                        (S
+                          (VP (TO to)
+                            (VP (VB come))))))))))))))
+    (: ...)
+    (S
+      (S
+        (NP (PRP he))
+        (VP (VBD was)
+          (VP (VBG coming)
+            (PRT (RP out))
+            (PP (IN of)
+              (NP (DT the) (NN door))))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (PRP he))
+        (VP (VBD asked)
+          (NP (PRP me))
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (NP (DT that) (NN noise))
+              (VP (VBD was))))))
+      (CC and)
+      (S
+        (NP (PRP I))
+        (VP (VBD told)
+          (NP (PRP him))
+          (SBAR (IN that)
+            (S
+              (NP (DT the) (NN chair))
+              (VP (VBD fell)
+                (NP
+                  (NP (NNP and))
+                  (: ...)
+                  (S
+                    (VP (TO to)
+                      (VP (VB come)
+                        (PRT (RP back))
+                        (PP (IN into)
+                          (NP
+                            (NP (DT the) (NN bedroom))
+                            (, ,)
+                            (CC and)
+                            (NP (NN ammm))))))))))))))
+    (: ...)
+    (S
+      (NP (PRP he))
+      (VP (VBD asked)
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (PRP$ his) (NN daddy))
+            (VP (VBD was))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD told)
+        (NP (PRP him))
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (VBD was)
+              (VP (VBG picking)
+                (PRT (RP up))
+                (NP (DT the) (NN chair))))))))
+    (. .)))
+

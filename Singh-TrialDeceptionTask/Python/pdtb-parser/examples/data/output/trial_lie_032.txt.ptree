@@ -1,0 +1,93 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD was)
+            (ADJP (JJ hungry))
+            (, ,)
+            (S
+              (VP (VB get)
+                (NP (NN something))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (PRP I))
+    (: -)
+    (S
+      (NP (EX there))
+      (VP (VBD was)
+        (NP
+          (NP (DT a) (NN pizza) (NN receipt))
+          (VP (VBG siting)
+            (ADVP (RB there))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD called))
+      (CC and)
+      (VP (VBD ordered)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (DT the) (NN pizza) (NN man))
+        (VP (VBD came))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADJP (JJ right))
+      (SBAR (IN after)
+        (S
+          (NP (NNP Tim))
+          (VP (VBD had)
+            (VP (VBN been)
+              (ADJP (RP over)))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (NNP Tim))
+        (VP (VBD was)
+          (ADJP (RP over)))))
+    (, ,)
+    (NP (DT the) (NN guy))
+    (VP (VBD had)
+      (ADVP (RB just))
+      (VP (VBN stopped)
+        (NP (PRP me))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD was)
+      (VP (VBG standing)
+        (S
+          (VP (VBG being)
+            (SBAR (IN that)
+              (S
+                (ADVP (RB partially))
+                (VP (VBD opened)
+                  (SBAR
+                    (S
+                      (NP (NNP door) (NNP Tim))
+                      (VP (VBD talked)
+                        (PP (IN about))
+                        (, ,)
+                        (PP (IN with)
+                          (NP (DT a) (NN gun)))))))))))))
+    (. .)))
+

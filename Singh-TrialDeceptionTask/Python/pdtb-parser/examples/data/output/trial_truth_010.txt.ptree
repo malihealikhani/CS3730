@@ -1,0 +1,105 @@
+(ROOT
+  (S
+    (VP (VB yeah))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (, ,)
+    (PP
+      (NP (RB maybe) (CD three) (NNS months))
+      (IN in)
+      (NP (DT the) (NN business)))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD was)
+      (S
+        (VP
+          (VP (VBG struggling))
+          (, ,) (RB not)
+          (VP (VBG doing)
+            (ADVP (RB so) (RB well))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADVP (RB even))
+      (VP (VBG thinking)
+        (PP (IN about)
+          (NP (NN quitting)))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (ADVP (RB then))
+    (PP (IN at)
+      (NP (DT some) (NN point)))
+    (NP (NNP Alexander))
+    (VP (VBD was)
+      (VP (VBN flown)
+        (PP (IN into)
+          (NP (NN town)))
+        (PP (IN as)
+          (NP
+            (NP (DT a) (JJ guest) (NN speaker))
+            (PP (IN for)
+              (NP (JJ solid) (NN city) (NN market)))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (S
+      (NP (PRP I))
+      (VP (VBD attended)
+        (NP (DT that) (NN training))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBN inspired)
+          (PP (IN by)
+            (NP (PRP him))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (ADVP (NN kind) (IN of))
+    (VP (VBD changed)
+      (NP (PRP$ my) (NN business))
+      (ADVP (RB around)))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (DT that))
+    (VP (VBD was)
+      (NP
+        (NP (DT the) (JJ only) (NN encounter))
+        (PP (IN with)
+          (NP (PRP him))))
+      (ADVP (RB personally)))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (SBAR (RB so)
+      (S
+        (NP (PRP I))
+        (ADVP (RB just))))
+    (, ,)
+    (NP (PRP I))
+    (VP
+      (VP (VBD kept)
+        (S
+          (VP (VBG going))))
+      (CC and)
+      (VP (VBD did)
+        (ADVP (RB much) (RBR better))
+        (PP (IN after)
+          (NP (DT that)))))
+    (. .)))
+

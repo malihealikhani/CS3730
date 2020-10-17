@@ -1,0 +1,11 @@
+(Evaluation[N][S]
+  (Evaluation[N][S]
+    (Joint[N][N]
+      (Attribution[S][N] _!He straddled!_ _!me and he hit me!_)
+      _!and then he started choking me . <s>!_)
+    (Contrast[S][N]
+      _!I could n't breath my umm airway was cut off ,!_
+      _!I could n't breath . <s>!_))
+  (Elaboration[N][S]
+    _!Umm my head was hurting really bad . and it it felt like my head!_
+    _!was gon na explode <P>!_))

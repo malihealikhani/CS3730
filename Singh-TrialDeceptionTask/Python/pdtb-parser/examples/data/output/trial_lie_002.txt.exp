@@ -1,0 +1,15 @@
+conn_lc:and conn:and conn_POS:CC with_prev_full:..._and xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:me_and xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:her_and xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:it_and xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:when conn:when conn_POS:WRB with_prev_full:and_when xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:was_and xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:was_and xxx£

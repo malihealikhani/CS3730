@@ -1,0 +1,3 @@
+conn:When conn_POS:WRB sent_pos:0 NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:did prev2_POS:VBD with_prev2_full:did_and with_prev2_POS_full:VBD_CC NA
+conn:So conn_POS:RB sent_pos:0 NA

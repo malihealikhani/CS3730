@@ -1,0 +1,110 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP mean)))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ pops)
+      (ADVP (RB right)
+        (PP (IN upon)
+          (NP (DT the) (NN screen))))
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBD got)
+            (SBAR
+              (S
+                (NP (PRP you))
+                (VP (VBP gmail)
+                  (ADJP (JJ open)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S (CC and)
+      (SBAR (RB so)
+        (S
+          (NP (NN somebody))
+          (VP (VBZ says))))
+      (, ,)
+      (NP (PRP you))
+      (VP (VBP know)
+        (PRN (, ,)
+          (INTJ (UH hi))
+          (, ,))
+        (VP (VBZ pops)
+          (ADVP (RB right) (RB up)))))
+    (CC and)
+    (, ,)
+    (S
+      (NP (PRP you))
+      (VP (MD can)
+        (VP (VB reply))))
+    (CC and)
+    (S
+      (NP (PRP you))
+      (VP (MD can)
+        (ADVP (RB also))
+        (VP (VB carry)
+          (PP (IN on)
+            (NP (DT the) (NN conversation)))
+          (SBAR (IN while)
+            (S
+              (NP (PRP you))
+              (VP (VBP are)
+                (VP (VBG doing)
+                  (NP (JJ other) (NNS things)))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (PRP I))
+    (VP (VBP mean)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's)
+            (NP
+              (NP (NN kind))
+              (PP (IN of)
+                (PP (IN like)
+                  (NP
+                    (NP (DT a) (NN text) (NN message))
+                    (ADVP (RB back)
+                      (CC and)
+                      (RB forth)))))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ 's)
+                    (VP (VBG immediate)
+                      (S
+                        (NP (PRP you))
+                        (DT both)
+                        (VP (VBG responding)
+                          (ADVP (RB right) (RB away)))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (ADVP (RB sometimes))
+    (NP (PRP you))
+    (VP (VBP are)
+      (ADVP (RB even))
+      (VP (VBG responding)
+        (NP (DT the) (NNS things))
+        (SBAR (IN that)
+          (S
+            (ADVP
+              (NP
+                (QP (CD 2)
+                  (CC or)
+                  (CD 3))
+                (NNS questions))
+              (RB away))
+            (, ,)
+            (NP (PRP you))
+            (VP (VBP know))))))
+    (. .)))
+

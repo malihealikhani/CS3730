@@ -1,0 +1,23 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      (Contrast[S][N]
+        _!There was a lot of talk about me being ,!_
+        _!you know , seduced by Jodi . <s>!_)
+      _!And frankly , Jodi is not that seductive as a person . <s>!_)
+    (Joint[N][N]
+      _!She 's pretty straightforward , uhm ,!_
+      _!and what Jodi did was terrible . <s>!_))
+  (Joint[N][N]
+    _!But Jodi is n't terrible . <s>!_
+    (Joint[N][N]
+      _!And I think the media ... <s>!_
+      (Joint[N][N]
+        _!You had Nancy Grace ,!_
+        (Joint[N][N]
+          _!you had Jane Velez Mitchell ,!_
+          (Elaboration[N][S]
+            _!and you had Dr. Drew ,!_
+            (Cause[N][S]
+              _!who is very insidious!_
+              _!because he sounds sane . <P>!_)))))))

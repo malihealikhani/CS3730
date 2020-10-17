@@ -1,0 +1,87 @@
+(ROOT
+  (S
+    (PP (IN At)
+      (NP
+        (NP (DT that) (NN time))
+        (PP (IN on)
+          (NP (NNP December) (NN nineteenth)))))
+    (NP (PRP we))
+    (VP (VBD were)
+      (ADVP (RB also))
+      (VP (VBG looking)
+        (PP (IN for)
+          (NP (DT some) (VBG missing) (NNS items)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Uh) (, ,)
+      (PP (JJ such))
+      (PP (IN as)
+        (PRN (, ,)
+          (INTJ (UH uh))
+          (, ,))
+        (NP
+          (NP (NN badge))
+          (CC and)
+          (NP (DT a) (NN gun)))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP we))
+    (, ,)
+    (INTJ (UH uh))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD started)
+      (UCP
+        (VP (VBG driving)
+          (ADVP (RB up)
+            (CC and)
+            (RB down))
+          (, ,)
+          (S
+            (NP (PRP you))
+            (VP (VB know))))
+        (, ,)
+        (CC and)
+        (PP (IN through)
+          (NP (JJ new) (NN castle)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Um))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD went)
+      (PP (IN on)
+        (NP (NN foot)))
+      (NP (DT a) (JJ couple) (NNS times)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Um) (, ,)
+      (PP
+        (PP (IN through)
+          (NP (NNP New) (NNP Castle) (NNP Road)))
+        (CC and)
+        (PP (IN through)
+          (NP
+            (NP (NNP Stadium) (NNP Drive))
+            (PP (TO to)
+              (NP (NN look))))))
+      (PP (IN for)
+        (PRN (, ,)
+          (PP (IN like))
+          (, ,))
+        (NP
+          (NP (DT a) (NN badge)
+            (CC or)
+            (NN gun))
+          (CC or)
+          (NP (DT any) (JJ other) (NN evidence)))))
+    (. .)))
+

@@ -1,0 +1,19 @@
+(Elaboration[N][S]
+  (Contrast[S][N]
+    (Joint[N][N]
+      (Elaboration[N][S]
+        _!Right after the shot occurred , um , we had fallen over in the bathroom again toward the sink , the sink and garbage can area ,!_
+        _!kind of in the corner ,!_)
+      _!and so he did n't chase me in that moment ,!_)
+    _!but that 's where we struggled on the floor . <s>!_)
+  (same-unit[N][N]
+    (Attribution[N][S]
+      _!And again as soon as I broke away ,!_
+      _!he said!_)
+    (Attribution[S][N]
+      _!\ F'ing kill you Bitch \ "!_
+      (Contrast[S][N]
+        (Joint[N][N]
+          _!I do n't remember a lot after that ,!_
+          _!so whether he chased me or not ,!_)
+        _!I could n't say " <P>!_))))

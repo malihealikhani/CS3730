@@ -1,0 +1,4 @@
+conn:so conn_POS:IN prev1:am prev1_POS:VBP with_prev1_full:am_so with_prev1_POS_full:VBP_IN prev2:I prev2_POS:PRP with_prev2_full:I_so with_prev2_POS_full:PRP_IN NA
+conn:And conn_POS:CC sent_pos:0 NA
+conn:and conn_POS:CC prev1:her prev1_POS:PRP with_prev1_full:her_and with_prev1_POS_full:PRP_CC prev2:with prev2_POS:IN with_prev2_full:with_and with_prev2_POS_full:IN_CC NA
+conn:then conn_POS:RB prev1:and prev1_POS:CC with_prev1_full:and_then with_prev1_POS_full:CC_RB prev2:her prev2_POS:PRP with_prev2_full:her_then with_prev2_POS_full:PRP_RB NA

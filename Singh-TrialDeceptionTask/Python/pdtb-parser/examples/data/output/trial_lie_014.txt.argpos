@@ -1,0 +1,5 @@
+conn:when conn_POS:WRB sent_pos:2 prev1:think prev1_POS:VBP with_prev1_full:think_when with_prev1_POS_full:VBP_WRB prev2:I prev2_POS:PRP with_prev2_full:I_when with_prev2_POS_full:PRP_WRB NA
+conn:because conn_POS:IN prev1:free prev1_POS:JJ with_prev1_full:free_because with_prev1_POS_full:JJ_IN prev2:were prev2_POS:VBD with_prev2_full:were_because with_prev2_POS_full:VBD_IN NA
+conn:so conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_so with_prev1_POS_full:,_IN prev2:free prev2_POS:JJ with_prev2_full:free_so with_prev2_POS_full:JJ_IN NA
+conn:but conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_but with_prev1_POS_full:,_CC prev2:me prev2_POS:PRP with_prev2_full:me_but with_prev2_POS_full:PRP_CC NA
+conn:and conn_POS:CC prev1:quick prev1_POS:JJ with_prev1_full:quick_and with_prev1_POS_full:JJ_CC prev2:very prev2_POS:RB with_prev2_full:very_and with_prev2_POS_full:RB_CC NA

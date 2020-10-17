@@ -1,0 +1,2 @@
+conn:then conn_POS:RB prev1:ahh prev1_POS:NN with_prev1_full:ahh_then with_prev1_POS_full:NN_RB prev2:roadway prev2_POS:NN with_prev2_full:roadway_then with_prev2_POS_full:NN_RB NA
+conn:when conn_POS:WRB prev1:then prev1_POS:RB with_prev1_full:then_when with_prev1_POS_full:RB_WRB prev2:ahh prev2_POS:NN with_prev2_full:ahh_when with_prev2_POS_full:NN_WRB NA

@@ -1,0 +1,21 @@
+root(ROOT-0, 100-1)
+advmod(100-1, percent-2)
+
+root(ROOT-0, Absolutely-1)
+
+root(ROOT-0, 100-1)
+advmod(100-1, percent-2)
+
+root(ROOT-0, 100-1)
+advmod(100-1, percent-2)
+
+advmod(false-2, Totally-1)
+root(ROOT-0, false-2)
+
+aux(have-3, Do-1)
+nsubj(have-3, I-2)
+root(ROOT-0, have-3)
+dobj(have-3, remorse-4)
+
+root(ROOT-0, Absolutely-1)
+

@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG Reforming)
+        (NP
+          (NP (DT the) (JJ criminal) (NN justice) (NN system) (NNS matters))
+          (PP (TO to)
+            (NP (PRP me))))
+        (PP (RB because) (IN for)
+          (NP (DT the) (NN law)
+            (S
+              (VP (TO to)
+                (VP (VB have)
+                  (S
+                    (NP
+                      (NP (NN legitimacy))
+                      (CC and)
+                      (NP (DT the) (NNS people)))
+                    (VP (TO to)
+                      (VP (VB respect)
+                        (S
+                          (NP (PRP they))
+                          (NP (NN law)))))))))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP need)
+      (S
+        (VP (TO to)
+          (VP (VB believe)
+            (SBAR
+              (SBAR (IN that)
+                (S
+                  (NP (DT the) (NN law))
+                  (VP (VBZ treats)
+                    (NP
+                      (NP (NN everyone) (NN um))
+                      (: ...)
+                      (ADJP (RB equally) (JJ um))
+                      (: ...)))))
+              (CC and)
+              (FRAG
+                (ADVP (RB fairly))))))))
+    (. .)))
+

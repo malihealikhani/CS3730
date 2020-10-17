@@ -1,0 +1,31 @@
+(Elaboration[N][S]
+  (Explanation[N][S]
+    (Attribution[S][N] _!I think!_ _!he was very eager too . <s>!_)
+    (Explanation[N][S]
+      (Attribution[S][N]
+        _!Because it says I!_
+        _!want to know on page 72 . <s>!_)
+      (Attribution[S][N]
+        _!" I want to know!_
+        (Elaboration[N][S]
+          _!if there were any other copies!_
+          _!left at all . " <s>!_))))
+  (Explanation[N][S]
+    _!And he just wanted to more books and more copies . <s>!_
+    (Explanation[N][S]
+      _!I agree with St 8 . <s>!_
+      (Explanation[N][S]
+        (Attribution[S][N]
+          (same-unit[N][N]
+            (Elaboration[N][S]
+              _!Because I feel like now!_
+              _!that he had that encounter with Clarisse!_)
+            _!he 's!_)
+          (Joint[N][N]
+            _!starting to , like ,!_
+            (Joint[N][N]
+              _!act like her!_
+              _!and start asking more questions . <s>!_)))
+        (Background[N][S]
+          _!Like he 's not acting like the normal citizen in that society anymore!_
+          _!since he met her . <P>!_)))))

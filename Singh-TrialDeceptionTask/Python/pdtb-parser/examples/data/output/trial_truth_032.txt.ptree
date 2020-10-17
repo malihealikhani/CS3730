@@ -1,0 +1,120 @@
+(ROOT
+  (S (CC And)
+    (S
+      (NP (PRP she))
+      (VP (VBD told)
+        (NP (PRP me))
+        (SBAR
+          (S
+            (NP (PRP she))
+            (VP (VBD was))))))
+    (, ,)
+    (ADVP (RB as) (RB well))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD did)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP I))
+            (ADVP (RB finally))
+            (NP (PRP it))
+            (VP (VBD was))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADVP (RB still))
+      (ADJP (JJ dark))
+      (SBAR (IN so)
+        (S
+          (NP (PRP I))
+          (ADVP (RB finally))
+          (VP (VBN shown)
+            (NP (PRP$ my) (NN flashlight))
+            (PP (IN at)
+              (NP (PRP her)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Um))
+    (, ,)
+    (VP (VB cause)
+      (SBAR
+        (S
+          (NP (PRP she))
+          (VP (VBD had)
+            (VP (VBN mentioned)
+              (SBAR (IN that)
+                (S
+                  (S
+                    (NP (PRP she))
+                    (VP (VBD 'd)
+                      (VP (VBN been)
+                        (VP (VBN shot)
+                          (PP (IN in)
+                            (NP (DT the) (NN head)))))))
+                  (CC and)
+                  (S
+                    (NP (PRP I))
+                    (VP (MD could)
+                      (VP (VB tell)
+                        (SBAR (IN that)
+                          (S
+                            (NP (PRP$ her) (NN hair))
+                            (VP (VBD was)
+                              (VP (VBN soaked)
+                                (PP (IN in)
+                                  (NP (NN blood)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Um))
+      (, ,)
+      (ADVP (IN at) (JJS least))
+      (NP
+        (NP (CD one) (JJ other) (NN officer))
+        (, ,)
+        (NP (NN ah)))
+      (, ,))
+    (VP (VBD arrived)
+      (PP (IN with)
+        (NP (PRP me)))
+      (PP (IN on)
+        (NP (NNP Butterfly) (NNP Creek))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (ADVP (RB then))
+    (NP (NN ah))
+    (, ,)
+    (SBAR (IN once)
+      (S
+        (NP (PRP we))
+        (VP (VBD figured)
+          (PRT (RP out))
+          (SBAR (IN that)
+            (S
+              (NP (DT the) (JJ actual) (NN incident))
+              (VP (VBD happened)
+                (PP (IN on)
+                  (NP (NNP Bernardino)))
+                (NP
+                  (NP (DT the) (NN rest))
+                  (PP (IN of)
+                    (NP (DT the) (NNS officers))))))))))
+    (, ,)
+    (ADVP (RB ah))
+    (, ,)
+    (VP (VBD went)
+      (PP (TO to)
+        (NP (DT that) (NN residence))))
+    (. .)))
+

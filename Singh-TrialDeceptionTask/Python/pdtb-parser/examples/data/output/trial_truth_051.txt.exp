@@ -1,0 +1,7 @@
+conn_lc:and conn:And conn_POS:CC xxx£
+conn_lc:and conn:And conn_POS:CC xxx£
+conn_lc:then conn:then conn_POS:RB with_prev_full:and_then xxx£
+conn_lc:and conn:And conn_POS:CC xxx£
+conn_lc:and conn:And conn_POS:CC xxx£
+conn_lc:until conn:until conn_POS:IN with_prev_full:waited_until xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:up_and xxx£

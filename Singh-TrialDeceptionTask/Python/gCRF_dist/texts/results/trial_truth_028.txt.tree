@@ -1,0 +1,21 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      _!I ... <s>!_
+      (Attribution[N][S]
+        (Attribution[S][N] _!It was!_ _!while back but I believe ,!_)
+        _!I did . <s>!_))
+    _!I ask hm ... <s>!_)
+  (Elaboration[N][S]
+    (Contrast[N][N]
+      _!I asked about the battery ,!_
+      (Elaboration[N][S]
+        _!it will take time for battery to charge ,!_
+        _!You wo n't be able to use it out of the box . <s>!_))
+    (Elaboration[N][S]
+      _!So , by that time!_
+      (Attribution[S][N]
+        _!that 's when I asked!_
+        (Elaboration[N][S]
+          _!she would like one!_
+          _!that is corded . <P>!_)))))

@@ -1,0 +1,162 @@
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD had)
+      (NP
+        (NP (DT some) (NNS drinks))
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NN bar))
+            (, ,) (RB maybe)
+            (NP (CD one) (: ...) (CD two))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Ammm))
+    (: ...)
+    (NP (PRP I))
+    (VP (VBD got)
+      (PP (IN onto)
+        (NP (DT the) (NN dance) (NN floor)))
+      (NP (PRP myself))
+      (SBAR (IN as)
+        (S
+          (S
+            (NP (PRP I))
+            (VP (VBD explained) (, ,)
+              (S
+                (VP (VB ammm)))))
+          (: ...)
+          (S
+            (NP (PRP I))
+            (VP (VBP have)
+              (VP (VBN been)
+                (NP
+                  (NP (DT a) (VBN trained) (NN dancer))
+                  (PP (IN for)
+                    (NP (DT some) (NN time)))))))
+          (, ,)
+          (S
+            (S
+              (VP (VBG going)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (ADJP (JJ able)
+                        (S
+                          (VP (TO to)
+                            (VP (VB dance)
+                              (ADVP (RB freely)))))))))))
+            (VP (VBZ is)
+              (SBAR (IN like)
+                (S
+                  (FRAG
+                    (X (SYM a))
+                    (: ...)
+                    (NP (NN release)))
+                  (, ,)
+                  (NP (PRP I))
+                  (VP (VBP 'm)
+                    (ADJP (RB very) (JJ much)
+                      (PP (IN in)
+                        (NP
+                          (NP (PRP$ my) (JJ own) (NN space))
+                          (SBAR
+                            (WHADVP (WRB when))
+                            (S
+                              (NP (PRP I))
+                              (VP (VBP do)
+                                (SBAR (IN that)
+                                  (CC and)
+                                  (RB so)
+                                  (S
+                                    (NP (PRP I))
+                                    (VP (VBD got)
+                                      (PRT (RP up))))))))))))))))
+          (, ,)
+          (CC and)
+          (S
+            (NP (PRP I))
+            (VP (VBD was)
+              (VP (VBG dancing)
+                (ADVP (RB alone))
+                (PP (IN on)
+                  (NP (DT the) (NN dance) (NN floor)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP (VBD came)
+        (S
+          (VP (TO to)
+            (VP (VB join)
+              (NP
+                (NP (DT the) (NN dance) (NN floor))
+                (, ,)
+                (S
+                  (S
+                    (VP (VB ahhh)))
+                  (: ...)
+                  (S
+                    (S
+                      (VP (VBD did) (RB not)
+                        (VP (VB join)
+                          (NP (PRP me))
+                          (ADVP (RB necessarily))
+                          (PP (IN on)
+                            (NP (DT the) (NN dance) (NN floor)))
+                          (ADVP (RB initially)))))
+                    (, ,)
+                    (CC and)
+                    (S
+                      (NP (PRP he))
+                      (VP (VBD was)
+                        (ADVP (RB also)))))
+                  (: ...)
+                  (S
+                    (VP (VBG dancing)))
+                  (, ,)
+                  (CC and)
+                  (ADVP (RB then))
+                  (S
+                    (VP (VB ammm))))))))))
+    (: ...)
+    (S
+      (NP (EX there))
+      (VP (VBD was)
+        (NP
+          (NP (DT a) (NN time))
+          (SBAR
+            (WHADVP (WRB where))
+            (S
+              (NP (PRP he))
+              (VP (VBD reached)
+                (PRT (RP out))
+                (NP (PRP$ his)
+                  (NX
+                    (NX (NN hand))
+                    (CC and))))))
+          (: ...)
+          (PP (IN as)))))
+    (: ...)
+    (S
+      (NP (DT the) (NN defense))
+      (VP (VBZ has)
+        (VP (VBN said)
+          (S
+            (VP
+              (VP (VB twirled)
+                (NP (PRP me))
+                (ADVP (RB around)))
+              (CC and)
+              (VP (VB ammm)))))))
+    (: ...)
+    (S
+      (NP (DT that))
+      (VP (VBZ 's)
+        (NP (PRP it))))
+    (. .)))
+

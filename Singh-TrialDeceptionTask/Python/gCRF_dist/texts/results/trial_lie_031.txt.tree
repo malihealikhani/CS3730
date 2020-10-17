@@ -1,0 +1,13 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      _!Well ... <s>!_
+      (Joint[N][N]
+        (Attribution[S][N]
+          _!I do know!_
+          _!that we struggled that day ,!_)
+        _!and based on logic it would have because of how we fought . <s>!_))
+    (Elaboration[N][S]
+      (Attribution[S][N] _!I do n't know!_ _!how things ended up ,!_)
+      _!where they ended up . <s>!_))
+  _!I just <P>!_)

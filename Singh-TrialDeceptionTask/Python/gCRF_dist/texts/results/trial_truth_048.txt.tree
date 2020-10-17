@@ -1,0 +1,19 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      _!Um , tanbark , I started to notice some debris on the road way . <s>!_
+      (Elaboration[N][S]
+        _!I noticed some uhhh ...!_
+        _!tire marks . <s>!_))
+    (Attribution[S][N]
+      _!Was n't exactly exactly sure!_
+      _!what it was . <s>!_))
+  (Joint[N][N]
+    (same-unit[N][N]
+      (Attribution[N][S] _!Some debris . ahhh!_ _!I started!_)
+      _!following it down!_)
+    (Background[N][S]
+      _!and noticed some damaged to the roadway ahh then!_
+      (same-unit[N][N]
+        (Elaboration[N][S] _!when I looked up!_ _!I saw!_)
+        _!a white car i was up against the tree <P>!_))))

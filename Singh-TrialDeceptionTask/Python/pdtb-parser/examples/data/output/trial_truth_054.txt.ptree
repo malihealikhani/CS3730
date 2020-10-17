@@ -1,0 +1,83 @@
+(ROOT
+  (S
+    (NP (NNS Psychologists))
+    (ADVP (RB once))
+    (VP (VBD explained)
+      (PP (TO to)
+        (NP (PRP me)))
+      (SBAR (IN that)
+        (S
+          (NP (NN society))
+          (VP (VBD had)
+            (NP (DT this) (NN need)
+              (S
+                (VP (TO to)
+                  (VP (VB umm)
+                    (NP (JJ persecute) (NNS people))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP get)
+        (NP
+          (NP (DT some) (NN sort))
+          (PP (IN of)
+            (NP (NN gratification))))
+        (PP (IN from)
+          (NP (PRP it)))))
+    (, ,) (IN so)
+    (S
+      (NP (EX there))
+      (VP (MD might)
+        (VP (VB be)
+          (NP
+            (NP (NN something))
+            (VP (VBG going)
+              (PP (IN on)
+                (NP (RB there))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (VP (VB Umm)
+          (PP (IN beside)
+            (NP (DT that) (NN I)))))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBP do)
+        (ADVP (RB n't))
+        (ADVP (RB really))))
+    (: --)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (RB so) (JJ convoluted))
+        (SBAR (IN that)
+          (S
+            (NP (PRP we))
+            (VP (MD could)
+              (VP (VB talk)
+                (PP (IN for)
+                  (NP
+                    (NP (NNS hours))
+                    (PP (IN on)
+                      (NP (DT that)))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (ADVP (RB umm))
+    (NP (PRP it))
+    (ADVP (RB just))
+    (VP (VBZ is)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)))))
+    (. .)))
+

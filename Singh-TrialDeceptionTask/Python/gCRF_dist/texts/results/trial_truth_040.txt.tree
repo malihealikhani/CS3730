@@ -1,0 +1,19 @@
+(Elaboration[N][S]
+  (Attribution[S][N]
+    _!Um ...!_
+    (Attribution[S][N]
+      _!well I remember!_
+      _!I heard a shot after that . <s>!_))
+  (Elaboration[N][S]
+    (Joint[N][N]
+      _!Um ...!_
+      (Attribution[S][N]
+        _!and I remember getting under the vehicle ... and ...!_
+        _!I fell on the ground . <s>!_))
+    (Attribution[S][N]
+      (same-unit[N][N]
+        (Elaboration[N][S]
+          _!And um!_
+          _!that 's when SPO Jerry Johnson ,!_)
+        _!I heard!_)
+      _!him come up . <P>!_)))

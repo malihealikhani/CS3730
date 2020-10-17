@@ -1,0 +1,14 @@
+34..37|Expansion
+216..219|Expansion
+327..330|Expansion
+353..356|Expansion
+374..378|Temporal
+430..433|Expansion
+434..438|Temporal
+566..568|Temporal
+605..608|Expansion
+668..671|Expansion
+672..674|Temporal
+904..906|Contingency
+936..938|Contingency
+1001..1004|Expansion

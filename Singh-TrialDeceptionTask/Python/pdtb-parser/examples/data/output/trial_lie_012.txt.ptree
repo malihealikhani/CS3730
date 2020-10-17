@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP do) (RB n't)
+      (VP (VB know) (, ,)
+        (ADVP (RB maybe)
+          (NP (CD ten)))
+        (: ...)
+        (FRAG
+          (NP
+            (NP (CD nine) (CD thirty))
+            (, ,)
+            (NP (CD ten))
+            (, ,)
+            (NP
+              (NP (NN something))
+              (PP (IN along)
+                (NP (DT those) (NNS lines))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Might))
+    (ADVP (RB even))
+    (VP (VBP have)
+      (VP (VBN been)
+        (ADVP (RB slightly))
+        (ADVP (RB later))))
+    (. .)))
+

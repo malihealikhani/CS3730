@@ -1,0 +1,25 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      _!I can answer that . <s>!_
+      (same-unit[N][N]
+        (Attribution[N][S] _!In paragraph five ,!_ _!it said ;!_)
+        _!" This is not a sectional issue . <s>!_))
+    (Elaboration[N][S]
+      (Joint[N][N]
+        (Elaboration[N][S]
+          _!Difficulties over segregation and discrimination exist in every city , in every State of the Union ,!_
+          (Elaboration[N][S]
+            _!producing in many cities a rising tide of discontent!_
+            _!that threatens the public safety . <s>!_))
+        _!Nor is this a partisan issue . <s>!_)
+      _!In a time of domestic crisis men of good will and generosity should be able to unite regardless of party or politics . " <s>!_))
+  (Elaboration[N][S]
+    (Contrast[S][N]
+      (Elaboration[N][S]
+        _!So this speech targeted not only the people!_
+        _!that believed in segregation ,!_)
+      (Attribution[S][N]
+        _!but the whole country , and the problem could n't be fixed unless the majority of the country believed!_
+        _!what he was saying . <s>!_))
+    _!Everybody . <P>!_))

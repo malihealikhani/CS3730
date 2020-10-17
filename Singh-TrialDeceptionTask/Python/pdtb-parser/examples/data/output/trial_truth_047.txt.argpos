@@ -1,0 +1,8 @@
+conn:so conn_POS:IN prev1:\ prev1_POS:VBZ with_prev1_full:\_so with_prev1_POS_full:VBZ_IN prev2:instinctively prev2_POS:RB with_prev2_full:instinctively_so with_prev2_POS_full:RB_IN NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:'' prev2_POS:'' with_prev2_full:''_and with_prev2_POS_full:''_CC NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:here prev2_POS:RB with_prev2_full:here_and with_prev2_POS_full:RB_CC NA
+conn:because conn_POS:IN prev1:that prev1_POS:DT with_prev1_full:that_because with_prev1_POS_full:DT_IN prev2:with prev2_POS:IN with_prev2_full:with_because with_prev2_POS_full:IN_IN NA
+conn:so conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_so with_prev1_POS_full:,_IN prev2:driver prev2_POS:NN with_prev2_full:driver_so with_prev2_POS_full:NN_IN NA
+conn:and conn_POS:CC prev1:'' prev1_POS:'' with_prev1_full:''_and with_prev1_POS_full:''_CC prev2:\ prev2_POS:CD with_prev2_full:\_and with_prev2_POS_full:CD_CC NA
+conn:so conn_POS:IN prev1:and prev1_POS:CC with_prev1_full:and_so with_prev1_POS_full:CC_IN prev2:'' prev2_POS:'' with_prev2_full:''_so with_prev2_POS_full:''_IN NA
+conn:so conn_POS:IN prev1:, prev1_POS:, with_prev1_full:,_so with_prev1_POS_full:,_IN prev2:vicinity prev2_POS:NN with_prev2_full:vicinity_so with_prev2_POS_full:NN_IN NA

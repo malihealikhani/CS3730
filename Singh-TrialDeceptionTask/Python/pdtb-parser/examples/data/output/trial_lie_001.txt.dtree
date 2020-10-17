@@ -1,0 +1,20 @@
+neg(I-3, No-1)
+nn(I-3, sir-2)
+nsubj(did-4, I-3)
+root(ROOT-0, did-4)
+neg(did-4, not-5)
+
+nsubj(did-3, I-1)
+advmod(did-3, absolutely-2)
+root(ROOT-0, did-3)
+neg(did-3, not-4)
+
+neg(I-3, No-1)
+nn(I-3, sir-2)
+nsubj(was-4, I-3)
+root(ROOT-0, was-4)
+neg(was-4, not-5)
+
+neg(sir-2, No-1)
+root(ROOT-0, sir-2)
+

@@ -1,0 +1,11 @@
+0..3 0 And trial_truth_032.txt 0
+25..32 0 as_well trial_truth_032.txt 0
+40..44 1 when trial_truth_032.txt 0
+47..54 1 finally trial_truth_032.txt 0
+70..75 1 still trial_truth_032.txt 0
+81..83 1 so trial_truth_032.txt 0
+86..93 1 finally trial_truth_032.txt 0
+183..186 2 and trial_truth_032.txt 0
+307..310 4 And trial_truth_032.txt 0
+311..315 4 then trial_truth_032.txt 0
+320..324 4 once trial_truth_032.txt 0

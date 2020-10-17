@@ -1,0 +1,16 @@
+cc(was-5, But-1)
+nsubj(was-5, yes-2)
+nsubj(was-5, I-4)
+root(ROOT-0, was-5)
+advmod(was-5, there-6)
+
+advmod(stayed-4, Yep-1)
+nsubj(stayed-4, I-3)
+root(ROOT-0, stayed-4)
+
+root(ROOT-0, Uh-1)
+dep(Uh-1, Yep-3)
+dep(Uh-1, prob-5)
+discourse(yes-9, yes-7)
+dep(Uh-1, yes-9)
+

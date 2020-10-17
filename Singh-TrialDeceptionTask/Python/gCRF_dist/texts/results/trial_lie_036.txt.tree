@@ -1,0 +1,17 @@
+(Elaboration[N][S]
+  _!... brother , sister and his children ...!_
+  (same-unit[N][N]
+    (same-unit[N][N]
+      (Joint[N][N]
+        (Attribution[S][N]
+          _!I know!_
+          (Elaboration[N][S] _!that he was a fun!_ _!loving Uncle!_))
+        _!and I 'm ...!_)
+      _!ca n't continue to experience things in his life ... for a kid ...!_)
+    (Elaboration[N][S]
+      _!there is certainly no way!_
+      (Attribution[S][N]
+        _!to explain!_
+        (Joint[N][N]
+          _!... make sense of the situation!_
+          _!and I 'm truly sorry for that . <P>!_)))))

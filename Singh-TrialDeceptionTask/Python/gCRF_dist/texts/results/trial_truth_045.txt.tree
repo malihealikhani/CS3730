@@ -1,0 +1,15 @@
+(Elaboration[N][S]
+  (Joint[N][N]
+    (Elaboration[N][S]
+      (Elaboration[N][S]
+        _!Um , my daughter and ah , Nicole have been friends for a long time . <s>!_
+        (Attribution[S][N]
+          _!Ah , pretty much cause!_
+          _!they were both lifers for the class of 2005 . <s>!_))
+      _!And um , I had actually taught Nicole sophomore English . <s>!_)
+    (Joint[N][N]
+      (Attribution[N][S]
+        _!And Nicole and Megan had been in the band together for ,!_
+        _!I think , from like 7th to 10th grade . <s>!_)
+      _!And um , no excuse me , basketball from 7th to 10th . <s>!_))
+  _!And then in the band together from 4th through 12th . <P>!_)

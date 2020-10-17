@@ -1,0 +1,5 @@
+conn:As conn_POS:IN sent_pos:0 NA
+conn:and conn_POS:CC prev1:knives prev1_POS:NNS with_prev1_full:knives_and with_prev1_POS_full:NNS_CC prev2:two prev2_POS:CD with_prev2_full:two_and with_prev2_POS_full:CD_CC NA
+conn:then conn_POS:RB prev1:and prev1_POS:CC with_prev1_full:and_then with_prev1_POS_full:CC_RB prev2:knives prev2_POS:NNS with_prev2_full:knives_then with_prev2_POS_full:NNS_RB NA
+conn:And conn_POS:CC sent_pos:0 NA
+conn:so conn_POS:IN prev1:feet prev1_POS:NNS with_prev1_full:feet_so with_prev1_POS_full:NNS_IN prev2:his prev2_POS:PRP$ with_prev2_full:his_so with_prev2_POS_full:PRP$_IN NA

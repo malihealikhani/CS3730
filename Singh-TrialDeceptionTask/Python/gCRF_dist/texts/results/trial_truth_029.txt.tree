@@ -1,0 +1,15 @@
+(Elaboration[N][S]
+  _!Yes I was in my kitchen getting ready . <s>!_
+  (Elaboration[N][S]
+    _!The light was on . <s>!_
+    (Joint[N][N]
+      (Attribution[S][N]
+        _!I heard!_
+        _!a little bloop bloop to the back um garbage can and then turned . <s>!_)
+      (Joint[N][N]
+        (Elaboration[N][S]
+          _!And somebody was ringing the doorbell with blood!_
+          _!dripping down of their head!_)
+        (Attribution[S][N]
+          _!and screaming!_
+          _!they 'd been shot . <P>!_)))))

@@ -1,0 +1,15 @@
+(Elaboration[N][S]
+  (Attribution[S][N]
+    _!He had told me!_
+    _!that he had had a dream that , ammm ...!_)
+  (same-unit[N][N]
+    (Elaboration[N][S]
+      _!he was in a forest!_
+      _!and that he had killed Laura ,!_)
+    (same-unit[N][N]
+      _!and that!_
+      (Condition[S][N]
+        _!if I did n't help him get rid of her ,!_
+        (Elaboration[N][S]
+          _!that he ...!_
+          _!that I was gon na be next . <P>!_)))))

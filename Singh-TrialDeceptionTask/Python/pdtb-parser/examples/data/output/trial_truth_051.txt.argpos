@@ -1,0 +1,7 @@
+conn:And conn_POS:CC sent_pos:0 NA
+conn:And conn_POS:CC sent_pos:0 NA
+conn:then conn_POS:RB sent_pos:1 prev1:And prev1_POS:CC with_prev1_full:And_then with_prev1_POS_full:CC_RB NA
+conn:And conn_POS:CC sent_pos:0 NA
+conn:And conn_POS:CC sent_pos:0 NA
+conn:until conn_POS:IN prev1:waited prev1_POS:VBD with_prev1_full:waited_until with_prev1_POS_full:VBD_IN prev2:I prev2_POS:PRP with_prev2_full:I_until with_prev2_POS_full:PRP_IN NA
+conn:and conn_POS:CC prev1:up prev1_POS:RP with_prev1_full:up_and with_prev1_POS_full:RP_CC prev2:got prev2_POS:VBD with_prev2_full:got_and with_prev2_POS_full:VBD_CC NA

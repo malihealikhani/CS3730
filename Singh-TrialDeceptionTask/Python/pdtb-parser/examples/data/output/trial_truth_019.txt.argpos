@@ -1,0 +1,1 @@
+conn:before conn_POS:IN prev1:sentence prev1_POS:NN with_prev1_full:sentence_before with_prev1_POS_full:NN_IN prev2:life prev2_POS:NN with_prev2_full:life_before with_prev2_POS_full:NN_IN NA

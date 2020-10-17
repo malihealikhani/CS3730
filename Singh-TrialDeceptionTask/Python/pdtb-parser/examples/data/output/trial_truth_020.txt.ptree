@@ -1,0 +1,41 @@
+(ROOT
+  (FRAG
+    (NP (NNP Ahhh))
+    (: ...)
+    (S
+      (NP
+        (NP (DT a) (NN lot))
+        (PP (IN of)
+          (NP (NNS people))))
+      (VP (VBP do) (RB n't)
+        (VP (VB value)
+          (NP (DT the) (NN freedom))
+          (SBAR (IN until)
+            (S
+              (S
+                (NP (PRP it))
+                (VP (VBZ 's)
+                  (VP (VBN gone))))
+              (CC and)
+              (S (RB then)
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP get)
+                      (NP (PRP it))
+                      (ADVP (RB back)))))
+                (, ,)
+                (NP (PRP it))
+                (VP (VBZ 's)
+                  (SBAR (IN like)
+                    (S
+                      (NP (PRP you))
+                      (VP (VBP value)
+                        (S
+                          (NP (PRP it))
+                          (ADJP
+                            (NP (DT a) (RB lot))
+                            (JJR more)))))))))))))
+    (. .)))
+

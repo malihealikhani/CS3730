@@ -1,0 +1,153 @@
+(ROOT
+  (S
+    (S
+      (INTJ (UH Well))
+      (, ,)
+      (S
+        (ADVP (RB again))
+        (NP (PRP I))
+        (VP (MD ca) (RB n't)))
+      (, ,)
+      (S
+        (NP (PRP it))
+        (VP (VBD happened)
+          (ADVP (RB so) (RB fast))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBD did)
+                (ADVP (RB initially))
+                (VP (VB think)
+                  (NP (NNP Run)))))))))
+    (, ,) (IN so)
+    (S
+      (NP (PRP I))
+      (VP (VBD went)
+        (ADVP
+          (ADVP (RB down)
+            (NP (DT the) (NN hallway)))
+          (CC and)
+          (ADVP (RB then) (RB right)))
+        (SBAR (IN as)
+          (S
+            (NP (PRP I))
+            (VP (VBD got)
+              (PP (TO to)
+                (NP (DT the) (NN hallway)))
+              (, ,)
+              (PP (IN with)
+                (NP
+                  (NP (DT the) (NNS doors))
+                  (VP (VBG being)
+                    (VP (VBN shut))))))))))
+    (, ,)
+    (S
+      (NP (PRP it))
+      (ADVP (RB just))
+      (VP (VBD seemed)
+        (SBAR
+          (S
+            (PP (IN like)
+              (NP
+                (NP (JJR more))
+                (PP (IN of)
+                  (NP (DT an) (NN obstacle)))))
+            (NP (PRP it))
+            (VP (MD would)
+              (VP (VB give)
+                (NP (PRP him))
+                (NP (JJR more) (NN time)
+                  (S
+                    (VP (TO to)
+                      (VP (VB catch)
+                        (PRT (RP up))
+                        (, ,)
+                        (S
+                          (VP (TO to)
+                            (VP
+                              (VP (VB open)
+                                (NP
+                                  (NP (DT the) (NN door))
+                                  (NP (DT this) (NN way))))
+                              (CC and)
+                              (VP (VB run)
+                                (PRT (RP around))
+                                (NP (PRP it))))))))))))))))
+    (CC and)
+    (ADVP (RB out))
+    (, ,)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (DT this) (NN door))
+        (VP (VBD was)
+          (UCP
+            (NP (DT an) (JJ equal) (NN distance))
+            (CC and)
+            (ADJP (JJ open))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD could)
+      (VP (VB run)
+        (UCP
+          (ADVP (DT that) (NN way))
+          (CC and)
+          (PP (IN into)
+            (NP (PRP it))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S (CC So)
+      (NP (PRP$ my) (NN thought))
+      (ADVP (RB initially))
+      (VP (VBD was)
+        (S
+          (VP (TO to)
+            (VP (VB run)
+              (PP
+                (PP (IN out)
+                  (NP (DT this) (NN door)))
+                (, ,)
+                (CC and)
+                (RB then)
+                (PP (IN around)
+                  (CC and)
+                  (IN out))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBG doing)
+          (NP (NN something))
+          (ADVP (RB just))
+          (S
+            (VP (TO to)
+              (VP (VB create)
+                (NP (JJR more) (NN distance))
+                (, ,)
+                (SBAR (IN because)
+                  (S
+                    (S
+                      (NP (JJ last) (NN time))
+                      (NP (PRP I))
+                      (VP (VBD had)
+                        (VP (VBN run)
+                          (NP (DT that) (JJ same) (NN route)))))
+                    (CC and)
+                    (S
+                      (NP (PRP I))
+                      (VP (VBD was) (RB not)
+                        (ADJP (JJ successful)
+                          (PP (IN in)
+                            (S
+                              (VP (VBG running)
+                                (PRT (RP out))
+                                (PP (IN of)
+                                  (NP (DT the) (NN room)))))))))))))))))
+    (. .)))
+

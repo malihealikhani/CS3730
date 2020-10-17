@@ -1,0 +1,37 @@
+(Elaboration[N][S]
+  (same-unit[N][N]
+    (Attribution[N][S]
+      (Elaboration[N][S]
+        _!So I was experiencing disorientation ,!_
+        _!I was n't thinking gosh ,!_)
+      _!Travis ' just choked me out ,!_)
+    (Attribution[S][N]
+      _!I was ...!_
+      (Enablement[N][S]
+        _!actually a thought just sort of wandered through my mind Wheres Nepolian , in my head!_
+        (Elaboration[N][S]
+          _!so that was my thought!_
+          (Elaboration[N][S]
+            _!and it did n't really have any relation to the event ,!_
+            _!that was just a thought . <s>!_)))))
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      (same-unit[N][N]
+        (Elaboration[N][S] _!I was kinda!_ _!getting my bearings ,!_)
+        (Joint[N][N]
+          _!um ,!_
+          (Joint[N][N]
+            (same-unit[N][N]
+              (Elaboration[N][S]
+                _!so there is ,!_
+                _!it 's not completely clear ,!_)
+              (Attribution[S][N]
+                _!I just remember!_
+                _!he had his hands around my neck ,!_))
+            _!and he was banging my head on the carpet . <s>!_)))
+      (Joint[N][N]
+        (Joint[N][N]
+          _!I tried to push him off ,!_
+          _!and then it was ,!_)
+        _!and then I blacked out . <s>!_))
+    _!Really shortly after that . <P>!_))

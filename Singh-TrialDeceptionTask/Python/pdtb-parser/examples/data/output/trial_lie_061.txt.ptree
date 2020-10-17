@@ -1,0 +1,103 @@
+(ROOT
+  (FRAG (RB Not)
+    (PP (IN at)
+      (NP (DT all)))
+    (. .)))
+
+(ROOT
+  (S
+    (INTJ (UH Oh))
+    (, ,)
+    (NP (DT that))
+    (VP (VBZ 's)
+      (NP
+        (NP (PRP$ her) (NN word) (NNS agains))
+        (SBAR
+          (S
+            (NP (PRP mine))
+            (VP (VBZ is) (RB n't))))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (VBP do)
+      (NP (PRP you))
+      (VP (VB think)))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBD heard)
+      (NP (PRP her)))
+    (. ?)))
+
+(ROOT
+  (S
+    (PP (IN Since)
+      (NP (RB then)))
+    (NP (PRP you))
+    (VP (VBP become)
+      (NP
+        (NP (DT the) (JJS biggest)
+          (PRN (-LRB- -LRB-)
+            (NP (NN inaudible))
+            (-RRB- -RRB-)))
+        (PP (IN in)
+          (NP
+            (NP (DT all))
+            (PP (IN of)
+              (NP (DT this)))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Well))
+      (, ,)
+      (SBAR
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (MD would)
+              (VP (VB like)
+                (S
+                  (VP (TO to)
+                    (VP (VB think)
+                      (ADVP (RB so)))))))))
+        (, ,)
+        (CC but)
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ 's) (RB not)
+              (SBAR (IN for)
+                (S
+                  (NP (PRP me))
+                  (VP (TO to)
+                    (VP (VB juge)))))))))
+      (, ,))
+    (VP (VBZ is) (RB n't))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP mean)
+      (SBAR (IN that)
+        (S
+          (VP (VBZ 's)
+            (PP (IN between)
+              (NP
+                (NP (PRP him))
+                (CC and)
+                (NP (PRP$ his) (NN God))))))))
+    (. .)))
+
+(ROOT
+  (SQ (VBZ Is)
+    (NP (PRP it))
+    (ADVP (RB not))
+    (. ?)))
+

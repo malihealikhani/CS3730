@@ -1,0 +1,80 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP$ My) (NN name))
+      (VP (VBZ is)
+        (NP (NNP Marvin) (NNP L.) (NNP Anderson) (NNP um))))
+    (: ...)
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBN born)
+          (PP (IN in)
+            (NP (NNP Genova) (, ,) (NNP Virginia))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Um))
+    (: ...)
+    (S
+      (PP (IN In)
+        (NP (CD 1982)))
+      (NP (PRP I))
+      (VP
+        (VP (VBD went)
+          (PP (TO to)
+            (NP (NN trial))))
+        (CC and)
+        (VP (VBD was)
+          (VP (VBN convicted)
+            (PP (IN for)
+              (NP
+                (NP (CD two) (NNS counts))
+                (PP (IN of)
+                  (NP (NN rape) (, ,) (NN sodomy) (, ,) (NN robery)
+                    (CC and)
+                    (NN abduction)))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Um))
+    (: ...)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBN sentenced)
+          (PP (TO to)
+            (NP
+              (NP
+                (NP (DT this) (JJ total) (NN sentence))
+                (PP (IN of)
+                  (NP (CD two) (CD hundred))))
+              (CC and)
+              (NP (CD ten) (NNS years)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD spent)
+      (NP (CD 15) (NNS years))
+      (PP (IN in)
+        (NP
+          (NP (NN prision))
+          (CC and)
+          (NP
+            (NP (CD five) (NNS years))
+            (PP (IN on)
+              (NP (NN parole))))))
+      (SBAR (IN before)
+        (S
+          (NP (PRP I))
+          (VP (VBD was)
+            (VP (VBN exonerated)
+              (PP (IN in)
+                (NP (CD two) (CD thousand))))))))
+    (. .)))
+

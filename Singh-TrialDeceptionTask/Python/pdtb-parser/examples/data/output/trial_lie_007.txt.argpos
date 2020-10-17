@@ -1,0 +1,7 @@
+conn:as conn_POS:IN prev1:myself prev1_POS:PRP with_prev1_full:myself_as with_prev1_POS_full:PRP_IN prev2:floor prev2_POS:NN with_prev2_full:floor_as with_prev2_POS_full:NN_IN NA
+conn:when conn_POS:WRB prev1:space prev1_POS:NN with_prev1_full:space_when with_prev1_POS_full:NN_WRB prev2:own prev2_POS:JJ with_prev2_full:own_when with_prev2_POS_full:JJ_WRB NA
+conn:so conn_POS:RB prev1:and prev1_POS:CC with_prev1_full:and_so with_prev1_POS_full:CC_RB prev2:that prev2_POS:IN with_prev2_full:that_so with_prev2_POS_full:IN_RB NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:up prev2_POS:RP with_prev2_full:up_and with_prev2_POS_full:RP_CC NA
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:initially prev2_POS:RB with_prev2_full:initially_and with_prev2_POS_full:RB_CC NA
+conn:also conn_POS:RB prev1:was prev1_POS:VBD with_prev1_full:was_also with_prev1_POS_full:VBD_RB prev2:he prev2_POS:PRP with_prev2_full:he_also with_prev2_POS_full:PRP_RB NA
+conn:then conn_POS:RB prev1:and prev1_POS:CC with_prev1_full:and_then with_prev1_POS_full:CC_RB prev2:, prev2_POS:, with_prev2_full:,_then with_prev2_POS_full:,_RB NA

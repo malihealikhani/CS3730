@@ -1,0 +1,46 @@
+(ROOT
+  (FRAG (: ...)
+    (VP (VBP Do)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP believe)
+            (NP
+              (NP (DT the) (NN evidence))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ supports)
+                    (NP (JJ domestic) (NN violence))))))))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH Yes) (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (NN bias))
+          (VP (VBZ is)
+            (NP
+              (NP (DT an) (JJ incorrect) (NN word))
+              (, ,)
+              (NP (NNP Mr.) (NNP Martinez)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP do) (RB n't)
+      (VP (VB believe)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP 'm)
+              (VP (VBN biased)))))))
+    (. .)))
+

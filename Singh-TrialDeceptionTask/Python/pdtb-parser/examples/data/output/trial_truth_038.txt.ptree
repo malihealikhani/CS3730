@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Next) (NN thing))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP remember)))))
+    (VP (VBZ is) (, ,)
+      (S
+        (NP
+          (NP
+            (FRAG
+              (INTJ (UH uh))
+              (, ,)
+              (NP (DT both))))
+          (PP (IN of)
+            (S
+              (NP (PRP them))
+              (VP
+                (VP (VBG coming)
+                  (PP (IN into)
+                    (NP
+                      (NP (DT the) (NN house))
+                      (, ,)
+                      (NP (NN um)))))
+                (, ,)
+                (VP (VBG pulling)
+                  (NP
+                    (NP (DT the) (NNS guns))
+                    (PP (RB out) (IN of)
+                      (NP (PRP$ their) (NN waistband)))))
+                (, ,)
+                (CC and)
+                (VP (VBG telling)
+                  (NP
+                    (NP (DT all))
+                    (PP (IN of)
+                      (NP (PRP us)))))))))
+        (VP (TO to)
+          (VP (VB get)
+            (PP (IN on)
+              (NP (NNP Effing) (NN floor)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP Uh))
+      (, ,)
+      (NP (RB Just) (CD two))
+      (: :)
+      (NP (NNP Nolan) (NNP and)))))
+

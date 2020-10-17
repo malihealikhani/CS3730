@@ -1,0 +1,13 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    _!... <s>!_
+    (Topic-Comment[N][N]
+      (Elaboration[N][S]
+        _!Do I believe the evidence!_
+        _!that supports domestic violence ? <s>!_)
+      _!Yes . <s>!_))
+  (Elaboration[N][S]
+    (Attribution[S][N]
+      _!I I think!_
+      _!bias is an incorrect word , Mr. Martinez . <s>!_)
+    (Attribution[S][N] _!I do n't believe!_ _!I 'm biased . <P>!_)))

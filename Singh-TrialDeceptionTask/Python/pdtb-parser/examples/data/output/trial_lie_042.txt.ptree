@@ -1,0 +1,77 @@
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD found)
+      (NP (DT the) (NN man) (NN uh))
+      (PP (IN in)
+        (NP (DT the) (JJ secure) (NN area)))
+      (PP (IN with)
+        (NP
+          (NP (PRP$ his) (JJ luggage) (NN cart))
+          (CC and)
+          (NP
+            (NP (NNS chairs))
+            (VP (VBN set)
+              (PP (IN around)
+                (NP (PRP him))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Uh))
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBD tried)
+            (S
+              (VP (TO to)
+                (VP (VB do)
+                  (NP (DT the) (JJ same) (NN thing)))))))))
+    (, ,)
+    (VP (VB communicate)
+      (PP (IN with)
+        (NP (PRP him))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNS Chairs))
+      (VP (VBD went)
+        (S
+          (VP (VBG flying)))))
+    (, ,)
+    (NP (PRP he))
+    (VP
+      (VP (VBD grabbed)
+        (NP (DT a) (NN computer))
+        (PP (IN off)
+          (NP (DT a) (NN desk))))
+      (CC and)
+      (VP (VBD threw)
+        (WHNP (WDT that))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Um)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (ADVP (RB just))
+          (VP (VBD were) (RB n't)
+            (VP (VBG getting)
+              (PP (IN through)
+                (PP (TO to)
+                  (NP
+                    (NP (DT this) (NN guy))
+                    (CC and)
+                    (NP (DT the) (NN violence)))))
+              (, ,)
+              (ADVP (RB again))
+              (, ,)
+              (S
+                (VP (VBG escalating))))))))
+    (. .)))
+

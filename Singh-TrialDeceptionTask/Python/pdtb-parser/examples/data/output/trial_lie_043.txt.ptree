@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBD did) (RB n't)
+        (VP (VB have)
+          (NP (DT an) (JJ instantaneous) (NN effect)))))
+    (CC and)
+    (S
+      (NP (NNP Mr.) (NNP Dziekanski))
+      (ADVP (RB still))
+      (VP (VBD had)
+        (NP
+          (NP (DT the) (NN stapler))
+          (PP (IN in)
+            (NP (PRP$ his) (NN hand))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (ADVP (RB uh))
+    (NP (PRP he))
+    (VP (VBD had) (RB not)
+      (VP (VBN gone)
+        (PRT (RP down))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB Just) (NN cause))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBD was)
+            (VP (VBN mistaken))))))
+    (VP (VBZ does) (RB n't)
+      (VP (VB mean)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBD was)
+              (VP (VBG lying)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD did)
+      (NP
+        (NP (DT the) (JJS best) (NN job))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (MD could)
+              (PP (IN at)
+                (NP (DT the) (NN time))))))))
+    (. .)))
+

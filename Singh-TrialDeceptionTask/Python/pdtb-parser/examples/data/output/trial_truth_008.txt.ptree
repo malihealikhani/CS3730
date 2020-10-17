@@ -1,0 +1,115 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP She))
+      (VP (VBD was)
+        (ADJP (JJ fine))
+        (, ,)
+        (S
+          (VP (VBG laughing)
+            (PP (IN about)
+              (NP
+                (NP (JJ simple) (JJ little) (NNS things))
+                (SBAR
+                  (S
+                    (NP (PRP I))
+                    (ADVP (RB never))
+                    (VP
+                      (ADVP (RB once))
+                      (VBD felt)
+                      (SBAR (IN like)
+                        (S
+                          (NP (EX there))
+                          (VP (VBD was)
+                            (ADJP (NN anything) (JJ wrong))
+                            (NP (RB about) (DT the) (NN day))))))))))))))
+    (, ,)
+    (S
+      (NP (PRP I))
+      (VP (VBD felt)
+        (PP (IN like)
+          (NP (NNP socially)))))
+    (, ,)
+    (S
+      (NP (DT the) (JJ first) (NN time))
+      (NP (PRP I))
+      (VP (VBD saw)
+        (NP (PRP her))
+        (PP (IN in)
+          (NP (DT a) (NN crowd)))))
+    (, ,)
+    (S
+      (NP (PRP I))
+      (VP (VBD thought)
+        (SBAR
+          (S
+            (NP (PRP she))
+            (VP (VBD was)
+              (ADJP (RB much) (RBR more) (JJ comfortable))
+              (NP
+                (NP (JJ one-on-one))
+                (, ,)
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBD was)
+                      (NP
+                        (NP (DT the) (JJ first) (NN time))
+                        (SBAR
+                          (S
+                            (NP (PRP I))
+                            (VP (VBD noticed)
+                              (SBAR
+                                (S
+                                  (NP (PRP she))
+                                  (VP (VBD was)
+                                    (NP
+                                      (NP (DT a) (JJ little) (NN awkward))
+                                      (PP (IN in)
+                                        (NP (JJ social) (NNS areas))))))))))))))))))))
+    (CC and)
+    (S
+      (S
+        (NP (PRP it))
+        (VP (VBD did) (RB n't)
+          (VP (VB seem)
+            (SBAR (IN like)
+              (S
+                (NP (PRP she))
+                (VP (VBD talked)
+                  (ADVP (RB very) (RB much))
+                  (PP (TO to)
+                    (NP (JJ other) (NNS people)))))))))
+      (, ,)
+      (S
+        (NP (NNS people))
+        (VP (MD would)
+          (VP (VB talk)
+            (PP (IN about)
+              (NP (DT that))))))
+      (, ,)
+      (S
+        (NP (PRP it))
+        (ADVP (RB just))
+        (VP (VBD was) (RB n't)
+          (NP
+            (NP (DT the) (NNP Jodi))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBD knew)
+                  (NP
+                    (NP (NN cause) (CD one))
+                    (PP (IN on)
+                      (NP (CD one)))
+                    (SBAR
+                      (S
+                        (NP (PRP she))
+                        (VP (VBD was)
+                          (ADJP
+                            (ADJP (RB very) (JJ talkative)
+                              (CC and)
+                              (JJ insightful))
+                            (, ,)
+                            (ADJP (RB very) (JJ different))))))))))))))))
+

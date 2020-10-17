@@ -1,0 +1,145 @@
+(ROOT
+  (S
+    (S
+      (ADVP
+        (ADVP (RB as) (RB far))
+        (PP (IN as)
+          (NP
+            (NP (NNS details))
+            (, ,)
+            (NP (DT every) (NN detail)))))
+      (, ,)
+      (SBAR
+        (NP (PRP I))
+        (RB just)
+        (S
+          (S
+            (ADVP (RB sometimes))
+            (NP (PRP I))
+            (VP (VBP have)
+              (NP
+                (NP (DT a) (JJ general) (NN sense))
+                (PP (IN of)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (VP (VBZ 's)
+                        (VP (VBG going)
+                          (PRT (RP on))))))))))
+          (, ,)
+          (CC and)
+          (S
+            (ADVP (RB sometimes))
+            (NP (PRP I))
+            (VP
+              (VP (VBP do) (RB n't))
+              (CC but)
+              (ADVP
+                (ADVP (RB as) (RB far))
+                (PP (IN as)
+                  (NP (DT the) (NN fog))))
+              (VP (VBZ goes))))))
+      (, ,)
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (NP
+          (NP
+            (NP (JJR more))
+            (PP (IN of)
+              (ADVP (RB again))))
+          (, ,)
+          (NP
+            (NP (NNS words))
+            (SBAR
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP
+                    (VP (VBP are)
+                      (VP (VBG being)
+                        (VP
+                          (VP (VBN spoken))
+                          (, ,)
+                          (CC or)
+                          (VP (VBD screamed)))))
+                    (CC or)
+                    (VP (VBD yelled)))))
+              (, ,)
+              (CC and)
+              (SBAR (IN that)
+                (S
+                  (S
+                    (SBAR
+                      (WHNP (WP what))
+                      (S
+                        (VP (VBG processing)
+                          (NP
+                            (NP (DT that) (NN sort))
+                            (PP (IN of)
+                              (NP
+                                (NP (NN thing))
+                                (, ,)
+                                (NP
+                                  (NP (JJ physical) (NNS things))
+                                  (SBAR
+                                    (S
+                                      (NP (PRP I))
+                                      (VP (MD can)
+                                        (VP (VB remember)
+                                          (SBAR (IN because)
+                                            (S
+                                              (NP (PRP I))
+                                              (VP (VBP feel)
+                                                (S
+                                                  (NP (PRP them))
+                                                  (ADJP (JJ physically)))))))))))))))))
+                    (, ,)
+                    (NP (PRP I))
+                    (VP (MD can)
+                      (VP (VB remember)
+                        (SBAR
+                          (WHNP (WP what))
+                          (S
+                            (NP (PRP I))
+                            (VP (VBP feel)
+                              (ADVP
+                                (ADVP (RB internally))
+                                (CC and)
+                                (RB emotionally)
+                                (ADVP (RB as) (RB well)))))))))
+                  (, ,)
+                  (CC but)
+                  (S
+                    (NP (PRP it))
+                    (VP (VBZ 's)
+                      (ADJP (JJR more))))))))
+          (NP
+            (NP (DT the) (NNS words))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP are)
+                  (VP (VBG being)
+                    (VP (VBN spoken)))))))
+          (CC and)
+          (NP (PRP$ their) (NNS meanings)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBP do)
+        (S
+          (VP (VB remember)
+            (SBAR
+              (WHADVP (WRB how))
+              (S
+                (NP (PRP I))
+                (VP (VBP feel))))))
+        (, ,)
+        (SBAR (IN if)
+          (S
+            (NP (DT that))
+            (VP (VBZ makes)
+              (NP (NN sense)))))))
+    (. .)))
+

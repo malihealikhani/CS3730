@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (CD Three) (NNS friends))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ deceased))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBD were)
+                  (VP (VBG standing)
+                    (ADVP (RB right) (JJ next))
+                    (PP (TO to)
+                      (NP (PRP him))))))))))
+      (VP
+        (VP (VBD testified))
+        (CC and)
+        (VP (VBD said))))
+    (: ...)
+    (S
+      (NP (DT this))
+      (VP (VBZ is) (RB not)
+        (NP
+          (NP (DT the) (NN guy))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBD shot)
+                (NP (PRP$ our) (JJS best) (NN friend))))))))
+    (. .)))
+

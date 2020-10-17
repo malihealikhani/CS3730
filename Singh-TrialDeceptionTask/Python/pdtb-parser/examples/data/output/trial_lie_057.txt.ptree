@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (S
+      (NP (DT That) (NN word))
+      (VP (VBZ has)
+        (NP (DT a) (NN definition))))
+    (CC and)
+    (S
+      (NP (PRP you))
+      (VP (VBP are) (RB not)
+        (VP (VBG using)
+          (NP (PRP it)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBP are) (RB not)
+      (VP (VBG using)
+        (NP (DT the) (NN definition))
+        (SBAR (IN that)
+          (S
+            (NP (PRP I))
+            (VP (VB apply)
+              (PP (IN in)
+                (NP (DT this)))
+              (: ...)
+              (PP (IN in)
+                (NP (DT this) (NN continuum))))))))
+    (. .)))
+
+(ROOT
+  (S (IN So)
+    (SBAR (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP want)
+          (S
+            (NP (PRP me))
+            (VP (TO to)
+              (VP (VB talk)
+                (PP (IN about)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (NP (NNP stalking))
+                      (VP (VBZ means)))))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD will)
+      (VP (VB talk)
+        (PP (IN about)
+          (NP (PRP it)))))
+    (. .)))
+

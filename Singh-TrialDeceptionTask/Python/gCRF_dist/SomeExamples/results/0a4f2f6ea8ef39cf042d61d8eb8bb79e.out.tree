@@ -1,0 +1,25 @@
+(Evaluation[N][S]
+  (Elaboration[N][S]
+    (Background[S][N]
+      (Condition[N][S]
+        _!I think that an example in high school ,!_
+        _!if you hear a rumor going around about somebody ,!_)
+      _!it 's better to just stay quiet about it . <s>!_)
+    (Evaluation[N][S]
+      (Elaboration[N][S]
+        _!I would add to the definition of wallflower!_
+        _!that it means to mind your own business . <s>!_)
+      (Explanation[N][S]
+        _!That 's important in high school!_
+        (Joint[N][N]
+          _!because if you start talking about other people 's business and people get mad at you!_
+          (Joint[N][N]
+            _!and then it adds drama to yourself!_
+            _!and makes it a bigger situation . <s>!_)))))
+  (Contrast[S][N]
+    _!Maybe if people are fighting ,!_
+    (Attribution[S][N]
+      _!you just watch!_
+      (Elaboration[N][S]
+        _!and try to hear people 's perspectives!_
+        _!on what 's going on . <P>!_))))

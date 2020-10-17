@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (ADVP (RB Yes))
+    (NP (PRP I))
+    (VP (VBD was)
+      (PP (IN in)
+        (NP
+          (NP (PRP$ my) (NN kitchen))
+          (VP (VBG getting)
+            (ADJP (JJ ready))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN light))
+    (VP (VBD was)
+      (PP (IN on)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD heard)
+      (SBAR
+        (S
+          (NP
+            (NP (DT a) (JJ little) (NN bloop) (NN bloop))
+            (PP (TO to)
+              (NP (DT the) (JJ back) (NN um) (NN garbage))))
+          (VP
+            (VP (MD can))
+            (CC and)
+            (ADVP (RB then))
+            (VP (VBD turned))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (NN somebody))
+    (VP (VBD was)
+      (VP (VBN ringing)
+        (NP (DT the) (NN doorbell))
+        (PP (IN with)
+          (NP (NN blood)))
+        (S
+          (VP
+            (VP (VBG dripping)
+              (PRT (RP down))
+              (PP (IN of)
+                (NP (PRP$ their) (NN head))))
+            (CC and)
+            (VP (VBG screaming)
+              (SBAR
+                (S
+                  (NP (PRP they))
+                  (VP (VBD 'd)
+                    (VP (VBN been)
+                      (VP (VBN shot)))))))))))
+    (. .)))
+

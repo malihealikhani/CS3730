@@ -1,0 +1,76 @@
+(ROOT
+  (S
+    (INTJ (UH Yes))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD did)))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP he))
+    (VP (VBD told)
+      (S
+        (NP (PRP me))
+        (VP (TO to)
+          (VP (VB take)
+            (S
+              (NP
+                (NP (NN care))
+                (PP (IN of)
+                  (NP (PRP$ my) (NNS wounds))))
+              (ADJP (RB as) (JJ necessary)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT No) (PRP he))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (EX there))
+          (VP (VBD was)
+            (NP (JJ several) (NNS wounds))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Um))
+    (PRN
+      (S
+        (NP (PRP he))
+        (VP (VBD advised)
+          (S
+            (NP (PRP me))
+            (VP (TO to)
+              (VP (VB take)
+                (NP
+                  (NP (NNP Tylenol))
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP (PRP I))
+                      (VP (VBP get)
+                        (SBAR
+                          (S
+                            (NP (DT the) (NN gel)
+                              (CC and)
+                              (NN um))
+                            (VP (VBD asked)
+                              (NP (PRP him))
+                              (PP (IN for)
+                                (NP (NN something)))
+                              (S
+                                (VP (TO to)
+                                  (VP (VB put)
+                                    (PRT (RP on)))))))))))))))))
+      (, ,))
+    (VP (VBD put)
+      (PP (IN on)
+        (NP (PRP$ my) (NN face))))
+    (. .)))
+

@@ -1,0 +1,11 @@
+(textual-organization[N][N]
+  _!A . She felt very safe there . <s>!_
+  (Joint[N][N]
+    (Attribution[S][N]
+      _!B. Angela , the great aunt felt very committed to her well being , um and C .!_
+      _!She needs stability permanency and safety in order to be able to heal and recover!_)
+    (Elaboration[N][S]
+      _!and it was clear just in the time!_
+      (Elaboration[N][S]
+        _!that Gabby had spent at Angela 's!_
+        _!that she was receiving that at her aunt and her uncle . <P>!_))))

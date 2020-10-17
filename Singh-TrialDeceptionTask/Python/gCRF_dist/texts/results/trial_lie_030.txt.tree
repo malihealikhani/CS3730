@@ -1,0 +1,23 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      _!In a sense!_
+      _!that is correct , I remember that . <s>!_)
+    (Contrast[S][N]
+      (Joint[N][N]
+        _!Dropping the knife ,!_
+        (Joint[N][N]
+          _!screaming!_
+          _!and that memory came much later , Um ,!_))
+      _!but it goes blank after that . <s>!_))
+  (Explanation[N][S]
+    (Contrast[N][N]
+      (Attribution[N][S]
+        _!I do n't remember putting the gun in the car ,!_
+        _!I do n't remember putting the rope in the car ,!_)
+      (Elaboration[N][S]
+        _!but I have , not crystal clear , but pretty , pretty solid memories!_
+        _!of disposing of those . <s>!_))
+    (Contrast[S][N]
+      _!So they did go in the car obviously ,!_
+      _!but I do n't remember placing them in the car . <P>!_)))

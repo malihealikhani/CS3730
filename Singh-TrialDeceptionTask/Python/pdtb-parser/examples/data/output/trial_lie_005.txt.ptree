@@ -1,0 +1,245 @@
+(ROOT
+  (S
+    (S (CC And)
+      (NP (PRP he))
+      (VP (VBD told)
+        (NP (PRP me))
+        (SBAR (IN that) (, ,)
+          (S
+            (NP (NN ammm))
+            (: ...)
+            (NP (PRP he))
+            (VP (VBD was)
+              (VP (VBG trying)
+                (S
+                  (VP (TO to)
+                    (VP
+                      (VP (VB figure)
+                        (NP (DT some) (NN stuff))
+                        (PRT (RP out)))
+                      (, ,)
+                      (CC and)
+                      (VP (VB ammm)))))))))))
+    (: ...)
+    (S
+      (NP (PRP I))
+      (VP (VBD asked)
+        (S
+          (NP (PRP him))
+          (PP (IN Like)
+            (NP (WP what))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (S (CC and)
+      (NP (PRP he))
+      (VP (MD will)))
+    (: ...)
+    (S
+      (NP (PRP I))
+      (VP (VBP mean)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (MD will)
+              (ADVP (RB never))
+              (VP (VB forget)
+                (NP (PRP it))))))))
+    (, ,)
+    (S
+      (S
+        (NP (PRP he))
+        (VP (VBD was)
+          (VP (VBG smoking)
+            (NP (DT a) (NN cigarette)))))
+      (, ,)
+      (CC and)
+      (S
+        (S
+          (NP (PRP he))
+          (VP (VBD was)
+            (PP (IN like)
+              (ADJP (RB really) (JJ calm)))))
+        (, ,)
+        (CC and)
+        (S
+          (NP (PRP he))
+          (VP (VBD looked)
+            (PP (IN at)
+              (NP (PRP me)))))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBD said)
+        (SBAR
+          (SBARQ
+            (WHNP (WP What))
+            (SQ (MD would)
+              (NP (PRP you))
+              (VP (VB say)
+                (SBAR (IN if)
+                  (S
+                    (NP (PRP I))
+                    (VP (VBD said))
+                    (: ...)
+                    (SBAR (IN if)
+                      (S
+                        (NP (PRP I))
+                        (VP (VBD told)
+                          (NP (PRP you))
+                          (SBAR
+                            (S
+                              (NP (NNP Laura))
+                              (VP (VBD was)
+                                (ADJP (JJ dead))))))))))))
+            (. ?)))))))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP I))
+    (VP (VBD was)
+      (SBAR (IN like)
+        (PRN (, ,)
+          (S
+            (NP (PRP you))
+            (VP (VBP know)))
+          (, ,))
+        (S
+          (NP (PRP I))
+          (VP (VBD was)
+            (PP (IN like)
+              (WHNP (WDT What)))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (S
+      (NP (CC And))
+      (: ...)
+      (ADVP (RB basically))
+      (NP (PRP he))
+      (VP (VBD told)
+        (NP (PRP me))
+        (SBAR (IN that) (, ,)
+          (S
+            (NP (NN ammm))
+            (: ...)
+            (SBAR
+              (SBAR
+                (NP (DT the) (NN night))
+                (IN that)
+                (S
+                  (NP (NNP Laura))
+                  (VP (VBD had)
+                    (VP (VBN come)
+                      (PRT (RP over))
+                      (PP (TO to)
+                        (NP (DT the) (NN house)))
+                      (, ,)
+                      (SBAR (IN that)
+                        (S
+                          (NP (PRP she))
+                          (VP (VBD had)
+                            (VP (VBN died)))))))))
+              (, ,)
+              (CC and)
+              (SBAR (IN that)
+                (S
+                  (SBAR
+                    (WHADVP (WRB whenever))
+                    (S
+                      (NP (PRP I))
+                      (VP (VBD left)
+                        (SBAR (IN that)
+                          (S
+                            (S
+                              (NP (PRP he))
+                              (ADJP
+                                (ADJP (RB just) (JJ panicked))
+                                (CC and)
+                                (ADJP (VBN freaked)
+                                  (PRT (RP out)))))
+                            (, ,)
+                            (CC and)
+                            (S
+                              (NP (PRP I))
+                              (VP (VBD got)))
+                            (: ...)
+                            (S
+                              (S
+                                (NP (PRP I))
+                                (VP (VBD started)
+                                  (S
+                                    (VP (VBG freaking)
+                                      (PRT (RP out))))))
+                              (, ,)
+                              (CC and)
+                              (S
+                                (NP (PRP I))
+                                (VP (VBD was)
+                                  (VP (VBG asking)
+                                    (NP (PRP him))
+                                    (SBAR
+                                      (WHADVP (WRB why))
+                                      (S
+                                        (NP (PRP he))
+                                        (VP (VBD did) (RB n't)
+                                          (VP (VB call)
+                                            (NP (DT the) (NNS cops)))))))))))))))
+                  (NP (JJ -LSB-) (NNS stutters))
+                  (VP (VBZ -RSB-)))))
+            (: ...)
+            (VP (VBP call)
+              (PP (IN for)
+                (NP (NN help)))
+              (SBAR (IN like)
+                (S
+                  (NP (PRP he))
+                  (VP (VBD told)
+                    (NP (PRP me))
+                    (SBAR
+                      (S
+                        (NP (PRP he))
+                        (VP (VBD was)
+                          (VP (VBG going)
+                            (PP (TO to))))))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBD told)
+        (S
+          (NP (PRP me))
+          (NP
+            (NP (DT that))
+            (, ,)
+            (NP (NN ammm))))))
+    (: ...)
+    (S
+      (NP (PRP he))
+      (VP (VBD got)
+        (ADJP (JJ scared))
+        (SBAR (IN that)
+          (S
+            (NP (PRP he))
+            (VP (VBD was)
+              (NP
+                (NP (DT a) (JJ black) (NN man))
+                (PP (IN with)
+                  (NP (DT a) (JJ dead) (JJ white) (NN woman)))))))))
+    (CC and)
+    (S
+      (NP (NN nobody))
+      (VP (VBD was)
+        (VP (VBG gon)
+          (S
+            (VP (TO na)
+              (VP (VB believe)
+                (NP (PRP him))
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP it))
+                    (VP (VBD was)
+                      (NP (DT an) (NN accident)))))))))))))
+

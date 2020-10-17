@@ -1,0 +1,29 @@
+(Elaboration[N][S]
+  _!They really did n't tell me anything . <s>!_
+  (Elaboration[N][S]
+    (Attribution[S][N]
+      _!They said!_
+      _!there had been an accident . <s>!_)
+    (Elaboration[N][S]
+      (Attribution[S][N]
+        _!They said!_
+        (Contrast[S][N]
+          (same-unit[N][N]
+            (Elaboration[N][S] _!there had been an accident!_ _!--!_)
+            _!that Ian was fine ,!_)
+          _!but there had been an accident . <s>!_))
+      (Joint[N][N]
+        _!They did n't really tell me . <s>!_
+        (Joint[N][N]
+          (same-unit[N][N]
+            (Elaboration[N][S]
+              _!And then I screamed into the phone!_
+              _!asking what was going on ,!_)
+            _!and I ... <s>!_)
+          (Joint[N][N]
+            (Attribution[S][N]
+              _!They just said!_
+              _!you need to come here ,!_)
+            (Joint[N][N]
+              _!so I dropped the phone!_
+              _!and ran out of my office . <P>!_)))))))

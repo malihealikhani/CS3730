@@ -1,0 +1,100 @@
+(ROOT
+  (S
+    (VP (VB Woke)
+      (PRT (RP up))
+      (PP (TO to)
+        (NP
+          (NP (DT a) (NN lot))
+          (PP (IN of)
+            (NP
+              (NP (NN pain)
+                (CC and)
+                (NN lot))
+              (PP (IN of)
+                (NP
+                  (NP (NN pressure)
+                    (CC and)
+                    (NN sound))
+                  (PP (IN of)
+                    (NP (NN somebody) (NNS moaning))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP
+      (ADVP (RB quickly)))
+    (VP (VBD realized)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (ADJP (JJ Bo))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (ADVP (RB then))
+    (NP (PRP I))
+    (VP
+      (VP
+        (ADVP (RB just))
+        (VBD shut)
+        (NP (PRP$ my) (NNS eyes)))
+      (CC and)
+      (VP (VBD laid)
+        (ADVP (RB there))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (DT that))
+    (VP (VBD was)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP do) (RB n't)
+            (ADVP (RB even))
+            (VP (VB think)
+              (NP (DT a) (NN decision))
+              (SBAR (IN that)
+                (S
+                  (NP (PRP I))
+                  (ADVP (RB consciously))
+                  (VP (VBD made)))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP I))
+    (VP (VBD waited)
+      (SBAR (IN until)
+        (S
+          (NP (PRP he))
+          (VP (VBD was)
+            (VP (VBN done))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (CC And))
+    (: ...)
+    (S
+      (S
+        (NP (PRP he))
+        (VP (VBD got)
+          (PRT (RP up))))
+      (CC and)
+      (S
+        (NP (PRP he))
+        (ADVP (RB literally))
+        (VP
+          (VP (VBD picked)
+            (PRT (RP up))
+            (NP (DT a) (NN blanket)))
+          (CC and)
+          (VP (VBD threw)
+            (NP (PRP it))
+            (PP (IN on)
+              (NP (PRP me)))))))
+    (. .)))
+

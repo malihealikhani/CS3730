@@ -1,0 +1,5 @@
+***** Parsing ../texts/wsj_0607.out...
+Finished preprocessing in 1.48 seconds.
+Finished segmentation in 0.72 seconds. Segmented into 15 EDUs.
+Finished tree building in 0.64 seconds.
+===================================================

@@ -1,0 +1,21 @@
+(Elaboration[N][S]
+  _!It was wonderful . <s>!_
+  (Elaboration[N][S]
+    (Condition[S][N] _!I ,!_ _!I mean , I came from Ukraine . <s>!_)
+    (Elaboration[N][S]
+      (Background[N][S]
+        _!I always dreamed of a family like the Belcanies!_
+        _!when I was first adopted . <s>!_)
+      (Elaboration[N][S]
+        (Explanation[N][S]
+          _!My mom was just wonderful . <s>!_
+          (Elaboration[N][S]
+            _!It was exactly what I dreamed of . <s>!_
+            (Contrast[N][S]
+              _!Just perfect . <s>!_
+              _!I took ballet . <s>!_)))
+        (Joint[N][N]
+          _!I went to school . <s>!_
+          (Joint[N][N]
+            _!I had a wonderful family . <s>!_
+            _!It was perfect . <P>!_))))))

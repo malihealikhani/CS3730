@@ -1,0 +1,13 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    _!That word has a definition!_
+    _!and you are not using it . <s>!_)
+  (Explanation[N][S]
+    (Elaboration[N][S]
+      _!You are not using the definition!_
+      _!that I apply in this ... in this continuum . <s>!_)
+    (Attribution[N][S]
+      (Condition[N][S]
+        _!So!_
+        _!if you want me to talk about what stalking means ,!_)
+      _!I will talk about it . <P>!_)))

@@ -1,0 +1,124 @@
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD were)
+      (NP
+        (NP (JJ good) (NN um))
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (VBD treated)
+              (NP (PRP me))
+              (PP (IN with)
+                (NP (NN respect)))
+              (SBAR
+                (SBAR
+                  (S
+                    (NP (PRP he))
+                    (VP (VBD loved)
+                      (SBAR
+                        (S
+                          (NP (PRP me))
+                          (VP (VBP um)
+                            (SBAR
+                              (S
+                                (NP (PRP he))
+                                (VP (MD would)
+                                  (VP (VB like)
+                                    (S
+                                      (NP (PRP I))
+                                      (VP
+                                        (VP (VB have)
+                                          (NP
+                                            (NP (JJ degenerative) (NN disc) (NN disease))
+                                            (PP (IN in)
+                                              (NP (PRP$ my) (NN neck))))
+                                          (SBAR (IN so)
+                                            (S
+                                              (NP (PRP he))
+                                              (VP (MD would)
+                                                (VP (VB bring)
+                                                  (NP
+                                                    (NP (DT a) (NN pillow))
+                                                    (PP (IN in)
+                                                      (NP (DT the) (NN bathroom)))))))))
+                                        (CC and)
+                                        (VP (VB put)
+                                          (NP (PRP it))
+                                          (PP (IN behind)
+                                            (NP (PRP$ my) (NN head))))))))))))))))
+                (CC so)
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP$ my) (NN neck))
+                    (VP (MD would) (RB n't)
+                      (VP (VB hurt)))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Um))
+    (: ...)
+    (S
+      (NP (PRP he))
+      (VP (VBP um)
+        (S (: ...)
+          (S
+            (NP (PRP he))
+            (VP (MD would)
+              (ADVP (RB always))
+              (VP (VB ask)
+                (NP (PRP me)))))
+          (S
+            (SBAR
+              (WHADVP (WRB how))
+              (S
+                (NP (PRP I))
+                (VP (VBD was)
+                  (VP (VBG doing)
+                    (S
+                      (NP (PRP you))
+                      (VP (VB know)
+                        (ADVP (RB always))))))))
+            (VP (VBP want)
+              (S
+                (VP (TO to)
+                  (VP (VB talk)
+                    (PP (TO to)
+                      (NP (PRP me))))))))
+          (S
+            (NP (PRP he))
+            (ADVP (RB always))
+            (VP (VBD called)
+              (SBAR
+                (S
+                  (NP (PRP me))
+                  (VP
+                    (VP (VBZ \)
+                      (NP (NN baby) (NNS \)))
+                    ('' '')
+                    (CC and)
+                    (VP (VBD said)
+                      (SBAR
+                        (S
+                          (NP (PRP he))
+                          (VP (VBD loved)
+                            (NP (PRP me))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD used)
+      (S
+        (VP (TO to)
+          (VP (VB tell)
+            (NP (PRP me))
+            (SBAR
+              (S
+                (NP (PRP he))
+                (VP (VBD loved)
+                  (NP (PRP me))
+                  (NP (PDT all) (DT the) (NN time)))))))))
+    (. .) ('' '')))
+

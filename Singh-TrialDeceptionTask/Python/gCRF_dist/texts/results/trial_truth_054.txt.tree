@@ -1,0 +1,21 @@
+(Elaboration[N][S]
+  (Evaluation[N][S]
+    (Attribution[S][N]
+      _!Psychologists once explained to me!_
+      (Elaboration[N][S]
+        _!that society had this need!_
+        _!to umm persecute people . <s>!_))
+    (Explanation[N][S]
+      (Contrast[S][N]
+        _!They get some sort of gratification from it ,!_
+        (Elaboration[N][S]
+          _!so there might be something!_
+          _!going on there . <s>!_))
+      (Elaboration[N][S]
+        (Attribution[N][S]
+          _!Umm beside that I ,!_
+          _!I do n't really --!_)
+        (Attribution[S][N]
+          _!it 's so convoluted!_
+          _!that we could talk for hours on that . <s>!_))))
+  _!But umm it just is what it is . <P>!_)

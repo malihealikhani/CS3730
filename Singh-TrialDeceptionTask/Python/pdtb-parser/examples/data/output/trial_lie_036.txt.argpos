@@ -1,0 +1,2 @@
+conn:and conn_POS:CC prev1:Uncle prev1_POS:NNP with_prev1_full:Uncle_and with_prev1_POS_full:NNP_CC prev2:loving prev2_POS:VBG with_prev2_full:loving_and with_prev2_POS_full:VBG_CC NA
+conn:and conn_POS:CC prev1:situation prev1_POS:NN with_prev1_full:situation_and with_prev1_POS_full:NN_CC prev2:the prev2_POS:DT with_prev2_full:the_and with_prev2_POS_full:DT_CC NA

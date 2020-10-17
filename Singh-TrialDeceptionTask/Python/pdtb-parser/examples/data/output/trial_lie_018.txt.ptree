@@ -1,0 +1,140 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP$ My) (NN attempt)
+        (S
+          (VP (TO to)
+            (VP (VB talk)
+              (PP (TO to)
+                (NP (PRP them)))))))
+      (VP (VBD was)
+        (S
+          (VP
+            (VP (TO to)
+              (VP (VB present)
+                (NP
+                  (NP (DT a) (JJR better) (NN image))
+                  (PP (IN of)
+                    (NP (PRP$ our) (NN relationship))))))
+            (, ,)
+            (CC and)
+            (VP (TO to)
+              (VP (VB downplay)
+                (NP
+                  (NP (DT the) (JJ negative) (NNS aspects))
+                  (PP (IN of)
+                    (NP (PRP it))))
+                (, ,)
+                (PP (IN like)
+                  (S
+                    (VP (VBG \)
+                      (SBAR
+                        (S
+                          (NP (PRP it))
+                          (VP (VBZ 's) (RB not)
+                            (ADVP (RB really))
+                            (ADJP
+                              (NP (DT a) (JJ big) (NN deal))
+                              (JJ \))
+                            ('' '')
+                            (S
+                              (VP (VBG \)
+                                (S (`` ``)
+                                  (INTJ (UH oh))
+                                  (, ,)
+                                  (NP (PRP it))
+                                  (VP (VBD was) (RB n't)
+                                    (NP (DT that) (JJ bad) (NN \)))
+                                  ('' ''))
+                                (SBAR
+                                  (SBAR (IN that)
+                                    (S
+                                      (S
+                                        (S
+                                          (NP (NN kinda) (NN thing))
+                                          (, ,)
+                                          (PP (IN like)
+                                            (S
+                                              (VP (VBG \)
+                                                (S (`` ``)
+                                                  (INTJ (UH oh))
+                                                  (, ,)
+                                                  (ADVP (RB yeah))
+                                                  (, ,)
+                                                  (NP (PRP I))
+                                                  (VP (VBD knew)
+                                                    (SBAR
+                                                      (SBAR (IN that)
+                                                        (S
+                                                          (NP (PRP he))
+                                                          (VP (VBD did)
+                                                            (NP (DT that)))))
+                                                      (, ,)
+                                                      (CC but)
+                                                      (SBAR
+                                                        (WHNP (WDT that))
+                                                        (S
+                                                          (VP (VBD was) (RB n't)
+                                                            (NP
+                                                              (NP (DT a) (JJ big) (NN deal) (NN \) ('' '') (NN um))
+                                                              (, ,) (RB even)
+                                                              (NP (PRP$ our) (NNS arguments)))
+                                                            (, ,)
+                                                            (S
+                                                              (INTJ (UH oh))
+                                                              (, ,)
+                                                              (ADVP (RB sure))
+                                                              (NP (PRP it))
+                                                              (VP (VBD was)
+                                                                (ADJP (JJ rocky)))))))))))))
+                                          (, ,)
+                                          (NP (EX there))
+                                          (VP (VBD was)
+                                            (NP (NN turmoil))))
+                                        (, ,)
+                                        (CC but)
+                                        (S
+                                          (NP (PRP we))
+                                          (VP (VBD were)
+                                            (NP (NNS friends)))))
+                                      (, ,) (IN so)
+                                      (S
+                                        (NP (PRP$ my) (NN attempt))
+                                        (VP (VBD was)
+                                          (ADJP (RBR more)
+                                            (S
+                                              (VP (TO to)
+                                                (VP (VB present)
+                                                  (NP
+                                                    (NP
+                                                      (NP (DT a) (JJ good) (NN image))
+                                                      (PP (IN of)
+                                                        (NP (NNP Travis))))
+                                                    (, ,)
+                                                    (CC and)
+                                                    (NP
+                                                      (NP (DT a) (JJ good) (NN image))
+                                                      (PP (IN of)
+                                                        (NP (PRP myself)))))))))))))
+                                  (CC and)
+                                  (SBAR (IN that)
+                                    (S
+                                      (NP (PRP$ our) (NN relationship))
+                                      (VP (VBD had)
+                                        (NP
+                                          (NP
+                                            (NP (PRP it) (POS 's))
+                                            (NNS ups))
+                                          (CC and)
+                                          (NP (NNS downs)))))))))))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP we))
+      (VP (VBD were)
+        (ADJP (RB still) (JJ um))
+        (, ,)
+        (PP (IN on)
+          (NP (JJ good) (NNS terms)))))
+    (. .) ('' '')))
+

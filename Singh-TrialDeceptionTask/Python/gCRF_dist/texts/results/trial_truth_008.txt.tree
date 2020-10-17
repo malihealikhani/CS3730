@@ -1,0 +1,29 @@
+(same-unit[N][N]
+  (Attribution[N][S]
+    (same-unit[N][N]
+      (Attribution[N][S]
+        (Elaboration[N][S]
+          _!She was fine ,!_
+          (same-unit[N][N]
+            (Elaboration[N][S]
+              _!laughing about simple little things!_
+              _!I never once felt!_)
+            _!like there was anything wrong about the day ,!_))
+        _!I felt like socially ,!_)
+      _!the first time I saw her in a crowd ,!_)
+    _!I thought!_)
+  (Elaboration[N][S]
+    _!she was much more comfortable one-on-one ,!_
+    (same-unit[N][N]
+      (Elaboration[N][S] _!that was the first time!_ _!I noticed!_)
+      (Elaboration[N][S]
+        _!she was a little awkward in social areas!_
+        (Background[S][N]
+          _!and it did n't seem like she talked very much to other people ,!_
+          (Joint[N][N]
+            _!people would talk about that ,!_
+            (Elaboration[N][S]
+              _!it just was n't the Jodi!_
+              (Elaboration[N][S]
+                _!I knew cause one on one!_
+                _!she was very talkative and insightful , very different <P>!_))))))))

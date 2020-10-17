@@ -1,0 +1,39 @@
+(Explanation[N][S]
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      (Attribution[S][N]
+        _!I want to say ,!_
+        (Elaboration[N][S]
+          _!the prosecutor , I ca n't see her face!_
+          (Attribution[S][N] _!but I wish!_ _!I could . <s>!_)))
+      _!You disgust me . <s>!_)
+    _!The Dorsey family disgusts me . <s>!_)
+  (Elaboration[N][S]
+    (Attribution[S][N]
+      _!Because how dare you say!_
+      _!that happened to my son . <s>!_)
+    (Elaboration[N][S]
+      _!You were n't there . <s>!_
+      (Elaboration[N][S]
+        _!Ya 'll was never there . <s>!_
+        (Elaboration[N][S]
+          _!You were the absentee people ... always . <s>!_
+          (Elaboration[N][S]
+            (Contrast[S][N]
+              (Background[S][N]
+                _!So the Dorsey family , down to the mother ,!_
+                (same-unit[N][N]
+                  (Elaboration[N][S]
+                    _!the father , to everybody -!_
+                    (Attribution[S][N]
+                      _!I hope!_
+                      _!ya 'll live your lives well but Imma saying to my child , Gabrielle Blair ,!_))
+                  _!you lived well but Imma saying to 'em throughout their whole life . <s>!_))
+              _!So live well now . <s>!_)
+            (Elaboration[N][S]
+              (Enablement[N][S]
+                _!You got not nothing else!_
+                (Attribution[S][N]
+                  _!to say to me!_
+                  _!for I did for my child . <s>!_))
+              _!Period . <P>!_)))))))

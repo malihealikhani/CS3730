@@ -1,0 +1,74 @@
+(ROOT
+  (NP (NN A) (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBD felt)
+      (ADJP (RB very) (JJ safe))
+      (ADVP (RB there)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP B.) (NNP Angela))
+      (, ,)
+      (NP (DT the) (JJ great) (NN aunt)))
+    (VP (VBD felt)
+      (ADJP (RB very) (JJ committed))
+      (PP (TO to)
+        (NP (PRP$ her)
+          (ADJP (RB well) (VBG being))
+          (, ,) (NN um)
+          (CC and)
+          (NN C))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP She))
+      (VP (VBZ needs)
+        (S
+          (NP
+            (NP (NN stability) (NN permanency)
+              (CC and)
+              (NN safety))
+            (PP (IN in)
+              (NP (NN order))))
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (JJ able)
+                (S
+                  (VP (TO to)
+                    (VP (VB heal)
+                      (CC and)
+                      (VB recover))))))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (JJ clear)
+          (PP (RB just) (IN in)
+            (NP (DT the) (NN time))))
+        (SBAR (IN that)
+          (S
+            (NP (NNP Gabby))
+            (VP (VBD had)
+              (VP (VBN spent)
+                (PP (IN at)
+                  (NP (NNP Angela) (POS 's)))
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP she))
+                    (VP (VBD was)
+                      (VP (VBG receiving)
+                        (NP (DT that))
+                        (PP (IN at)
+                          (NP
+                            (NP (PRP$ her) (NN aunt))
+                            (CC and)
+                            (NP (PRP$ her) (NN uncle))))))))))))))
+    (. .)))
+

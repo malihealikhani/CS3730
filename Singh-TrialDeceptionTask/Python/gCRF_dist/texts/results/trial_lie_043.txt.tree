@@ -1,0 +1,13 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Joint[N][N]
+      _!It did n't have an instantaneous effect!_
+      _!and Mr. Dziekanski still had the stapler in his hand . <s>!_)
+    (Elaboration[N][S]
+      _!And uh he had not gone down . <s>!_
+      (same-unit[N][N]
+        (Elaboration[N][S] _!Just cause!_ _!I was mistaken!_)
+        _!does n't mean I was lying . <s>!_)))
+  (Elaboration[N][S]
+    _!I did the best job!_
+    _!I could at the time . <P>!_))

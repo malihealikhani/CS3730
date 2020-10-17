@@ -1,0 +1,17 @@
+(Elaboration[N][S]
+  (same-unit[N][N]
+    (Elaboration[N][S] _!Um!_ _!whenever I was little , um!_)
+    (Explanation[N][S]
+      _!my oldest nephew is um two years younger!_
+      (Attribution[S][N]
+        _!than I am!_
+        _!so he and I were always very close . <s>!_)))
+  (same-unit[N][N]
+    _!And!_
+    (Attribution[S][N]
+      _!so whenever I was really little i!_
+      (Elaboration[N][S]
+        _!spent a lot of time with her and!_
+        (Elaboration[N][S]
+          _!then whenever , um I was a freshman in high school!_
+          _!I went and lived with her . <P>!_)))))

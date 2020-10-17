@@ -1,0 +1,136 @@
+(ROOT
+  (S
+    (NP (NNP Um))
+    (PRN (, ,)
+      (S
+        (NP (PRP I))
+        (VP
+          (VP (VBD put)
+            (PP (IN on)
+              (NP (PRP$ my) (JJ soft) (NN body) (NN armor))))
+          (CC and)
+          (VP (VBD put)
+            (PRT (RP on)))))
+      (, ,))
+    (VP (VBP um) (, ,)
+      (PP (IN in)
+        (NP (DT the) (NN Repeat)))
+      (NP
+        (NP (NNP Offender) (NNP Project))
+        (SBAR
+          (S
+            (NP (PRP we))
+            (VP (VBD had)
+              (NP
+                (NP (JJ hard) (NN body) (NN armor))
+                (PRN (, ,)
+                  (FRAG
+                    (INTJ (UH uh))
+                    (, ,)
+                    (PP (IN for)))
+                  (, ,))
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (VBD was)
+                      (ADJP (JJ good)
+                        (PP (IN for)
+                          (NP (NN rifle) (NNS rounds)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB So))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD was)
+      (VP (VBN augmented)
+        (NP (NN body) (NN armor))))
+    (. .)))
+
+(ROOT
+  (S (IN So)
+    (NP (PRP I))
+    (VP (VBD put)
+      (NP (DT that))
+      (PP (IN on)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Um))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD changed)
+      (NP (PRP$ my) (NNS glasses))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP (VBD noticed)
+            (NP
+              (NP (DT the) (NN time))
+              (PP (IN of)
+                (NP (NN day))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB So))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD changed)
+      (NP
+        (NP (DT the) (NNS glasses))
+        (PP (IN from)
+          (PRN (, ,)
+            (ADVP (RB um))
+            (, ,))
+          (NP (PRP$ my) (NNS sunglasses))))
+      (PP (TO to)
+        (PRN (, ,)
+          (INTJ (UH uh))
+          (, ,))
+        (NP (JJ clear) (NNS lenses)))
+      (, ,)
+      (S
+        (VP (TO to)
+          (VP (VB have)
+            (NP (NN eye) (NN protection))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Uh))
+      (, ,)
+      (VP
+        (VP (VBN got)
+          (NP (PRP$ my) (NN department) (NN rifle)))
+        (, ,)
+        (VP (VBN insured)
+          (SBAR (IN that)
+            (S
+              (NP (PRP I))
+              (VP (VBD had)
+                (NP
+                  (NP (PRP$ my) (NN department) (NN rifle))
+                  (CC and)
+                  (NP (PRP$ my) (NN taser) (NN shotgun)))))))
+        (, ,)
+        (CC and)
+        (, ,)
+        (VP (VBN um)))
+      (, ,))
+    (VP (VBD made)
+      (ADJP (JJ sure)
+        (SBAR
+          (S
+            (NP (PRP$ my) (NN body) (NN armor))
+            (VP (VBD had)
+              (NP
+                (NP (DT the) (VBG recording) (NNS devices))
+                (PP (IN on)
+                  (NP (PRP it)))))))))
+    (. .)))
+

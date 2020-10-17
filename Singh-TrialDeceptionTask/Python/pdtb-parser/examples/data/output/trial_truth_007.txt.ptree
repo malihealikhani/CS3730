@@ -1,0 +1,215 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (NP (DT no) (NN idea)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT A) (NN police) (NN officer) (NN I))
+    (VP (VBP presume))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD 'd)
+      (VP (VB have)
+        (S
+          (VP (TO to)
+            (VP (VB ask)
+              (NP
+                (NP (PRP$ my) (NN mother))
+                (CC or)
+                (NP (PRP$ my) (NN brother))))))))
+    (. .)))
+
+(ROOT
+  (INTJ (UH Nope) (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBD did) (RB n't)
+            (VP (VB know)
+              (SBAR
+                (WHADVP (WRB where))
+                (S
+                  (NP (PRP he))
+                  (VP (VBD was)
+                    (VP (VBG being)
+                      (VP (VBN taken)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Yep))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (S
+          (VP (VB Went)
+            (PP (TO to)
+              (NP (DT the) (NN house)))))
+        (, ,)
+        (NP (PRP I))
+        (VP (VBD was)
+          (PP (IN in)
+            (NP
+              (NP (DT a)
+                (ADJP (RB fairly) (JJ catatonic))
+                (NN state))
+              (, ,)
+              (NP (PRP$ my) (NN dad))
+              (CC and)
+              (NP
+                (NP (PRP$ my) (NN brother))
+                (VP (VBN started)
+                  (S
+                    (VP (VBG making)
+                      (NP (NN phone) (NNS calls))
+                      (PP (TO to)
+                        (NP (PDT all) (DT the) (JJ local) (NNS hospitals)))))))))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (PRP they))
+        (ADVP (RB eventually))
+        (VP (VBD got)
+          (NP (DT a) (NN hold))
+          (PP (IN of)))))
+    (: ...)
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB know)
+          (PRN (, ,)
+            (SBAR
+              (WHNP (WDT whatever))
+              (S
+                (NP (DT the) (NN hospital))
+                (VP (VBZ is))))
+            (, ,))
+          (NP (NNP Atlanta) (NNP Medical) (NNP Center)))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP they))
+    (VP (MD would) (RB n't)
+      (VP (VB tell)
+        (NP (PRP$ my) (NN dad) (NN anything))
+        (ADVP (CC but))
+        (SBAR (IN that)
+          (S
+            (NP (PRP he))
+            (VP (VBD was)
+              (VP (VBG being)
+                (VP (VBN taken)
+                  (ADVP (RB there)))))))))
+    (. .)))
+
+(ROOT
+  (S (CC So)
+    (S
+      (NP (PRP we))
+      (VP (VBD got)
+        (PP (IN in)
+          (NP (DT the) (NN car)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP (VBD left)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ 's)
+      (ADJP (JJ correct)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (INTJ (UH Yes))
+      (, ,)
+      (S
+        (NP (PRP he))
+        (VP (VBD was)))
+      (CC and)
+      (S
+        (NP (PRP I))
+        (VP (VBD had))))
+    (, ,)
+    (NP
+      (NP (PRP I))
+      (PRN (: --)
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD was)
+              (VP (VBN instructed)
+                (SBAR (IN that)
+                  (S
+                    (NP (DT that))
+                    (VP (VBD was)
+                      (NP (DT the) (JJS best) (NN idea)))))))))))
+    (VP (VBD was)
+      (S
+        (VP (TO to)
+          (VP (VB keep)
+            (NP (PRP him))
+            (PP (IN at)
+              (NP (DT the) (NN day) (NN care)))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP The) (, ,) (NNP uh))
+    (: ...)
+    (NP (NNP Donna))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN woman))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ runs)
+            (NP (DT the) (NN day))))))
+    (VP (VBP care))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Yep))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP
+      (VP (VBZ 's)
+        (NP (DT the) (JJS safest) (NN place))
+        (: ...)
+        (FRAG
+          (INTJ (UH uh))))
+      (SBAR (IN for)
+        (S
+          (NP (PRP him))
+          (VP (TO to)
+            (VP (VB be))))))
+    (. .)))
+

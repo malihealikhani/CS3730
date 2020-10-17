@@ -1,0 +1,84 @@
+(ROOT
+  (S
+    (S
+      (INTJ (UH Ah))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB remember)
+          (FRAG (CC but)
+            (ADVP (RB evidently))
+            (NP (PRP I))))))
+    (, ,)
+    (S
+      (NP (PRP I))
+      (PRN (: --)
+        (S
+          (NP (PRP I))
+          (VP (VBD tried)
+            (S
+              (VP (TO to)
+                (VP (VB call)
+                  (NP (NNP Hemy)))))
+            (, ,)
+            (S
+              (ADVP (RB probably))
+              (VP (TO to)
+                (VP (VB tell)
+                  (NP (PRP him))
+                  (SBAR
+                    (SBAR (IN that)
+                      (S
+                        (NP (PRP I))
+                        (VP (VBD had)
+                          (VP (VBN left)
+                            (NP (DT the) (NN office))))))
+                    (, ,)
+                    (CC and)
+                    (SBAR (IN that)
+                      (S
+                        (NP (PRP I))
+                        (VP (VBP w))))))))))
+        (: --))
+      (NP (DT that) (NN something))
+      (VP (VBD had)
+        (VP (VBN happened))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (WDT Which))
+    (VP (VBD seemed) (: --)
+      (SQ (VBD was)
+        (NP
+          (NP (DT a)
+            (ADJP (RB very) (JJ normal))
+            (NN thing))
+          (PP (IN for)
+            (NP (PRP me))))
+        (VP (TO to)
+          (VP (VB have)
+            (VP (VBN done))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Was)
+      (S
+        (VP (TO to)
+          (VP (VB tell)
+            (NP (PRP$ my) (NN boss))
+            (SBAR (IN that)
+              (S
+                (NP (PRP I))
+                (VP (VBD had)
+                  (VP (VBN left)
+                    (NP (DT the) (NN office)
+                      (CC and)
+                      (NN something))))))))))
+    (VP (VBD had)
+      (VP (VBN happened)
+        (PP (TO to)
+          (NP (PRP$ my) (NN husband)))))
+    (. .)))
+

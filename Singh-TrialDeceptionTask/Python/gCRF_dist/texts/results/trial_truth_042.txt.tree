@@ -1,0 +1,21 @@
+(Summary[N][S]
+  (same-unit[N][N]
+    _!As , from what my recollection , is I!_
+    (Joint[N][N]
+      _!saw him pull out the two knives!_
+      _!and then they go back . <s>!_))
+  (Elaboration[N][S]
+    (Background[S][N] _!I 'm ,!_ _!I 'm going down . <s>!_)
+    (Elaboration[N][S]
+      (same-unit[N][N]
+        _!And all I can see!_
+        (Elaboration[N][S]
+          _!is basically from my vantage point is his feet is just!_
+          _!turning into what appears to be possibly to the to the east . <s>!_))
+      (Enablement[N][S]
+        _!I at that point I just looking at his feet!_
+        (Joint[N][N]
+          (same-unit[N][N]
+            (Elaboration[N][S] _!so I 'm!_ _!assuming he!_)
+            _!was turning!_)
+          _!and went down to the ground . <P>!_)))))

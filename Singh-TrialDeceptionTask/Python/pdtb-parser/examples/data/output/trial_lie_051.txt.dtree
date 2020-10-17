@@ -1,0 +1,10 @@
+advmod(take-4, Why-1)
+aux(take-4, would-2)
+nsubj(take-4, she-3)
+root(ROOT-0, take-4)
+dep(take-4, a-5)
+amod(a-5, hammer-6)
+dep(take-4, hit-8)
+conj_and(a-5, hit-8)
+dobj(hit-8, him-9)
+

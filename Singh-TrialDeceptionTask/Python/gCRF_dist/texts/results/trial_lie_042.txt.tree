@@ -1,0 +1,15 @@
+(Elaboration[N][S]
+  (Explanation[N][S]
+    (Elaboration[N][S]
+      _!They found the man uh in the secure area with his luggage cart and chairs!_
+      _!set around him . <s>!_)
+    (Elaboration[N][S]
+      _!Uh they tried to do the same thing ,!_
+      _!communicate with him . <s>!_))
+  (Elaboration[N][S]
+    (Background[S][N]
+      _!Chairs went flying ,!_
+      (Joint[N][N]
+        _!he grabbed a computer off a desk!_
+        _!and threw that . <s>!_))
+    _!Um they just were n't getting through to this guy and the violence , again , escalating . <P>!_))

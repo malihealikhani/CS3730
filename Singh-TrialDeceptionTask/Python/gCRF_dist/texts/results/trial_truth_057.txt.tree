@@ -1,0 +1,23 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      _!I was born in Durango , Colorado . <s>!_
+      _!My mother was a single mother . <s>!_)
+    _!I have two older sisters , Karen Berry and Dory Gardner . <s>!_)
+  (Explanation[N][S]
+    _!I have one older brother . <s>!_
+    (Elaboration[N][S]
+      (Attribution[S][N]
+        _!I was um quite a bit younger than all of them!_
+        _!so I primarily grew up by myself . <s>!_)
+      (Elaboration[N][S]
+        (Background[N][S]
+          _!Um I lived back and forth in Texas and New Mexico!_
+          _!until I was about 6 years old . <s>!_)
+        (Elaboration[N][S]
+          _!At that point my mother married my step father . <s>!_
+          (Background[S][N]
+            _!Um I lived ,!_
+            (Background[N][S]
+              _!we lived in New Mexico!_
+              _!until I was approximately in fifth grade . <P>!_)))))))

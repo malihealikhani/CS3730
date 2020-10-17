@@ -1,0 +1,28 @@
+nsubj(used-2, He-1)
+root(ROOT-0, used-2)
+det(word-5, the-3)
+amod(word-5, f-4)
+iobj(used-2, word-5)
+amod(times-7, several-6)
+dobj(used-2, times-7)
+
+discourse(sorry-5, Okay-1)
+nsubj(sorry-5, I-3)
+cop(sorry-5, 'm-4)
+root(ROOT-0, sorry-5)
+
+root(ROOT-0, Let-1)
+nsubj(rephrase-3, me-2)
+ccomp(Let-1, rephrase-3)
+dobj(rephrase-3, that-4)
+
+nsubj(made-2, He-1)
+root(ROOT-0, made-2)
+dep(made-2, mentioned-3)
+det(word-7, the-5)
+amod(word-7, f-6)
+prep_of(mentioned-3, word-7)
+prep_towards(word-7, me-9)
+amod(times-11, several-10)
+dobj(mentioned-3, times-11)
+

@@ -1,0 +1,81 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP think)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP he))
+            (VP (VBD was)
+              (VP (VBG choking)
+                (NP (PRP me))))))))
+    (, ,)
+    (S
+      (NP (PRP$ my) (NNS hands))
+      (VP (VBD were)
+        (ADJP (JJ free))
+        (SBAR (IN because)
+          (S
+            (NP (PRP he))
+            (VP (VBD was)
+              (PP (IN over)
+                (NP (PRP$ my) (NN torso))))))))
+    (, ,)
+    (S
+      (NP (PRP$ my) (NNS arms))
+      (VP (VBD were)
+        (ADJP (JJ free))))
+    (, ,) (IN so)
+    (S
+      (NP (PRP I))
+      (VP
+        (VP (MD may)
+          (VP (VB have)))
+        (, ,)
+        (VP (VBD tried)
+          (S
+            (VP (TO to)
+              (VP (VB push)
+                (NP (PRP him))
+                (PRT (RP off))))
+            (, ,)))
+        (CC or)
+        (PRN (, ,)
+          (S
+            (NP (PRP I))
+            (VP (VBD did) (RB n't)
+              (VP (VB want)
+                (S
+                  (VP (TO to)
+                    (VP (VB injure)
+                      (NP (PRP him))))))))
+          (, ,))
+        (SBAR
+          (SBAR
+            (S
+              (NP (PRP I))
+              (ADVP (RB just))
+              (VP (VBD wanted)
+                (S
+                  (NP (PRP him))
+                  (VP (TO to)
+                    (VP (VB get)
+                      (PRT (RP off))
+                      (PP (IN of)
+                        (NP (PRP me)))))))))
+          (, ,)
+          (CC but)
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD was)
+                (ADJP (RB very) (JJ quick))))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD did) (RB n't)
+        (VP (VB last)
+          (ADVP (RB long)))))
+    (. .)))
+

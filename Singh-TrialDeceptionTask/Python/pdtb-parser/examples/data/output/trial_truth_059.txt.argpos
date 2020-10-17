@@ -1,0 +1,4 @@
+conn:and conn_POS:CC prev1:, prev1_POS:, with_prev1_full:,_and with_prev1_POS_full:,_CC prev2:years prev2_POS:NNS with_prev2_full:years_and with_prev2_POS_full:NNS_CC NA
+conn:when conn_POS:WRB prev1:divorced prev1_POS:VBD with_prev1_full:divorced_when with_prev1_POS_full:VBD_WRB prev2:we prev2_POS:PRP with_prev2_full:we_when with_prev2_POS_full:PRP_WRB NA
+conn:And conn_POS:CC sent_pos:0 NA
+conn:And conn_POS:CC sent_pos:0 NA

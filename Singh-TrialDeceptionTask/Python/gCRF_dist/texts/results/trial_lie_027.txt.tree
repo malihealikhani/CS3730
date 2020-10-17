@@ -1,0 +1,17 @@
+(Joint[N][N]
+  _!The lunging and the gun going off were sort of contemporanios ,!_
+  (Joint[N][N]
+    (Condition[N][S]
+      _!I do n't remember how close they were or!_
+      _!if it happened at exactly the same moment or one right after the other ,!_)
+    (Joint[N][N]
+      _!it all happened very fast ,!_
+      (Joint[N][N]
+        _!and it all seemed to happen all at once ,!_
+        (same-unit[N][N]
+          (same-unit[N][N]
+            (Elaboration[N][S]
+              _!and I would say as far as distance , maybe as far as Mr. Babbikey!_
+              _!( sp ? )!_)
+            (Elaboration[N][S] _!is ,!_ _!( court reporter ? )!_))
+          _!but I could n't say for sure with absolute certainty . <P>!_)))))

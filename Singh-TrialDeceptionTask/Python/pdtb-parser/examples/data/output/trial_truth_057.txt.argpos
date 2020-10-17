@@ -1,0 +1,3 @@
+conn:so conn_POS:IN prev1:them prev1_POS:PRP with_prev1_full:them_so with_prev1_POS_full:PRP_IN prev2:of prev2_POS:IN with_prev2_full:of_so with_prev2_POS_full:IN_IN NA
+conn:until conn_POS:IN prev1:Mexico prev1_POS:NNP with_prev1_full:Mexico_until with_prev1_POS_full:NNP_IN prev2:New prev2_POS:NNP with_prev2_full:New_until with_prev2_POS_full:NNP_IN NA
+conn:until conn_POS:IN prev1:Mexico prev1_POS:NNP with_prev1_full:Mexico_until with_prev1_POS_full:NNP_IN prev2:New prev2_POS:NNP with_prev2_full:New_until with_prev2_POS_full:NNP_IN NA

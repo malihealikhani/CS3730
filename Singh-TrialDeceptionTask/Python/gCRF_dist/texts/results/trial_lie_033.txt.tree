@@ -1,0 +1,67 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      (Elaboration[N][S]
+        (Cause[N][S]
+          (Explanation[N][S]
+            _!I knew it . <s>!_
+            (Elaboration[N][S]
+              _!Get them kids back there ,!_
+              _!do n't wan na look at you . <s>!_))
+          _!I got a gun up here . <s>!_)
+        (Elaboration[N][S]
+          _!Get them kids back there . <s>!_
+          (Elaboration[N][S]
+            (Contrast[S][N]
+              _!They 'll flail a little bit!_
+              _!but get them back there . <s>!_)
+            (same-unit[N][N]
+              (Elaboration[N][S]
+                _!Where the police ,!_
+                (same-unit[N][N]
+                  (Elaboration[N][S]
+                    _!come in and shot the boy!_
+                    _!where they were gone say!_)
+                  (Elaboration[N][S]
+                    _!they were ?!_
+                    (Elaboration[N][S]
+                      _!... Well!_
+                      _!I could 've ,!_))))
+              (Elaboration[N][S]
+                _!look at all those rounds!_
+                _!I had . <s>!_)))))
+      (Condition[S][N]
+        _!If I wanted to kill someone ,!_
+        _!I could have . <s>!_))
+    _!I were n't trying to kill nobody . <s>!_)
+  (Evaluation[N][S]
+    (Attribution[N][S]
+      _!They was n't no hostages ,!_
+      _!young folk scared . <s>!_)
+    (Explanation[N][S]
+      (Attribution[S][N]
+        (Attribution[N][S] _!You see the man ,!_ _!he made!_)
+        _!them testify . <s>!_)
+      (Elaboration[N][S]
+        (Elaboration[N][S]
+          _!Them folk going to jail!_
+          (Joint[N][N]
+            _!do n't come here!_
+            _!and say nothing on me . <s>!_))
+        (Elaboration[N][S]
+          (Explanation[N][S]
+            _!Oh I ai n't just mad at them!_
+            _!because I can understand you . <s>!_)
+          (Elaboration[N][S]
+            _!They scared . <s>!_
+            (Explanation[N][S]
+              _!And it should n't have to be like that . <s>!_
+              (Elaboration[N][S]
+                _!But people like that make them like that . <s>!_
+                (Elaboration[N][S]
+                  (Elaboration[N][S]
+                    _!You see he make [ ?!_
+                    _!] he [ ? ] . <s>!_)
+                  (Elaboration[N][S]
+                    _!You gone make me testify . <s>!_
+                    _!Made him do it . <P>!_))))))))))

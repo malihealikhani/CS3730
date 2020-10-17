@@ -1,0 +1,15 @@
+(Explanation[N][S]
+  _!I do . <s>!_
+  (Elaboration[N][S]
+    (Joint[N][N]
+      (Attribution[S][N] _!I was ,!_ _!uh ... in the office ,!_)
+      (Elaboration[N][S]
+        _!and I got a call ... uh , maybe ...!_
+        _!close to nine o ' clock , I do n't remember , somewhere between eight and nine , from Rusty . <s>!_))
+    (Joint[N][N]
+      (Attribution[N][S]
+        _!So he walked over to that spot ,!_
+        _!it 's near our air conditioners ,!_)
+      (Attribution[S][N]
+        _!and he said!_
+        _!that there was a man lying face-down on the ground . <P>!_))))

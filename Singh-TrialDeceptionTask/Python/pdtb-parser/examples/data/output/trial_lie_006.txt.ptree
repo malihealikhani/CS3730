@@ -1,0 +1,81 @@
+(ROOT
+  (S
+    (INTJ (UH No))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD did) (RB n't))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ last) (NN time))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBD saw)
+            (SBAR
+              (S
+                (NP (PRP her))
+                (VP (VBD was)
+                  (SBAR
+                    (WHADVP (WRB whenever))
+                    (S
+                      (NP (PRP they))
+                      (VP (VBD fell) (, ,)
+                        (SBAR
+                          (WHADVP (WRB whenever))
+                          (S
+                            (NP (PRP I))
+                            (VP (VBD came)
+                              (PRT (RP out))
+                              (NP (PRP she)))))))))))))))
+    (VP (VBD was)
+      (ADVP (RB already))
+      (PP (IN in)
+        (NP (DT the) (NN bathroom))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB never))
+    (VP (VBD saw)
+      (NP (PRP her))
+      (ADVP (RB ever)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB Whenever))
+      (S
+        (NP (PRP we))
+        (VP (VBD got)
+          (PP (TO to)
+            (NP (DT the) (NN boat)))
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (VBD was) (RB all)
+                (VP (VBN covered)
+                  (PRT (RP up)))))))))
+    (, ,)
+    (ADVP (RB honestly))
+    (NP (PRP I))
+    (VP (VBD did) (RB n't)
+      (ADVP (RB even))
+      (VP (VB know)
+        (SBAR
+          (S
+            (NP (EX there))
+            (VP (VBD was)
+              (NP (DT a) (JJ middle) (NN seat))
+              (SBAR (IN until)
+                (S
+                  (NP (PRP we))
+                  (VP (VBD saw)
+                    (NP (DT the) (NN boat))
+                    (NP (DT the) (JJ other) (NN day))))))))))
+    (. .)))
+

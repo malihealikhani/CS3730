@@ -1,0 +1,83 @@
+(ROOT
+  (S
+    (NP
+      (NP (CD Five))
+      (PP (IN of)
+        (NP (DT the) (NNS items))))
+    (VP
+      (VP (VBD had))
+      (: ...)
+      (VP (VBD were)
+        (VP
+          (ADVP (RB first))
+          (VBN taken)
+          (PP (IN through)
+            (NP (DT the) (JJ serology) (NN process)))))
+      (, ,)
+      (SBAR (IN because)
+        (S
+          (NP (PRP they))
+          (VP (VBD needed)
+            (S
+              (VP (TO to)
+                (VP (VB determine)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (NP
+                        (NP (NN type))
+                        (PP (IN of)
+                          (NP (NNP DNA))))
+                      (VP (VBZ is)
+                        (ADJP (JJ present))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN reason) (NN being))
+      (VP (VBZ is)
+        (SBAR (IN if)
+          (S
+            (NP (NN sperm) (NNS cells))
+            (VP (VBP are)
+              (VP (VBN identified)))))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB take)
+            (NP (PRP them))
+            (PP (IN through)
+              (NP (DT a) (NN process)))
+            (SBAR
+              (WHADVP (WRB where))
+              (S
+                (NP
+                  (NP (PRP we))
+                  (ADVP (RB then)))
+                (: ...)
+                (NP (PRP we))
+                (VP (VBP call)
+                  (S
+                    (NP (PRP it))
+                    (NP
+                      (NP (DT a) (NN differential) (NN separation))
+                      (SBAR
+                        (WHADVP (WRB where))
+                        (S
+                          (NP (PRP we))
+                          (VP (VBP are)
+                            (VP (VBG trying)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB separate)
+                                    (NP (DT the) (NN sperm) (NNS cells))
+                                    (PP (IN from)
+                                      (NP
+                                        (NP (DT all))
+                                        (PP (IN of)
+                                          (NP (DT the) (JJ epithelial) (NNS cells)))))))))))))))))))))
+    (. .)))
+

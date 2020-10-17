@@ -1,0 +1,81 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (PP (IN under)
+        (NP (DT the) (NN assumption)))
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's)
+            (ADVP (JJ long) (NN time) (IN ago))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD did) (RB n't)
+      (VP (VB know)
+        (SBAR (IN if)
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (ADVP
+                (ADVP
+                  (NP (CD six) (NNS months))
+                  (RB ago))
+                (CC or)
+                (ADVP
+                  (NP (CD two) (NNS years))
+                  (RB ago))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB really))
+    (VP (VBD did) (RB n't)
+      (VP (VB know)))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (ADVP (RB yeah))
+    (NP (PRP I))
+    (VP (VBD did) (RB n't)
+      (VP (VB try)
+        (S
+          (VP (TO to)
+            (VP (VB pry)
+              (ADVP (RB too) (RB much))
+              (PP (IN in)
+                (NP (DT that) (NN relationship))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (PRP I))
+    (VP (VBD felt)
+      (FRAG
+        (S
+          (SBAR
+            (SBAR (IN like)
+              (S
+                (NP (PRP it))
+                (VP (VBD was))))
+            (: ...)
+            (PRN
+              (FRAG
+                (ADVP (RB just)))))
+          (: ...)
+          (ADVP (RB yeah))
+          (NP (PRP I))
+          (VP (VBD did) (RB n't)
+            (VP (VB know)
+              (SBAR
+                (WHADVP (WRB how) (RB long))
+                (S
+                  (NP (PRP it))
+                  (VP (VBD was)))))))))
+    (. .)))
+

@@ -1,0 +1,19 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Attribution[S][N]
+      _!Ah , I do n't remember but evidently I , I!_
+      (Joint[N][N]
+        _!-- I tried to call Hemy ,!_
+        (Attribution[S][N]
+          _!probably to tell him!_
+          (Joint[N][N]
+            _!that I had left the office ,!_
+            (Attribution[S][N]
+              _!and that I w!_
+              _!-- that something had happened . <s>!_)))))
+    _!Which seemed -- was a very normal thing for me to have done . <s>!_)
+  (same-unit[N][N]
+    (Elaboration[N][S]
+      _!Was to tell my boss!_
+      _!that I had left the office and something!_)
+    _!had happened to my husband . <P>!_))

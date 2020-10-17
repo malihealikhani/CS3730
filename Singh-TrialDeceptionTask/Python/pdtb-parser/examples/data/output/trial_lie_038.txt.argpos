@@ -1,0 +1,2 @@
+conn:but conn_POS:CC prev1:something prev1_POS:NN with_prev1_full:something_but with_prev1_POS_full:NN_CC prev2:say prev2_POS:VB with_prev2_full:say_but with_prev2_POS_full:VB_CC NA
+conn:but conn_POS:CC prev1:me prev1_POS:PRP with_prev1_full:me_but with_prev1_POS_full:PRP_CC prev2:off prev2_POS:IN with_prev2_full:off_but with_prev2_POS_full:IN_CC NA

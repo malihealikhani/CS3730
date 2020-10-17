@@ -1,0 +1,47 @@
+(ROOT
+  (FRAG
+    (PP (IN With)
+      (NP
+        (NP (DT the) (NN word) (`` `) (NN you) ('' '))
+        (PP (IN in)
+          (NP
+            (NP (NN front))
+            (PP (IN of)
+              (NP (PRP it)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S (IN So)
+      (NP (PRP I))
+      (VP (MD would)
+        (VP (VB assume)
+          (SBAR (IN that)
+            (S (`` `)
+              (NP (PRP you))
+              ('' ')
+              (VP (MD would)
+                (VP (VB be))))))))
+    (: ...)
+    (S
+      (SBAR (IN If)
+        (S
+          (NP (PRP I))
+          (VP (VBD said)
+            (NP (PRP you)))))
+      (, ,)
+      (NP (PRP you))
+      (VP (MD would)
+        (VP (VB say))))
+    (: -)
+    (S
+      (NP (PRP you))
+      (VP (MD would)
+        (VP (VB assume)
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (VBZ 's)
+                (NP (PRP you))))))))
+    (. .)))
+

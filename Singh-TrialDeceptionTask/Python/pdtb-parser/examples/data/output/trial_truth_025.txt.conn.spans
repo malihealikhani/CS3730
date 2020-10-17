@@ -1,0 +1,8 @@
+0..2 0 If trial_truth_025.txt 0
+118..121 1 and trial_truth_025.txt 0
+182..184 1 or trial_truth_025.txt 0
+215..222 2 Because trial_truth_025.txt 0
+248..251 2 and trial_truth_025.txt 0
+258..261 2 and trial_truth_025.txt 0
+317..320 2 and trial_truth_025.txt 0
+385..389 2 else trial_truth_025.txt 0

@@ -1,0 +1,15 @@
+(Elaboration[N][S]
+  (Attribution[N][S]
+    _!Either a barrel or a stick but certain , they are like ,!_
+    _!they are going to kill you . <s>!_)
+  (Elaboration[N][S]
+    _!I 'm at!_
+    (Attribution[S][N]
+      _!lost at justifing!_
+      (Elaboration[N][S]
+        _!what I did in a second valley!_
+        (Attribution[S][N]
+          _!other than saying!_
+          (Attribution[S][N]
+            _!that I thought!_
+            _!that they were shooting back . <P>!_))))))

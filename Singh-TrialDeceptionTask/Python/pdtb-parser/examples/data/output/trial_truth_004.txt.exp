@@ -1,0 +1,14 @@
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:then conn:then conn_POS:RB with_prev_full:and_then xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:then conn:then conn_POS:RB with_prev_full:and_then xxx£
+conn_lc:as conn:as conn_POS:IN with_prev_full:car_as xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£
+conn_lc:as conn:as conn_POS:IN with_prev_full:and_as xxx£
+conn_lc:if conn:if conn_POS:IN with_prev_full:house_if xxx£
+conn_lc:so conn:So conn_POS:CC xxx£
+conn_lc:and conn:and conn_POS:CC with_prev_full:,_and xxx£

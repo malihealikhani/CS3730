@@ -1,0 +1,34 @@
+(ROOT
+  (NP
+    (NP (NN None))
+    (PP (IN of)
+      (NP (PRP us)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP 're)
+      (ADVP (RB out))
+      (ADVP (RB there))
+      (, ,)
+      (S
+        (VP (VBG looking)
+          (PP (IN for)
+            (NP
+              (NP (CD three) (NNS people))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBD were)
+                    (ADVP (RB just))
+                    (VP (VBN involved)
+                      (PP (IN in)
+                        (NP
+                          (NP (DT a) (JJ uh) (NN shooting))
+                          (PP (IN of)
+                            (NP (DT another) (CD three) (NNS individuals)))))
+                      (PP (RB out) (IN on)
+                        (NP (DT a) (NN street) (NN corner))))))))))))
+    (. .)))
+

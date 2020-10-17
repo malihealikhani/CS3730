@@ -1,0 +1,25 @@
+(Elaboration[N][S]
+  (Cause[N][S]
+    (Attribution[S][N] _!And she told me!_ _!she was ,!_)
+    _!as well . <s>!_)
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      (Background[S][N]
+        (Background[N][S] _!I did!_ _!when I finally it was ,!_)
+        (Cause[N][S]
+          _!it was still dark!_
+          _!so I finally shown my flashlight at her . <s>!_))
+      (Joint[N][N]
+        (Attribution[S][N]
+          _!Um , cause she had mentioned!_
+          _!that she 'd been shot in the head!_)
+        (Attribution[S][N]
+          _!and I could tell!_
+          _!that her hair was soaked in blood . <s>!_)))
+    (Joint[N][N]
+      _!Um , at least one other officer , ah , arrived with me on Butterfly Creek . <s>!_
+      (same-unit[N][N]
+        _!And then ah ,!_
+        (Attribution[S][N]
+          _!once we figured out!_
+          _!that the actual incident happened on Bernardino the rest of the officers , ah , went to that residence . <P>!_)))))

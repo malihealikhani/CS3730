@@ -1,0 +1,25 @@
+(Contrast[N][N]
+  (Elaboration[N][S]
+    (same-unit[N][N]
+      (Joint[N][N]
+        (Attribution[S][N]
+          _!I mean ,!_
+          (Elaboration[N][S]
+            _!it pops right upon the screen!_
+            (Attribution[S][N] _!if you got!_ _!you gmail open .!_)))
+        _!and so somebody says ,!_)
+      _!you know , hi , pops right up and , you can reply!_)
+    (Elaboration[N][S]
+      _!and you can also carry on the conversation!_
+      _!while you are doing other things . <s>!_))
+  (Elaboration[N][S]
+    (Attribution[S][N]
+      _!But I mean!_
+      (Elaboration[N][S]
+        _!it 's kind of like a text message back and forth!_
+        (Elaboration[N][S]
+          _!that 's immediate you both!_
+          _!responding right away . <s>!_)))
+    (Elaboration[N][S]
+      _!And sometimes you are even responding the things!_
+      _!that 2 or 3 questions away , you know . <P>!_)))

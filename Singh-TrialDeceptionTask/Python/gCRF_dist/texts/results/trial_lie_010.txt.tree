@@ -1,0 +1,25 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      (Elaboration[N][S]
+        _!I have no idea . <s>!_
+        (Elaboration[N][S]
+          _!Uh , I was at work!_
+          _!so I was presumably doing work things . <s>!_))
+      (Attribution[S][N]
+        (Attribution[S][N] _!I 'm s-sure!_ _!it was!_)
+        _!-- nope . <s>!_))
+    (Explanation[N][S]
+      (Attribution[S][N] _!I 'm sure!_ _!it was work related . <s>!_)
+      (Elaboration[N][S]
+        (Attribution[S][N]
+          _!There 's ...!_
+          (Elaboration[N][S]
+            _!it does seem coincidental!_
+            (Attribution[S][N]
+              _!but I 'm sure!_
+              (Elaboration[N][S]
+                _!that there was something else going on!_
+                _!that I had to call him about . <s>!_))))
+        _!I talk to him frequently about work matters . <s>!_)))
+  _!There 's ... <P>!_)

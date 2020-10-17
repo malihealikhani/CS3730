@@ -1,0 +1,17 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    _!My name is Marvin L. Anderson um ...!_
+    _!and I was born in Genova , Virginia . <s>!_)
+  (Elaboration[N][S]
+    _!Um ... <s>!_
+    (Elaboration[N][S]
+      (Joint[N][N]
+        _!In 1982 I went to trial!_
+        _!and was convicted for two counts of rape , sodomy , robery and abduction . <s>!_)
+      (textual-organization[N][N]
+        _!Um ... <s>!_
+        (Elaboration[N][S]
+          _!I was sentenced to this total sentence of two hundred and ten years . <s>!_
+          (Temporal[N][S]
+            _!I spent 15 years in prision and five years on parole!_
+            _!before I was exonerated in two thousand . <P>!_))))))

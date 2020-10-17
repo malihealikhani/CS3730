@@ -1,0 +1,3 @@
+conn:while conn_POS:IN prev1:was prev1_POS:VBD with_prev1_full:was_while with_prev1_POS_full:VBD_IN prev2:It prev2_POS:PRP with_prev2_full:It_while with_prev2_POS_full:PRP_IN NA
+conn:but conn_POS:IN prev1:back prev1_POS:RB with_prev1_full:back_but with_prev1_POS_full:RB_IN prev2:while prev2_POS:IN with_prev2_full:while_but with_prev2_POS_full:IN_IN NA
+conn:when conn_POS:WRB prev1:'s prev1_POS:VBZ with_prev1_full:'s_when with_prev1_POS_full:VBZ_WRB prev2:that prev2_POS:WDT with_prev2_full:that_when with_prev2_POS_full:WDT_WRB NA

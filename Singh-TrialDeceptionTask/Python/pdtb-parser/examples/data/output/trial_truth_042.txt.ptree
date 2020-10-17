@@ -1,0 +1,108 @@
+(ROOT
+  (S
+    (S
+      (SBAR (IN As)
+        (S (, ,)
+          (SBAR (IN from)
+            (FRAG
+              (X (WP what))
+              (NP (PRP$ my) (NN recollection))))
+          (, ,)
+          (VP (VBZ is)
+            (NP (PRP I)))))
+      (VP (VBD saw)
+        (S
+          (NP (PRP him))
+          (VP (VB pull)
+            (PRT (RP out))
+            (NP (DT the) (CD two) (NNS knives))))))
+    (CC and)
+    (RB then)
+    (S
+      (NP (PRP they))
+      (VP (VBP go)
+        (ADVP (RB back))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (VP (VBG going)
+        (PRT (RP down))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP
+      (NP (DT all))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (MD can)
+            (VP (VB see)))))
+      (SBAR
+        (S
+          (VP (VBZ is)
+            (ADVP (RB basically))
+            (PP (IN from)
+              (NP (PRP$ my) (NN vantage) (NN point)))))))
+    (VP (VBZ is)
+      (NP
+        (NP (PRP$ his) (NNS feet))
+        (SBAR
+          (S
+            (VP (VBZ is)
+              (ADVP (RB just))
+              (VP (VBG turning)
+                (PP (IN into)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (VP (VBZ appears)
+                        (S
+                          (VP (TO to)
+                            (VP (VB be)
+                              (ADVP (RB possibly))
+                              (PP (TO to)
+                                (NP
+                                  (NP (DT the))
+                                  (PP (TO to)
+                                    (NP (DT the) (JJ east))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP I))
+      (SBAR
+        (WHPP (IN at)
+          (WHNP (WDT that) (NN point)))
+        (S
+          (S
+            (NP (PRP I))
+            (VP
+              (ADVP (RB just))
+              (VBG looking)
+              (PP (IN at)
+                (NP (PRP$ his) (NNS feet)))))
+          (IN so)
+          (S
+            (NP (PRP I))
+            (VP (VBP 'm)
+              (VP (VBG assuming)
+                (NP (PRP he))))))))
+    (VP
+      (VP (VBD was)
+        (VP (VBG turning)))
+      (CC and)
+      (VP (VBD went)
+        (PRT (RP down))
+        (PP (TO to)
+          (NP (DT the) (NN ground)))))
+    (. .)))
+

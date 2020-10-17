@@ -1,0 +1,23 @@
+(Summary[N][S]
+  (Attribution[S][N]
+    _!He pushed!_
+    _!me and I was up in his face . <s>!_)
+  (Elaboration[N][S]
+    _!Definitely in his face . <s>!_
+    (Joint[N][N]
+      (same-unit[N][N]
+        _!Pushed me ,!_
+        (Contrast[S][N]
+          (Attribution[S][N]
+            _!I do n't know!_
+            _!if he did it on purpose!_)
+          _!but he scratched my neck . <s>!_))
+      (Joint[N][N]
+        _!And then he scratched my neck . <s>!_
+        (Joint[N][N]
+          (Attribution[S][N]
+            _!I had a err ...!_
+            (Explanation[N][S]
+              _!a rag t-shirt on anyway!_
+              _!because I 'd been taking care of my house . <s>!_))
+          _!And he tore my shirt . <P>!_)))))

@@ -1,0 +1,83 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (VP (VBN interviewed)
+          (PP (IN by)
+            (NP (NN police))))))
+    (, ,)
+    (NP (NNP Mathew) (NNP Hood))
+    (VP (VBD stated)
+      (SBAR (IN that)
+        (S
+          (NP (NNP Jamie) (NNP Hood))
+          (VP
+            (VP (VBD called)
+              (NP (PRP him)))
+            (CC and)
+            (VP (VBD asked)
+              (S
+                (NP (PRP him))
+                (VP (TO to)
+                  (VP (VB pick)
+                    (NP (PRP Him))
+                    (PRT (RP up))
+                    (PP (IN at)
+                      (NP (NNP Mc) (NNP Donald) (POS 's)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD did)
+      (ADVP (RB so)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Jamie))
+    (VP (VBD was)
+      (PP (IN at)
+        (NP (NNP Mc) (NNP Donald) (POS 's)))
+      (PP (IN with)
+        (NP (PRP$ his) (NNS parents))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Jamie))
+      (VP (VBD asked)
+        (S
+          (NP (NNP Mathew))
+          (VP (TO to)
+            (VP (VB take)
+              (NP (PRP him))
+              (PP (TO to)
+                (NP
+                  (NP (PRP$ his) (NNP cousins) (NNPS Tobarris) (POS 's))
+                  (NN house)
+                  (S
+                    (VP (TO to)
+                      (VP (VB change)))))))))))
+    (, ,)
+    (NP (NNP Mathew))
+    (VP (VBD did) (RB not)
+      (VP (VB know)
+        (SBARQ
+          (WHADVP (WRB why)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Mathew) (NNP Hood)
+      (CC and)
+      (NNP Jamie) (NNP Hood))
+    (VP (VBD left)
+      (SBAR
+        (S
+          (NP (DT the) (NNP Mc) (NNP Donald))
+          (VP (VBZ 's)))))
+    (. .)))
+

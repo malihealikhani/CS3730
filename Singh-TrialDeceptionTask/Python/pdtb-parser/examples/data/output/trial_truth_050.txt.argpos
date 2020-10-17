@@ -1,0 +1,2 @@
+conn:also conn_POS:RB prev1:were prev1_POS:VBD with_prev1_full:were_also with_prev1_POS_full:VBD_RB prev2:we prev2_POS:PRP with_prev2_full:we_also with_prev2_POS_full:PRP_RB NA
+conn:And conn_POS:CC sent_pos:0 NA

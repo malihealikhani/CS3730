@@ -1,0 +1,27 @@
+(textual-organization[N][N]
+  _!Mmm initially ... <s>!_
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      _!I 've never been on Twitter ,!_
+      _!I do n't even know what it looks like . <s>!_)
+    (Topic-Comment[N][N]
+      (Elaboration[N][S]
+        _!I just have heard about it through other people ,!_
+        _!reading about it in magazines ... <s>!_)
+      (Evaluation[N][S]
+        (Elaboration[N][S]
+          _!Um ... <s>!_
+          (Cause[N][S]
+            (Joint[N][N]
+              _!In 2009 somebody started a false Twitter account in my name!_
+              _!and began tweeting ,!_)
+            _!pretending they were me . <s>!_))
+        (Elaboration[N][S]
+          (Elaboration[N][S] _!So , I had that!_ _!shut down . <s>!_)
+          (Attribution[S][N]
+            _!Um and then it ...!_
+            (Elaboration[N][S]
+              _!it just became sort of ... an idea!_
+              (Joint[N][N]
+                _!that I thought of in February!_
+                _!and we decided to go for it . <P>!_))))))))

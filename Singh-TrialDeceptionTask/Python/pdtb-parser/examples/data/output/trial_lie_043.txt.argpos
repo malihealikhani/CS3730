@@ -1,0 +1,2 @@
+conn:and conn_POS:CC prev1:effect prev1_POS:NN with_prev1_full:effect_and with_prev1_POS_full:NN_CC prev2:instantaneous prev2_POS:JJ with_prev2_full:instantaneous_and with_prev2_POS_full:JJ_CC NA
+conn:And conn_POS:CC sent_pos:0 NA

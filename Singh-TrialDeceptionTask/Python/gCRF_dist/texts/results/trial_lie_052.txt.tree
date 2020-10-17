@@ -1,0 +1,31 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      (Explanation[N][S]
+        _!No , no . <s>!_
+        (Elaboration[N][S]
+          (Joint[N][N]
+            _!I did not!_
+            _!and I had absolutely nothing to do with her disappearance . <s>!_)
+          (Attribution[S][N]
+            _!And I 'm glad!_
+            _!that she did . <s>!_)))
+      _!I did . <s>!_)
+    _!I did . <s>!_)
+  (Elaboration[N][S]
+    (Background[N][S]
+      _!Um and then!_
+      _!when Laci disappeared , um , I called her immediately . <s>!_)
+    (Elaboration[N][S]
+      (Attribution[S][N]
+        _!It was n't immediately ,!_
+        (Elaboration[N][S]
+          _!it was a couple of days after Laci 's disappearance!_
+          (Joint[N][N]
+            _!that I telephoned her!_
+            _!and told her the truth . <s>!_)))
+      (Attribution[S][N]
+        _!That I was married ,!_
+        (Elaboration[N][S]
+          _!that Laci 's disappearance!_
+          _!she did n't know about it at that point . <P>!_)))))
